@@ -1,203 +1,9 @@
 {
   "head" : {
-    "vars" : [ "item", "itemLabel", "instance_of", "subclass_of", "type_of_initiative_tag" ]
+    "vars" : [ "item", "itemLabel", "instance_of", "subclass_of", "type_of_initiative_tag", "description" ]
   },
   "results" : {
     "bindings" : [ {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Fair trade"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "Koprades telpa"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Slobodan prostor/dijeljeni prostor"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q101"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "sustainable_mobility"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Inicijativa za održivu mobilnost"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q102"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "bicycle_selfrepair"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Biciklo samopopravljaone"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q103"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "bicycle_awareness"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "NVO za podizanje svijesti javnosti o biciklima"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q104"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "collective_energy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "lokalno kolektivno vlasništvo nad energijom"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q105"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "localcollective_ressources"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Lokalno kolektivno/zajedničko vlasništvo nad resursima"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q106"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "community_forestry"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Šuma zajednice"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q107"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_infraressources"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
-      }
-    }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q108"
@@ -324,28 +130,6 @@
         "xml:lang" : "hr",
         "type" : "literal",
         "value" : "Sklonište za beskućnike"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q113"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_socialinclusion"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo ( otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -500,28 +284,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q120"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q121"
       },
       "subclass_of" : {
@@ -570,7 +332,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
+        "value" : "http://base.transformap.co/entity/Q18"
       },
       "instance_of" : {
         "type" : "uri",
@@ -592,7 +354,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
+        "value" : "http://base.transformap.co/entity/Q16"
       },
       "instance_of" : {
         "type" : "uri",
@@ -675,11 +437,11 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q127"
+        "value" : "http://base.transformap.co/entity/Q128"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
+        "value" : "http://base.transformap.co/entity/Q33"
       },
       "instance_of" : {
         "type" : "uri",
@@ -687,12 +449,34 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "other_finance"
+        "value" : "directdemocracy"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Inicijativa direktne demokracije"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q129"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q33"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "consumerism_awareness"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Osvješćivanje potrošača"
       }
     }, {
       "item" : {
@@ -711,6 +495,138 @@
         "xml:lang" : "hr",
         "type" : "literal",
         "value" : "Infrastruktura i resursi"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q131"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "participatory_budgeting"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Sudjelujuća javna sredstva"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q132"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "citizen_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Vijeće građana"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q133"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "youth_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Vijeće mladih"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q135"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q35"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ngo"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "OCD-i/NVO-i"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q136"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q35"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "community_group"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Grupe zajednice"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q137"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q35"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "networking_initiative"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "inicijative umrežavanja"
       }
     }, {
       "item" : {
@@ -773,28 +689,6 @@
         "xml:lang" : "hr",
         "type" : "literal",
         "value" : "Društva uzajamne pomoći"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q142"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_mutualsociety"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -911,24 +805,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q21"
       },
       "subclass_of" : {
@@ -995,7 +871,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "http://base.transformap.co/entity/Q9"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1017,7 +893,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
+        "value" : "http://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1219,7 +1095,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "http://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1241,7 +1117,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "http://base.transformap.co/entity/Q21"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1285,7 +1161,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "http://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1307,7 +1183,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "http://base.transformap.co/entity/Q21"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1321,50 +1197,6 @@
         "xml:lang" : "hr",
         "type" : "literal",
         "value" : "Inicijative za očuvanje sjemenja"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q39"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "Samostalna berba"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Samostalna berba"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q40"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_growyourself"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo ( otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -1479,28 +1311,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q49"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_buylocal"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo ( otvorena kategorija)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q50"
       },
       "subclass_of" : {
@@ -1607,28 +1417,6 @@
         "xml:lang" : "hr",
         "type" : "literal",
         "value" : "Recikliranje otpada hrane"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q56"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_foodrescue"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -1809,28 +1597,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q66"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_foodedunpolicy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q68"
       },
       "subclass_of" : {
@@ -1937,28 +1703,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q73"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_fairtrade"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q74"
       },
       "subclass_of" : {
@@ -2003,28 +1747,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q76"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q29"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_wastereduction"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otovrena kategorija)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q77"
       },
       "subclass_of" : {
@@ -2043,376 +1765,6 @@
         "xml:lang" : "hr",
         "type" : "literal",
         "value" : "Prodaja rabljene odjeće/dobara"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Hrana i poljoprivreda"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q95"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "cohousing"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Zajedničko stanovanje"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q96"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "commune"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Komune"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q97"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ecovillage"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Eko  - selo"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q98"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "squatted_place"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Skvotanje"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q99"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_habitat"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q128"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "directdemocracy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Inicijativa direktne demokracije"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q129"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "consumerism_awareness"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Osvješćivanje potrošača"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q130"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_political"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q131"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "participatory_budgeting"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Sudjelujuća javna sredstva"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q132"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "citizen_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Vijeće građana"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q133"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "youth_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Vijeće mladih"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q134"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_participation"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q135"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ngo"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "OCD-i/NVO-i"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q136"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "community_group"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Grupe zajednice"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q137"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "networking_initiative"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "inicijative umrežavanja"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q138"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_communities"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -2527,28 +1879,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q83"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_sharing"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q84"
       },
       "subclass_of" : {
@@ -2615,24 +1945,20 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q87"
+        "value" : "http://base.transformap.co/entity/Q9"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q31"
+        "value" : "http://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_repair"
+        "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo ( otvorena kategorija)"
+        "value" : "Hrana i poljoprivreda"
       }
     }, {
       "item" : {
@@ -2703,7 +2029,181 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q95"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "cohousing"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Zajedničko stanovanje"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q96"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "commune"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Komune"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q97"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ecovillage"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Eko  - selo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q98"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "squatted_place"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Skvotanje"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q76"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za projekte i inicijative iz područja gospodarenja otpadom, vrijedni spomena ali ne spadaju u ponuđene kategorije."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q29"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_wastereduction"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otovrena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q83"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za projekte i inicijative iz područja dijeljena, koji su vrijedni spomena, ali još uvijek ne spadaju u ponuđene kategorije."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_sharing"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q87"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za projekte i inicijative iz područja popravaka, vrijedni spomena, a ne spadaju u već navedene kategorije"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q31"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_repair"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo ( otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q94"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za projekte i inicijative iz područja recikliranja i upcikliranja, koji su vrijedni spomena, ali još ne spadaju u druge navedene kategorije"
       },
       "subclass_of" : {
         "type" : "uri",
@@ -2716,6 +2216,646 @@
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "other_reupcycle"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q99"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "otvorena kategorija za projekte i inicijative iz područja stanovanja i življenja koji su vrijedni spomena ali još uvijek ne spadaju u druge navedene kategorije"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_habitat"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Fair Trade je društveni pokret za pomoć proizvođačima u razvojnim zemljama kako bi ostvarili bolje uvjete trgovanja i za promicanje održivosti. Fair trade zagovara (pravedne) cijene, kao i poboljšanje socijalnih i okolišnih standarda."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Fair trade"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q100"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Javni ili privatni prostor, otovren za javnost na temelju potpune otvorenosti ili na temelju članstva bez potrebe za konzumacijom."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "Koprades telpa"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Slobodan prostor/dijeljeni prostor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q101"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Održiva mobilnost odnosi se na širu temu prijevoza koji je održiv u smislu  povećane socijalne skrbi, u kombinaciji sa značajnim smanjenjem utjecaja na okoliš i klimatske promjene"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "sustainable_mobility"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Inicijativa za održivu mobilnost"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q102"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "obično organizirani na volonterskoj bazi, omogućavaju i osposobljavaju ljude da sami poprave bicikle. Obično ovakvi servisi svoje vrijednosi temelje na jednakosti za sve i politički su aktivni za prava biciklista i bolje uvjete bicikliranja."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "bicycle_selfrepair"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Biciklo samopopravljaone"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q103"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "osvješćivanje javnosti za bolje uvjete  za bicikliranje."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "bicycle_awareness"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "NVO za podizanje svijesti javnosti o biciklima"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q104"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Održiva proizvodnja energije, u nekoj vrsti zadružnog vlasništva, a u većini ga čine pojedinci, gdje svaki pojedinac posjeduje relativno malen udio ulaganja i na neki način se odnosi na lokaciju elektrane."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "collective_energy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "lokalno kolektivno vlasništvo nad energijom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q105"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Prirodni resursi, u vlasništvu neke zajednice ili većinskom vlasništvu pojedinaca, gdje svaki pojedinac ima relativno mali udio u ulaganju i u nekom obliku se odnosi na lokaciju resursa."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "localcollective_ressources"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Lokalno kolektivno/zajedničko vlasništvo nad resursima"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q106"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Šuma, u vlasništvu organizirane grupe ili lokalnih građana."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "community_forestry"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Šuma zajednice"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q107"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za infrastrukturu i resurse koji su vrijedni spominjanja ali ne spadaju u ponuđene kategorije"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_infraressources"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q113"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za projekte i inicijative iz područja društvenog uključivanja koji su vrijedni spomena, ali ne spadaju u ponuđene kategorije."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_socialinclusion"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo ( otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q120"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "otvorena kategorija za obrazovne projekte i inivcijative, koji su vrijedni spomena ali ne spadaju već ponuđenim kategorijama."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q127"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za projekte i inicijative iz financijskog sektora, vrijedni spomena, ali ne pripadaju ponuđenim kategorijama."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_finance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q130"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za projekte i inicijative u području političkog angažirranja, koji su vriejdni spomena, ali ne spadaju u navedene kategorije."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q33"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_political"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q134"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za projekte i inicijative sudjelovanja, koji su vrijedni spomena, ali ne spadaju u ponuđene kategorije."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_participation"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q138"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "otvorena kategorija za oblike zajednica, koji su vrijedni spominjanja, ali ne spadaju u već ponuđene kategorije."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q35"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_communities"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q142"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "otvorena kategorija za razne oblike zajedništva/, uzajamna društva koji su vrijedni spomena, ali ne spadaju u ponuđene kategorije"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q18"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_mutualsociety"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q20"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za projekte i inicijative, koji su vrijedni spomena, ali ne spadaju u ponuđene kategorije"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q39"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Farme posade i uzgoje plodove te ih nude ljudima, ali tako da ih oni sami moraju pobrat."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "Samostalna berba"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Samostalna berba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q40"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za projekte i inicijative iz područja posadi sam ili u društvu, koji su vrijedni spomena, ali ne spadaju u ponuđene kategorije"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_growyourself"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo ( otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q49"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "otvorena kategorija za projekte i inicijative fokusirani na kupovanje lokalne hrane, koji su vrijedni spomena, ali ne spadaju u ponuđene kategorije."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_buylocal"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo ( otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q56"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Otvorena kategorija za projekte i inicijative iz područja očuvanja hrane, koji su vrijedni spomena, ali ne spadaju u ponuđene kategorije"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_foodrescue"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q66"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "otvorena kategorija za projekte i inicijative iz područja politike hrane i obrazovanja, koji su vrijedni spomena, ali ne spadaju u ponuđene kategorije."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_foodedunpolicy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Drugo (otvorena kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q73"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "otvorena kategorija za proijekte i inicijative iz područja Fair Trade i Međunarodna suradnja, koji su vrijedni spoemna, ali ne spadaju u ponuđene kategorije"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_fairtrade"
       },
       "itemLabel" : {
         "xml:lang" : "hr",

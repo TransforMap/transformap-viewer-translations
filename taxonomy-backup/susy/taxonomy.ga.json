@@ -1,225 +1,9 @@
 {
   "head" : {
-    "vars" : [ "item", "itemLabel", "instance_of", "subclass_of", "type_of_initiative_tag" ]
+    "vars" : [ "item", "itemLabel", "instance_of", "subclass_of", "type_of_initiative_tag", "description" ]
   },
   "results" : {
     "bindings" : [ {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "trádáil chothrom"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "Koprades telpa"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Space Saor / Spás Roinnte"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q101"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "sustainable_mobility"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Tionscnamh um Shoghluaisteacht Inbhuanaithe"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q102"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "bicycle_selfrepair"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Féin Deisiúchán Rothar"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q103"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "bicycle_awareness"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Feasacht Rothar NGO"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q104"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "collective_energy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Úinéireacht Fuinnimh Áitiúla Comhchoiteann"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q105"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "localcollective_ressources"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Comhchoiteanna Ressource Úinéireacht áitiúil"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q106"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "community_forestry"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "foraoiseacht Chomhphobail"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q107"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_infraressources"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q108"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "socialinclusion_employment"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cuimsiú Sóisialta trí fhostaíocht"
-      }
-    }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q109"
@@ -324,28 +108,6 @@
         "xml:lang" : "ga",
         "type" : "literal",
         "value" : "Dídean do Dhaoine gan Dídean"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q113"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_socialinclusion"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -500,28 +262,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q120"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q121"
       },
       "subclass_of" : {
@@ -570,7 +310,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
+        "value" : "http://base.transformap.co/entity/Q18"
       },
       "instance_of" : {
         "type" : "uri",
@@ -592,7 +332,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
+        "value" : "http://base.transformap.co/entity/Q16"
       },
       "instance_of" : {
         "type" : "uri",
@@ -698,6 +438,50 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q128"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q33"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "directdemocracy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tionscnaimh Daonlathas Díreach"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q129"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q33"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "consumerism_awareness"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ardú Feasachta consumerism"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q13"
       },
       "subclass_of" : {
@@ -712,6 +496,138 @@
         "xml:lang" : "ga",
         "type" : "literal",
         "value" : "Bonneagar agus Acmhainní"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q131"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "participatory_budgeting"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cistí Poiblí Rannpháirtíochta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q132"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "citizen_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cistí Poiblí Rannpháirtíochta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q133"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "youth_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Comhairle na nÓg"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q135"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q35"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ngo"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "CSOanna / eagraíochtaí neamhrialtasacha"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q136"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q35"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "community_group"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Grúpaí Pobail"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q137"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q35"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "networking_initiative"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tionscnaimh líonrú"
       }
     }, {
       "item" : {
@@ -774,28 +690,6 @@
         "xml:lang" : "ga",
         "type" : "literal",
         "value" : "Frithpháirteach Cumainn Aid"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q142"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_mutualsociety"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile (catagóir oscailte)"
       }
     }, {
       "item" : {
@@ -912,24 +806,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q21"
       },
       "subclass_of" : {
@@ -996,7 +872,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "http://base.transformap.co/entity/Q9"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1018,7 +894,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
+        "value" : "http://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1220,7 +1096,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "http://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1242,7 +1118,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "http://base.transformap.co/entity/Q21"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1286,7 +1162,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "http://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1308,7 +1184,7 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "http://base.transformap.co/entity/Q21"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1344,28 +1220,6 @@
         "xml:lang" : "ga",
         "type" : "literal",
         "value" : "fómhar féin"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q40"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_growyourself"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -1480,28 +1334,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q49"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_buylocal"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q50"
       },
       "subclass_of" : {
@@ -1608,50 +1440,6 @@
         "xml:lang" : "ga",
         "type" : "literal",
         "value" : "dramhaíl bhia Athchúrsála"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q56"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_foodrescue"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q57"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agro_empowerment"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cumhachtú talmhaíochta"
       }
     }, {
       "item" : {
@@ -1810,28 +1598,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q66"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_foodedunpolicy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q68"
       },
       "subclass_of" : {
@@ -1938,28 +1704,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q73"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_fairtrade"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q74"
       },
       "subclass_of" : {
@@ -2004,28 +1748,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q76"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q29"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_wastereduction"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Other (open category)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q77"
       },
       "subclass_of" : {
@@ -2044,376 +1766,6 @@
         "xml:lang" : "ga",
         "type" : "literal",
         "value" : "Earraí Úsáidte Díolacháin"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Bia & Talmhaíocht"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q95"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "cohousing"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "tithíocht Co"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q96"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "commune"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "commune"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q97"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ecovillage"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "sráidbhaile Eco"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q98"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "squatted_place"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "squatting"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q99"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_habitat"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile (catagóir oscailte)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q128"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "directdemocracy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Tionscnaimh Daonlathas Díreach"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q129"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "consumerism_awareness"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ardú Feasachta consumerism"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q130"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_political"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q131"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "participatory_budgeting"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cistí Poiblí Rannpháirtíochta"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q132"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "citizen_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cistí Poiblí Rannpháirtíochta"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q133"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "youth_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Comhairle na nÓg"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q134"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_participation"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q135"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ngo"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "CSOanna / eagraíochtaí neamhrialtasacha"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q136"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "community_group"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Grúpaí Pobail"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q137"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "networking_initiative"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Tionscnaimh líonrú"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q138"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_communities"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile (catagóir oscailte)"
       }
     }, {
       "item" : {
@@ -2528,28 +1880,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q83"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other_sharing"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Eile (catagóir oscailte)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q84"
       },
       "subclass_of" : {
@@ -2637,6 +1967,24 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q9"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Bia & Talmhaíocht"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q91"
       },
       "subclass_of" : {
@@ -2703,7 +2051,560 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q95"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "cohousing"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "tithíocht Co"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q96"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "commune"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "commune"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q97"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ecovillage"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "sráidbhaile Eco"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Is trádáil chothrom gluaiseacht sóisialta chun cabhrú le táirgeoirí i dtíortha i mbéal forbartha a bhaint amach coinníollacha trádála níos fearr agus inbhuanaitheacht a chur chun cinn . Molann Trádála Fair airde ( díreach )"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "trádáil chothrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q100"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "spás poiblí nó príobháideach , atá ar oscailt don phobal ar bhoinn oscailte go hiomlán , nó ar bhoinn ballraíochta , gan an gá a consumation ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "Koprades telpa"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Space Saor / Spás Roinnte"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q101"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tagraíonn Soghluaisteacht inbhuanaithe don duine is ábhar forleathan an cineál iompair atá inbhuanaithe na céadfaí sochair shóisialta a mhéadú , mar aon leis an laghdú suntasach i thionchair chomhshaoil ​​agus aeráide ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "sustainable_mobility"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tionscnamh um Shoghluaisteacht Inbhuanaithe"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q102"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Siopa deisithe rothar , eagraithe de ghnáth ar bhoinn deonach , ar chumas agus cumasú daoine chun féin - dheisiú a n-rothair . Is minic na siopaí dheisiú bunaithe ar luachanna an chomhionannais agus atá freagrach go polaitiúil gníomhach."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "bicycle_selfrepair"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Féin Deisiúchán Rothar"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q103"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ardú feasachta ( roinnt eagraíochtaí a dhéanamh freisin stocaireacht ) do choinníollacha níos fearr do bicycling ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "bicycle_awareness"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Feasacht Rothar NGO"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q104"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "uinneamh inbhuanaithe, atá ar úinéireacht ag foirm comhchoiteann úinéireachta le tromlach na daoine aonair , i gcás ina gach duine cuid réasúnta beag den infheistíocht agus i bhfoirm éigin bhaineann le suíomh na stáisiúin chumhachta ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "collective_energy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Úinéireacht Fuinnimh Áitiúla Comhchoiteann"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q105"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "ressources Natural, atá faoi úinéireacht ag foirm comhchoiteann úinéireachta le tromlach na daoine aonair, i gcás ina gach duine cuid réasúnta beag den infheistíocht agus i bhfoirm éigin bhaineann le suíomh na ressource."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "localcollective_ressources"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Comhchoiteanna Ressource Úinéireacht áitiúil"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q106"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Forestland , is é sin faoi úinéireacht agus forested ag grúpa eagraithe de mhuintir na háite ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "community_forestry"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "foraoiseacht Chomhphobail"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q107"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscail um Bonneagar agus Ressources , atá fiú a lua , ach nach bhfuil oiriúnach go fóill sna catagóirí eile ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_infraressources"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile ( catagóir oscailte )"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q108"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Gan cur síos sainithe"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "socialinclusion_employment"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cuimsiú Sóisialta trí fhostaíocht"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q113"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail agus do thionscnaimh um Chuimsiú Sóisialta atá fiú a lua,nach bhfuil oiriúnach -catagóirí eile ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_socialinclusion"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile ( catagóir oscailte )"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q120"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail is do thionscnaimh Oideachas atá fiú a lua, ach nach bhfuil oiriúnach go fóill- catagóirí eile ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile ( catagóir oscailte )"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q56"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail Tarrthála Bia is tionscnaimh atá fiú a lua ach nach go fóill oiriúnach sna catagóirí eile."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_foodrescue"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile ( catagóir oscailte )"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q57"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tionscnaimh,a chuireann seirbhísí líonraithe,oideachais agus stocaireachta tháirgeoirí áitiúla a neartú agus a dhéanamh leo is a seasamh sóisialta sa chóras Soci - eacnamaíoch cumhacht ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agro_empowerment"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cumhachtú talmhaíochta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q66"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do Pholasaí Bia is tionscadail is tionscnaimh Oideachas atá fiú a lua ach nach bhfuil oiriúnach go fóill sna catagóirí eile ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_foodedunpolicy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile ( catagóir oscailte )"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q73"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail is do thionscnaimh i réimse na Cóir Trádála agus Chomhar Idirnáisiúnta atá fiú a lua ach nach bhfuil oiriúnach sna catagóirí eile ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_fairtrade"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile ( catagóir oscailte )"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q76"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail is do thionscnaimh Laghdú Dramhaíola atá fiú a lua ach nach bhfuil oiriúnach sna catagóirí eile ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q29"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_wastereduction"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Other (open category)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q83"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail is do thionscnaimh Roinnt, atá fiú a lua, ach nach oiriúnach sna catagóirí eile."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_sharing"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile (catagóir oscailte)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q94"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail is do thionscnaimh i réimse na Athchúrsáil is Upcycling, atá fiú a lua, ach nach bhfuil oiriúnach go fóill sna catagóirí eile."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -2721,6 +2622,240 @@
         "xml:lang" : "ga",
         "type" : "literal",
         "value" : "Eile (catagóir oscailte)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q99"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail is do thionscnaimh i réimse na Tithíochta is Gnáthóga, atá fiú a lua, ach nach go fóill oiriúnach sna catagóirí eile."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_habitat"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile (catagóir oscailte)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q130"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail is do thionscnaimh i réimse na Rannpháirtíochta Polaitiúil atá fiú a lua,nach sna catagóirí eile ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q33"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_political"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile ( catagóir oscailte )"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q134"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail agus do thionscnaimh Participation-, atá fiú a lua, ach nach go fóill oiriúnach sna catagóirí eile"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_participation"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile ( catagóir oscailte )"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q138"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte d'fhoirmeacha na bpobal, go bhfuil fiú a lua,ach nach sna catagóirí eile"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q35"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_communities"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile (catagóir oscailte)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q142"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do foirmeacha cumainn frithpháirteacha, atá fiú a lua, ach nach bhfuil oiriúnach go fóill sna catagóirí eile."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q18"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_mutualsociety"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile (catagóir oscailte)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q20"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail agus do thionscnaimh , atá fiú a lua , ach nach bhfuil oiriúnach go fóill sna catagóirí eile ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q40"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail agus do thionscnaimh i réimse na Grow sé Yourself agus chéile , atá fiú a lua , ach nach go fóill oiriúnach sna catagóirí eile ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_growyourself"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile ( catagóir oscailte )"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q49"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "catagóir Oscailte do thionscadail agus do thionscnaimh leis an bhfócas a cheannach bia áitiúil atá fiú a lua ach nach sna catagóirí eile"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_buylocal"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Eile ( catagóir oscailte )"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q98"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "squatted_place"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "squatting"
       }
     } ]
   }
