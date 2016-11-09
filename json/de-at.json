@@ -1,14 +1,16 @@
 {
     "Enable Advanced Filter Mode": "Erweiterte Filter einschalten",
     "Disable Advanced Filter Mode": "Erweiterte Filter ausschalten",
-    "Address": "Adresse",
-    "Contact": "Kontakt",
+    "Address" : "Adresse",
+    "Contact" : "Kontakt",
     "Opening hours": "Öffnungszeiten",
     "Type of Initiative": "Art der Initiative",
-    "Reset filters": "Filter zuurücksetzen",
+    "Reset filters" : "Filter zurücksetzen",
     "Active Filters:": "Aktive Filter:",
     "Show map": "Zur Karte",
-    "Click any [+] to add a filter": "Klicke auf [+] für weitere Filter",
-    "Imprint": "Impressum",
-    "This website has been produced with the financial assistance of the European Union. The contents of this website are the sole responsibility of the SUSY initiative and can under no circumstances be regarded as reflecting the position of the European Union.": ""
+    "Check a box [ ] to add a filter" : "Checkbox anhaken für weitere Filter",
+    "Filters" : "",
+    "set Filters" : "",
+    "Imprint" : "Impressum",
+    "This website has been produced with the financial assistance of the European Union. The contents of this website are the sole responsibility of the SUSY initiative and can under no circumstances be regarded as reflecting the position of the European Union." : ""
 }
