@@ -23,29 +23,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "فضای آزاد/ فضای مشترک, فضای آزاد/ فضای مشترک"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "freespace"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "فضای آزاد/ فضای مشترک, فضای آزاد/ فضای مشترک"
+        "value" : "فضای آزاد/ فضای مشترک"
       }
     }, {
       "item" : {
@@ -67,7 +45,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "ابتکار تغییر پذیری توسعه پایدار, ابتکار تغییر پذیری توسعه پایدار"
+        "value" : "ابتکار تغییر پذیری توسعه پایدار"
       }
     }, {
       "item" : {
@@ -89,7 +67,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "تعمیر دوچرخه بوسیله خود شخص, تعمیر دوچرخه بوسیله خود شخص"
+        "value" : "تعمیر دوچرخه بوسیله خود شخص"
       }
     }, {
       "item" : {
@@ -111,7 +89,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سازمان های غیردولتی آگاهی دوچرخه, سازمان های غیردولتی آگاهی دوچرخه"
+        "value" : "سازمان های غیردولتی آگاهی دوچرخه"
       }
     }, {
       "item" : {
@@ -133,7 +111,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "انرژی مشترک محلی, انرژی مشترک محلی"
+        "value" : "انرژی مشترک محلی"
       }
     }, {
       "item" : {
@@ -155,7 +133,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "مالکیت منابع جمعی محلی, مالکیت منابع جمعی محلی"
+        "value" : "مالکیت منابع جمعی محلی"
       }
     }, {
       "item" : {
@@ -177,7 +155,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "جنگلبانی جامعه, جنگلبانی جامعه"
+        "value" : "جنگلبانی جامعه"
       }
     }, {
       "item" : {
@@ -199,7 +177,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -221,7 +199,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "طرح توانمندسازی, طرح توانمندسازی"
+        "value" : "طرح توانمندسازی"
       }
     }, {
       "item" : {
@@ -239,7 +217,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "کاهش، استفاده دوباره، تعمیر، بازیابی, کاهش، استفاده دوباره، تعمیر، بازیابی"
+        "value" : "کاهش، استفاده دوباره، تعمیر، بازیابی"
       }
     }, {
       "item" : {
@@ -261,7 +239,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "فروشگاه های اجتماعی (دسته جمعی), فروشگاه های اجتماعی (دسته جمعی)"
+        "value" : "فروشگاه های اجتماعی (دسته جمعی)"
       }
     }, {
       "item" : {
@@ -283,7 +261,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "پناهگاه (حمایت) بی خانمان ها, پناهگاه (حمایت) بی خانمان ها"
+        "value" : "پناهگاه (حمایت) بی خانمان ها"
       }
     }, {
       "item" : {
@@ -305,7 +283,29 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "همکاری"
       }
     }, {
       "item" : {
@@ -327,7 +327,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "آموزش کارآفرینی, آموزش کارآفرینی"
+        "value" : "آموزش کارآفرینی"
       }
     }, {
       "item" : {
@@ -349,7 +349,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "رشد تجارت اجتماعی, رشد تجارت اجتماعی"
+        "value" : "رشد تجارت اجتماعی"
       }
     }, {
       "item" : {
@@ -371,7 +371,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "آموزش همبستگی و توسعه پایدار, آموزش همبستگی و توسعه پایدار"
+        "value" : "آموزش همبستگی و توسعه پایدار"
       }
     }, {
       "item" : {
@@ -393,7 +393,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "تحقیقات همبستگی و توسعه پایدار, تحقیقات همبستگی و توسعه پایدار"
+        "value" : "تحقیقات همبستگی و توسعه پایدار"
       }
     }, {
       "item" : {
@@ -411,7 +411,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "خانه و محل سکونت (زیستگاه), خانه و محل سکونت (زیستگاه)"
+        "value" : "خانه و محل سکونت (زیستگاه)"
       }
     }, {
       "item" : {
@@ -433,7 +433,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -455,7 +455,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "بیمه مشترک, بیمه مشترک"
+        "value" : "بیمه مشترک"
       }
     }, {
       "item" : {
@@ -477,7 +477,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "بیمه مشترک, بیمه مشترک"
+        "value" : "بیمه مشترک"
       }
     }, {
       "item" : {
@@ -499,7 +499,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "ارتقاء مالی اخلاقی, ارتقاء مالی اخلاقی"
+        "value" : "ارتقاء مالی اخلاقی"
       }
     }, {
       "item" : {
@@ -521,7 +521,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "وام همبستگی, وام همبستگی"
+        "value" : "وام همبستگی"
       }
     }, {
       "item" : {
@@ -543,7 +543,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "بانکداری زمان, بانکداری زمان"
+        "value" : "بانکداری زمان"
       }
     }, {
       "item" : {
@@ -565,7 +565,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -587,7 +587,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "بالا بردن آگاهی مصرف کننده, بالا بردن آگاهی مصرف کننده"
+        "value" : "بالا بردن آگاهی مصرف کننده"
       }
     }, {
       "item" : {
@@ -605,7 +605,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "منابع و زیرساخت ها, منابع و زیرساخت ها"
+        "value" : "منابع و زیرساخت ها"
       }
     }, {
       "item" : {
@@ -627,7 +627,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -649,7 +649,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "انجمن شهروندان, انجمن شهروندان"
+        "value" : "انجمن شهروندان"
       }
     }, {
       "item" : {
@@ -671,7 +671,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "شورای جوانان, شورای جوانان"
+        "value" : "شورای جوانان"
       }
     }, {
       "item" : {
@@ -693,7 +693,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -715,7 +715,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سازمان های غیردولتی و سازمان های امنیت جمعی, سازمان های غیردولتی و سازمان های امنیت جمعی"
+        "value" : "سازمان های غیردولتی و سازمان های امنیت جمعی"
       }
     }, {
       "item" : {
@@ -737,7 +737,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "گروه های ارتباطی, گروه های ارتباطی"
+        "value" : "گروه های ارتباطی"
       }
     }, {
       "item" : {
@@ -759,7 +759,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "طرح های شبکه بندی, طرح های شبکه بندی"
+        "value" : "طرح های شبکه بندی"
       }
     }, {
       "item" : {
@@ -781,7 +781,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -799,7 +799,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "شمول اجتماعی, شمول اجتماعی"
+        "value" : "شمول اجتماعی"
       }
     }, {
       "item" : {
@@ -821,7 +821,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "هدف انجمن های مشترک, هدف انجمن های مشترک"
+        "value" : "هدف انجمن های مشترک"
       }
     }, {
       "item" : {
@@ -843,7 +843,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -865,29 +865,25 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "شرکای اقصاد منسجم و اجتماعی به عنوان دیدگاه گسترش برای توسعه پایدار (SSEDAS), شرکای اقصاد منسجم و اجتماعی به عنوان دیدگاه گسترش برای توسعه پایدار (SSEDAS)"
+        "value" : "شرکای اقصاد منسجم و اجتماعی به عنوان دیدگاه گسترش برای توسعه پایدار (SSEDAS)"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q143"
+        "value" : "http://base.transformap.co/entity/Q15"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "http://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ssedas_partner"
+        "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "شرکای اقصاد منسجم و اجتماعی به عنوان دیدگاه گسترش برای توسعه پایدار (SSEDAS), شرکای اقصاد منسجم و اجتماعی به عنوان دیدگاه گسترش برای توسعه پایدار (SSEDAS)"
+        "value" : "تحصیلات و فعالیت"
       }
     }, {
       "item" : {
@@ -905,7 +901,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "مالی, مالی"
+        "value" : "مالی"
       }
     }, {
       "item" : {
@@ -923,7 +919,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "شهروندان فعال, شهروندان فعال"
+        "value" : "شهروندان فعال"
       }
     }, {
       "item" : {
@@ -941,7 +937,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "روابط متقابل و تنظیم و تنسیق خود, روابط متقابل و تنظیم و تنسیق خود"
+        "value" : "روابط متقابل و تنظیم و تنسیق خود"
       }
     }, {
       "item" : {
@@ -959,7 +955,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "نقشه شبکه اعضای SUSY, نقشه شبکه اعضای SUSY"
+        "value" : "نقشه شبکه اعضای SUSY"
       }
     }, {
       "item" : {
@@ -977,7 +973,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -1012,7 +1008,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "خرید محلی, خرید محلی"
+        "value" : "خرید محلی"
       }
     }, {
       "item" : {
@@ -1030,7 +1026,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "نجات غذایی, نجات غذایی"
+        "value" : "نجات غذایی"
       }
     }, {
       "item" : {
@@ -1048,7 +1044,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "تحصیلات و سیاست, تحصیلات و سیاست"
+        "value" : "تحصیلات و سیاست"
       }
     }, {
       "item" : {
@@ -1066,7 +1062,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "کاهش, کاهش"
+        "value" : "کاهش"
       }
     }, {
       "item" : {
@@ -1084,7 +1080,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "تقسیم کردن و دوباره استفاده کردن, تقسیم کردن و دوباره استفاده کردن"
+        "value" : "تقسیم کردن و دوباره استفاده کردن"
       }
     }, {
       "item" : {
@@ -1102,7 +1098,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "تعمیرات, تعمیرات"
+        "value" : "تعمیرات"
       }
     }, {
       "item" : {
@@ -1120,7 +1116,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "بازیافت, بازیافت"
+        "value" : "بازیافت"
       }
     }, {
       "item" : {
@@ -1138,7 +1134,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "تعامل سیاسی, تعامل سیاسی"
+        "value" : "تعامل سیاسی"
       }
     }, {
       "item" : {
@@ -1156,7 +1152,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "مشارکت, مشارکت"
+        "value" : "مشارکت"
       }
     }, {
       "item" : {
@@ -1174,7 +1170,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "ارتباطات/ شبکه ارتباطی, ارتباطات/ شبکه ارتباطی"
+        "value" : "ارتباطات/ شبکه ارتباطی"
       }
     }, {
       "item" : {
@@ -1196,29 +1192,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "برداشت محصول خود, برداشت محصول خود"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q39"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "self_harvest"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "برداشت محصول خود, برداشت محصول خود"
+        "value" : "برداشت محصول خود"
       }
     }, {
       "item" : {
@@ -1240,7 +1214,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -1262,7 +1236,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "خرید مستقیم مجازی, خرید مستقیم مجازی"
+        "value" : "خرید مستقیم مجازی"
       }
     }, {
       "item" : {
@@ -1284,7 +1258,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -1306,7 +1280,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "گروه های غذایی مشترک, گروه های غذایی مشترک"
+        "value" : "گروه های غذایی مشترک"
       }
     }, {
       "item" : {
@@ -1328,7 +1302,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "روش پخت نجات مواد غذایی, روش پخت نجات مواد غذایی"
+        "value" : "روش پخت نجات مواد غذایی"
       }
     }, {
       "item" : {
@@ -1350,7 +1324,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "بازیافت زباله های مواد غذایی, بازیافت زباله های مواد غذایی"
+        "value" : "بازیافت زباله های مواد غذایی"
       }
     }, {
       "item" : {
@@ -1372,7 +1346,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -1394,7 +1368,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "توانمندسازی کشاورزی, توانمندسازی کشاورزی"
+        "value" : "توانمندسازی کشاورزی"
       }
     }, {
       "item" : {
@@ -1416,7 +1390,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "شبکه توالی مزرعه, شبکه توالی مزرعه"
+        "value" : "شبکه توالی مزرعه"
       }
     }, {
       "item" : {
@@ -1438,7 +1412,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -1460,7 +1434,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "مدارس تجارت منصفانه, مدارس تجارت منصفانه"
+        "value" : "مدارس تجارت منصفانه"
       }
     }, {
       "item" : {
@@ -1471,10 +1445,6 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1482,7 +1452,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "شهرهای تجارت منصفانه, شهرهای تجارت منصفانه"
+        "value" : "شهرهای تجارت منصفانه"
       }
     }, {
       "item" : {
@@ -1504,7 +1474,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "عمده فروش های تجارت منصفانه, عمده فروش های تجارت منصفانه"
+        "value" : "عمده فروش های تجارت منصفانه"
       }
     }, {
       "item" : {
@@ -1526,7 +1496,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "تجارت مستقیم, تجارت مستقیم"
+        "value" : "تجارت مستقیم"
       }
     }, {
       "item" : {
@@ -1548,7 +1518,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "گسترش همکاری, گسترش همکاری"
+        "value" : "گسترش همکاری"
       }
     }, {
       "item" : {
@@ -1570,7 +1540,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -1592,7 +1562,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "بالابردن آگاهی ها درباره زباله, بالابردن آگاهی ها درباره زباله"
+        "value" : "بالابردن آگاهی ها درباره زباله"
       }
     }, {
       "item" : {
@@ -1614,7 +1584,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "ابتکار عمل و مغازه های بدون بسته بندی, ابتکار عمل و مغازه های بدون بسته بندی"
+        "value" : "ابتکار عمل و مغازه های بدون بسته بندی"
       }
     }, {
       "item" : {
@@ -1636,7 +1606,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -1658,7 +1628,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "فروش کالاهای استفاده شده, فروش کالاهای استفاده شده"
+        "value" : "فروش کالاهای استفاده شده"
       }
     }, {
       "item" : {
@@ -1680,7 +1650,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سمساری, سمساری"
+        "value" : "سمساری"
       }
     }, {
       "item" : {
@@ -1702,7 +1672,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "اجاره پوشاک, اجاره پوشاک"
+        "value" : "اجاره پوشاک"
       }
     }, {
       "item" : {
@@ -1724,7 +1694,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "مرکز وام, مرکز وام"
+        "value" : "مرکز وام"
       }
     }, {
       "item" : {
@@ -1746,7 +1716,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -1768,7 +1738,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "تعمیر و نگهداری, تعمیر و نگهداری"
+        "value" : "تعمیر و نگهداری"
       }
     }, {
       "item" : {
@@ -1790,7 +1760,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "فروش دوباره یا تعمییر محصولات, فروش دوباره یا تعمییر محصولات"
+        "value" : "فروش دوباره یا تعمییر محصولات"
       }
     }, {
       "item" : {
@@ -1812,7 +1782,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -1830,7 +1800,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "غذا و کشاورزی, غذا و کشاورزی"
+        "value" : "غذا و کشاورزی"
       }
     }, {
       "item" : {
@@ -1852,7 +1822,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "بازیافت, بازیافت"
+        "value" : "بازیافت"
       }
     }, {
       "item" : {
@@ -1874,7 +1844,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "استفاده مجدد خلاق, استفاده مجدد خلاق"
+        "value" : "استفاده مجدد خلاق"
       }
     }, {
       "item" : {
@@ -1896,7 +1866,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "فن استفاده سازگار با محیط زیست, فن استفاده سازگار با محیط زیست"
+        "value" : "فن استفاده سازگار با محیط زیست"
       }
     }, {
       "item" : {
@@ -1918,7 +1888,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -1940,416 +1910,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "سایر موارد, سایر موارد"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q144"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q144"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q80"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "giveaway_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "مغازه های رایگان, مغازه های رایگان"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q82"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "swap_market"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "بازارهای مبادله پایاپای, بازارهای مبادله پایاپای"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q85"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q31"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "repair_cafe"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "کافه تعمیرات, کافه تعمیرات"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q95"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Cohousing"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "cohousing"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "هم خانه, هم خانه"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q96"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Commune"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "commune"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "اجتماع بزرگ از مردم, اجتماع بزرگ از مردم"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q97"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ecovillage"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "جوامعی با هدف دستیابی به توسعه پایدار محیط زیستی، اجتماعی و اقتصادی, جوامعی با هدف دستیابی به توسعه پایدار محیط زیستی، اجتماعی و اقتصادی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q98"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Squatting"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "squatted_place"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "اقامت در زمین یا ساختمان رها شده, اقامت در زمین یا ساختمان رها شده"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "مغازه های تجارت منصفانه, مغازه های تجارت منصفانه"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "امتیازات توزیع اشتراک مواد غذایی, امتیازات توزیع اشتراک مواد غذایی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "آموزش مطالعه فرآیندهای زیست محیطی, آموزش مطالعه فرآیندهای زیست محیطی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "انجمن های سیاست غذایی, انجمن های سیاست غذایی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "ابتکار حاکمیت مواد غذایی, ابتکار حاکمیت مواد غذایی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q62"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "باغ های مدرسه, باغ های مدرسه"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q65"
+        "value" : "سایر موارد"
       }
     }, {
       "item" : {
@@ -2371,29 +1932,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "تجارت بی طرفانه (منصفانه), تجارت بی طرفانه (منصفانه)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q188485"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "تجارت بی طرفانه (منصفانه), تجارت بی طرفانه (منصفانه)"
+        "value" : "تجارت بی طرفانه (منصفانه)"
       }
     }, {
       "item" : {
@@ -2419,7 +1958,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "گنجایش اجتماعی از طریق اشتغال, گنجایش اجتماعی از طریق اشتغال"
+        "value" : "گنجایش اجتماعی از طریق اشتغال"
       }
     }, {
       "item" : {
@@ -2445,33 +1984,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "بانک غذا, بانک غذا"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q869457"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "همکاری, همکاری"
+        "value" : "بانک غذا"
       }
     }, {
       "item" : {
@@ -2497,7 +2010,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "مراکز تجاری و رشد, مراکز تجاری و رشد"
+        "value" : "مراکز تجاری و رشد"
       }
     }, {
       "item" : {
@@ -2523,7 +2036,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "پول رایج اجتماع, پول رایج اجتماع"
+        "value" : "پول رایج اجتماع"
       }
     }, {
       "item" : {
@@ -2549,7 +2062,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "قرضه های کوچک, قرضه های کوچک"
+        "value" : "قرضه های کوچک"
       }
     }, {
       "item" : {
@@ -2575,7 +2088,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "طرح دموکراسی مستقیم, طرح دموکراسی مستقیم"
+        "value" : "طرح دموکراسی مستقیم"
       }
     }, {
       "item" : {
@@ -2601,7 +2114,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "وجوه مشارکتی عمومی, وجوه مشارکتی عمومی"
+        "value" : "وجوه مشارکتی عمومی"
       }
     }, {
       "item" : {
@@ -2627,29 +2140,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "هنر متقابل جوامع, هنر متقابل جوامع"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q8434"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "تحصیلات و فعالیت, تحصیلات و فعالیت"
+        "value" : "هنر متقابل جوامع"
       }
     }, {
       "item" : {
@@ -2675,7 +2166,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "باغ اجتماع, باغ اجتماع"
+        "value" : "باغ اجتماع"
       }
     }, {
       "item" : {
@@ -2701,7 +2192,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "شهر خوراکی, شهر خوراکی"
+        "value" : "شهر خوراکی"
       }
     }, {
       "item" : {
@@ -2727,7 +2218,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "انجمن های حمایت شده کشاورزی, انجمن های حمایت شده کشاورزی"
+        "value" : "انجمن های حمایت شده کشاورزی"
       }
     }, {
       "item" : {
@@ -2753,7 +2244,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "انجمن های حمایت شده کشاورزی, انجمن های حمایت شده کشاورزی"
+        "value" : "انجمن های حمایت شده کشاورزی"
       }
     }, {
       "item" : {
@@ -2779,7 +2270,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "چرخه خرید غذا, چرخه خرید غذا"
+        "value" : "چرخه خرید غذا"
       }
     }, {
       "item" : {
@@ -2805,7 +2296,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "چرخه خرید غذا, چرخه خرید غذا"
+        "value" : "چرخه خرید غذا"
       }
     }, {
       "item" : {
@@ -2856,7 +2347,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "طرح صرفه جویی دانه, طرح صرفه جویی دانه"
+        "value" : "طرح صرفه جویی دانه"
       }
     }, {
       "item" : {
@@ -2882,7 +2373,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "طرح صرفه جویی دانه, طرح صرفه جویی دانه"
+        "value" : "طرح صرفه جویی دانه"
       }
     }, {
       "item" : {
@@ -2908,7 +2399,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "فروشگاه مزرعه/ فروش مستقیم, فروشگاه مزرعه/ فروش مستقیم"
+        "value" : "فروشگاه مزرعه/ فروش مستقیم"
       }
     }, {
       "item" : {
@@ -2934,7 +2425,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "فروشگاه های مزارع محلی, فروشگاه های مزارع محلی"
+        "value" : "فروشگاه های مزارع محلی"
       }
     }, {
       "item" : {
@@ -2960,7 +2451,7 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "طرح جعبه سبزیجات, طرح جعبه سبزیجات"
+        "value" : "طرح جعبه سبزیجات"
       }
     }, {
       "item" : {
@@ -2986,7 +2477,395 @@
       "itemLabel" : {
         "xml:lang" : "fa",
         "type" : "literal",
-        "value" : "تعاونی غذا, تعاونی غذا"
+        "value" : "تعاونی غذا"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "مغازه های تجارت منصفانه"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "امتیازات توزیع اشتراک مواد غذایی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "آموزش مطالعه فرآیندهای زیست محیطی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "انجمن های سیاست غذایی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "ابتکار حاکمیت مواد غذایی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "http://base.transformap.co/entity/Q62"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "باغ های مدرسه"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "http://base.transformap.co/entity/Q65"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q80"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "giveaway_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "مغازه های رایگان"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q82"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "swap_market"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "بازارهای مبادله پایاپای"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q85"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q31"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "repair_cafe"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "کافه تعمیرات"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q95"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cohousing"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "cohousing"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "هم خانه"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q96"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Commune"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "commune"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "اجتماع بزرگ از مردم"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q97"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ecovillage"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "جوامعی با هدف دستیابی به توسعه پایدار محیط زیستی، اجتماعی و اقتصادی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q98"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Squatting"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "squatted_place"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "اقامت در زمین یا ساختمان رها شده"
       }
     } ]
   }

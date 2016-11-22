@@ -28,34 +28,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Free space / shared space, Free space / shared space"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
-      },
-      "description" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Public or private space, that is open to the public on full open bases, or on bases of membership, without the need to consumation."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "freespace"
-      },
-      "itemLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Free space / shared space, Free space / shared space"
+        "value" : "Free space / shared space"
       }
     }, {
       "item" : {
@@ -82,7 +55,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sustainable mobility initiative, Sustainable mobility initiative"
+        "value" : "Sustainable mobility initiative"
       }
     }, {
       "item" : {
@@ -109,7 +82,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bicycle self repair, Bicycle self repair"
+        "value" : "Bicycle self repair"
       }
     }, {
       "item" : {
@@ -136,7 +109,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bicycle awareness NGO, Bicycle awareness NGO"
+        "value" : "Bicycle awareness NGO"
       }
     }, {
       "item" : {
@@ -163,7 +136,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Local collective energy ownership, Local collective energy ownership"
+        "value" : "Local collective energy ownership"
       }
     }, {
       "item" : {
@@ -190,7 +163,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Local collective ressource ownership, Local collective ressource ownership"
+        "value" : "Local collective ressource ownership"
       }
     }, {
       "item" : {
@@ -217,7 +190,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Community forestry, Community forestry"
+        "value" : "Community forestry"
       }
     }, {
       "item" : {
@@ -244,7 +217,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -266,7 +239,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Social inclusion empowerment, Social inclusion empowerment"
+        "value" : "Social inclusion empowerment"
       }
     }, {
       "item" : {
@@ -284,7 +257,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Reduce, reuse, repair, recycle, Reduce, reuse, repair, recycle"
+        "value" : "Reduce, reuse, repair, recycle"
       }
     }, {
       "item" : {
@@ -306,7 +279,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Social shops (Social supermarket), Social shops (Social supermarket)"
+        "value" : "Social shops (Social supermarket)"
       }
     }, {
       "item" : {
@@ -328,7 +301,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Homeless shelter, Homeless shelter"
+        "value" : "Homeless shelter"
       }
     }, {
       "item" : {
@@ -355,7 +328,29 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Coworking"
       }
     }, {
       "item" : {
@@ -377,7 +372,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Entrepreneurship education, Entrepreneurship education"
+        "value" : "Entrepreneurship education"
       }
     }, {
       "item" : {
@@ -404,7 +399,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Social business incubator, Social business incubator"
+        "value" : "Social business incubator"
       }
     }, {
       "item" : {
@@ -426,7 +421,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sustainable & solidarity education, Sustainable & solidarity education"
+        "value" : "Sustainable & solidarity education"
       }
     }, {
       "item" : {
@@ -448,7 +443,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sustainable & solidarity research, Sustainable & solidarity research"
+        "value" : "Sustainable & solidarity research"
       }
     }, {
       "item" : {
@@ -466,7 +461,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Housing & habitat, Housing & habitat"
+        "value" : "Housing & habitat"
       }
     }, {
       "item" : {
@@ -493,7 +488,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -515,7 +510,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mutual insurance, Mutual insurance"
+        "value" : "Mutual insurance"
       }
     }, {
       "item" : {
@@ -537,7 +532,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mutual insurance, Mutual insurance"
+        "value" : "Mutual insurance"
       }
     }, {
       "item" : {
@@ -559,7 +554,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Promoting ethical financing, Promoting ethical financing"
+        "value" : "Promoting ethical financing"
       }
     }, {
       "item" : {
@@ -581,7 +576,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Solidarity lending, Solidarity lending"
+        "value" : "Solidarity lending"
       }
     }, {
       "item" : {
@@ -603,7 +598,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Time banking, Time banking"
+        "value" : "Time banking"
       }
     }, {
       "item" : {
@@ -630,7 +625,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -652,7 +647,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Consumerism Awareness Raising, Consumerism Awareness Raising"
+        "value" : "Consumerism Awareness Raising"
       }
     }, {
       "item" : {
@@ -670,7 +665,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Infrastructure & resources, Infrastructure & resources"
+        "value" : "Infrastructure & resources"
       }
     }, {
       "item" : {
@@ -697,7 +692,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -719,7 +714,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Citizen council, Citizen council"
+        "value" : "Citizen council"
       }
     }, {
       "item" : {
@@ -741,7 +736,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Youth council, Youth council"
+        "value" : "Youth council"
       }
     }, {
       "item" : {
@@ -768,7 +763,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -790,7 +785,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "CSO / NGO, CSO / NGO"
+        "value" : "CSO / NGO"
       }
     }, {
       "item" : {
@@ -812,7 +807,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Community group, Community group"
+        "value" : "Community group"
       }
     }, {
       "item" : {
@@ -834,7 +829,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Networking initiative, Networking initiative"
+        "value" : "Networking initiative"
       }
     }, {
       "item" : {
@@ -861,7 +856,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -879,7 +874,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Social inclusion, Social inclusion"
+        "value" : "Social inclusion"
       }
     }, {
       "item" : {
@@ -901,7 +896,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mutual societies aid, Mutual societies aid"
+        "value" : "Mutual societies aid"
       }
     }, {
       "item" : {
@@ -928,7 +923,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -950,29 +945,25 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "SSEDAS partners, SSEDAS partners"
+        "value" : "SSEDAS partners"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q143"
+        "value" : "http://base.transformap.co/entity/Q15"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "http://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ssedas_partner"
+        "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "SSEDAS partners, SSEDAS partners"
+        "value" : "Education & training"
       }
     }, {
       "item" : {
@@ -990,7 +981,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Finance, Finance"
+        "value" : "Finance"
       }
     }, {
       "item" : {
@@ -1008,7 +999,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Active citizenship, Active citizenship"
+        "value" : "Active citizenship"
       }
     }, {
       "item" : {
@@ -1026,7 +1017,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Self-Organization & mutuality, Self-Organization & mutuality"
+        "value" : "Self-Organization & mutuality"
       }
     }, {
       "item" : {
@@ -1044,7 +1035,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "SUSY-map partner network, SUSY-map partner network"
+        "value" : "SUSY-map partner network"
       }
     }, {
       "item" : {
@@ -1067,7 +1058,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other, Other"
+        "value" : "Other"
       }
     }, {
       "item" : {
@@ -1085,7 +1076,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Grow it yourself & together, Grow it yourself & together"
+        "value" : "Grow it yourself & together"
       }
     }, {
       "item" : {
@@ -1103,7 +1094,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Buy local, Buy local"
+        "value" : "Buy local"
       }
     }, {
       "item" : {
@@ -1121,7 +1112,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Food rescue, Food rescue"
+        "value" : "Food rescue"
       }
     }, {
       "item" : {
@@ -1139,7 +1130,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Education & policy, Education & policy"
+        "value" : "Education & policy"
       }
     }, {
       "item" : {
@@ -1157,7 +1148,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Reduce, Reduce"
+        "value" : "Reduce"
       }
     }, {
       "item" : {
@@ -1175,7 +1166,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Share & reuse, Share & reuse"
+        "value" : "Share & reuse"
       }
     }, {
       "item" : {
@@ -1193,7 +1184,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Repair, Repair"
+        "value" : "Repair"
       }
     }, {
       "item" : {
@@ -1211,7 +1202,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Recycle & upcycle, Recycle & upcycle"
+        "value" : "Recycle & upcycle"
       }
     }, {
       "item" : {
@@ -1229,7 +1220,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Political engagement, Political engagement"
+        "value" : "Political engagement"
       }
     }, {
       "item" : {
@@ -1247,7 +1238,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Participation, Participation"
+        "value" : "Participation"
       }
     }, {
       "item" : {
@@ -1270,7 +1261,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Communities / networks, Communities / networks"
+        "value" : "Communities / networks"
       }
     }, {
       "item" : {
@@ -1297,34 +1288,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Self harvest, Self harvest"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q39"
-      },
-      "description" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Farms offering self harvest plots."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "self_harvest"
-      },
-      "itemLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Self harvest, Self harvest"
+        "value" : "Self harvest"
       }
     }, {
       "item" : {
@@ -1351,7 +1315,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -1373,7 +1337,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Virtual direct purchase, Virtual direct purchase"
+        "value" : "Virtual direct purchase"
       }
     }, {
       "item" : {
@@ -1400,7 +1364,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -1422,7 +1386,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Foodsharing group, Foodsharing group"
+        "value" : "Foodsharing group"
       }
     }, {
       "item" : {
@@ -1444,7 +1408,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Food rescue cuisine, Food rescue cuisine"
+        "value" : "Food rescue cuisine"
       }
     }, {
       "item" : {
@@ -1466,7 +1430,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Recycling food waste, Recycling food waste"
+        "value" : "Recycling food waste"
       }
     }, {
       "item" : {
@@ -1493,7 +1457,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -1520,7 +1484,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Agricultural empowerment, Agricultural empowerment"
+        "value" : "Agricultural empowerment"
       }
     }, {
       "item" : {
@@ -1542,7 +1506,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Farm succession network, Farm succession network"
+        "value" : "Farm succession network"
       }
     }, {
       "item" : {
@@ -1569,7 +1533,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -1591,7 +1555,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Fair trade school, Fair trade school"
+        "value" : "Fair trade school"
       }
     }, {
       "item" : {
@@ -1602,10 +1566,6 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1613,7 +1573,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Fair trade town, Fair trade town"
+        "value" : "Fair trade town"
       }
     }, {
       "item" : {
@@ -1635,7 +1595,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Fair trade wholesaler, Fair trade wholesaler"
+        "value" : "Fair trade wholesaler"
       }
     }, {
       "item" : {
@@ -1657,7 +1617,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Direct trade, Direct trade"
+        "value" : "Direct trade"
       }
     }, {
       "item" : {
@@ -1679,7 +1639,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Development cooperation, Development cooperation"
+        "value" : "Development cooperation"
       }
     }, {
       "item" : {
@@ -1706,7 +1666,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -1728,7 +1688,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Waste awareness raising, Waste awareness raising"
+        "value" : "Waste awareness raising"
       }
     }, {
       "item" : {
@@ -1750,7 +1710,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "No-packaging shops and initiatives, No-packaging shops and initiatives"
+        "value" : "No-packaging shops and initiatives"
       }
     }, {
       "item" : {
@@ -1777,7 +1737,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -1799,7 +1759,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Used goods sale, Used goods sale"
+        "value" : "Used goods sale"
       }
     }, {
       "item" : {
@@ -1821,7 +1781,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Flea market, Flea market"
+        "value" : "Flea market"
       }
     }, {
       "item" : {
@@ -1843,7 +1803,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Garment rental, Garment rental"
+        "value" : "Garment rental"
       }
     }, {
       "item" : {
@@ -1865,7 +1825,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lending central, Lending central"
+        "value" : "Lending central"
       }
     }, {
       "item" : {
@@ -1892,7 +1852,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -1914,7 +1874,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Maintenance and repair, Maintenance and repair"
+        "value" : "Maintenance and repair"
       }
     }, {
       "item" : {
@@ -1936,7 +1896,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Resell or repaired goods, Resell or repaired goods"
+        "value" : "Resell or repaired goods"
       }
     }, {
       "item" : {
@@ -1963,7 +1923,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -1981,7 +1941,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Food & agriculture, Food & agriculture"
+        "value" : "Food & agriculture"
       }
     }, {
       "item" : {
@@ -2003,7 +1963,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Recycling, Recycling"
+        "value" : "Recycling"
       }
     }, {
       "item" : {
@@ -2025,7 +1985,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Upcycling, Upcycling"
+        "value" : "Upcycling"
       }
     }, {
       "item" : {
@@ -2047,7 +2007,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Eco applied art, Eco applied art"
+        "value" : "Eco applied art"
       }
     }, {
       "item" : {
@@ -2074,7 +2034,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -2101,34 +2061,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Other (open category), Other (open category)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q144"
-      },
-      "description" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Open category for projects and initiatives where no existing type of initiative matches."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other"
-      },
-      "itemLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Other"
+        "value" : "Other (open category)"
       }
     }, {
       "item" : {
@@ -2154,7 +2087,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Give-away-shop, Give-away-shop"
+        "value" : "Give-away-shop"
       }
     }, {
       "item" : {
@@ -2180,7 +2113,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Swap market, Swap market"
+        "value" : "Swap market"
       }
     }, {
       "item" : {
@@ -2206,7 +2139,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Repair café, Repair café"
+        "value" : "Repair café"
       }
     }, {
       "item" : {
@@ -2237,7 +2170,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cohousing, Cohousing"
+        "value" : "Cohousing"
       }
     }, {
       "item" : {
@@ -2268,7 +2201,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Commune, Commune"
+        "value" : "Commune"
       }
     }, {
       "item" : {
@@ -2299,7 +2232,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ecovillage, Ecovillage"
+        "value" : "Ecovillage"
       }
     }, {
       "item" : {
@@ -2325,7 +2258,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Squatting, Squatting"
+        "value" : "Squatting"
       }
     }, {
       "item" : {
@@ -2352,34 +2285,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Fair trade, Fair trade"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q188485"
-      },
-      "description" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fair trade is a social movement to help producers in developing countries achieve better trading conditions and to promote sustainability. Fair Trade advocates higher (just) prices, as well as improved social and environmental standards."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fair trade, Fair trade"
+        "value" : "Fair trade"
       }
     }, {
       "item" : {
@@ -2410,7 +2316,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Social inclusion through employment, Social inclusion through employment"
+        "value" : "Social inclusion through employment"
       }
     }, {
       "item" : {
@@ -2436,33 +2342,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Foodbank, Foodbank"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q869457"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Coworking, Coworking"
+        "value" : "Foodbank"
       }
     }, {
       "item" : {
@@ -2493,7 +2373,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Enterprise centers & incubators, Enterprise centers & incubators"
+        "value" : "Enterprise centers & incubators"
       }
     }, {
       "item" : {
@@ -2524,7 +2404,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Community currency, Community currency"
+        "value" : "Community currency"
       }
     }, {
       "item" : {
@@ -2550,7 +2430,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Microfinance, Microfinance"
+        "value" : "Microfinance"
       }
     }, {
       "item" : {
@@ -2576,7 +2456,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Direct democracy initiative, Direct democracy initiative"
+        "value" : "Direct democracy initiative"
       }
     }, {
       "item" : {
@@ -2602,7 +2482,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Participatory public fund, Participatory public fund"
+        "value" : "Participatory public fund"
       }
     }, {
       "item" : {
@@ -2628,29 +2508,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mutual societies art, Mutual societies art"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q8434"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Education & training, Education & training"
+        "value" : "Mutual societies art"
       }
     }, {
       "item" : {
@@ -2681,7 +2539,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Community garden, Community garden"
+        "value" : "Community garden"
       }
     }, {
       "item" : {
@@ -2707,7 +2565,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Edible town / city, Edible town / city"
+        "value" : "Edible town / city"
       }
     }, {
       "item" : {
@@ -2733,7 +2591,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Community supported agriculture, Community supported agriculture"
+        "value" : "Community supported agriculture"
       }
     }, {
       "item" : {
@@ -2759,7 +2617,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Community supported agriculture, Community supported agriculture"
+        "value" : "Community supported agriculture"
       }
     }, {
       "item" : {
@@ -2790,7 +2648,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Food buying circle, Food buying circle"
+        "value" : "Food buying circle"
       }
     }, {
       "item" : {
@@ -2821,7 +2679,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Food buying circle, Food buying circle"
+        "value" : "Food buying circle"
       }
     }, {
       "item" : {
@@ -2852,7 +2710,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Guerilla gardening, Guerilla gardening"
+        "value" : "Guerilla gardening"
       }
     }, {
       "item" : {
@@ -2878,7 +2736,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Seed saving initiative, Seed saving initiative"
+        "value" : "Seed saving initiative"
       }
     }, {
       "item" : {
@@ -2904,7 +2762,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Seed saving initiative, Seed saving initiative"
+        "value" : "Seed saving initiative"
       }
     }, {
       "item" : {
@@ -2930,7 +2788,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Direct purchasing / Farm shop, Direct purchasing / Farm shop"
+        "value" : "Direct purchasing / Farm shop"
       }
     }, {
       "item" : {
@@ -2961,7 +2819,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Local farmers market, Local farmers market"
+        "value" : "Local farmers market"
       }
     }, {
       "item" : {
@@ -2992,7 +2850,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vegetable box scheme, Vegetable box scheme"
+        "value" : "Vegetable box scheme"
       }
     }, {
       "item" : {
@@ -3018,7 +2876,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Food cooperative, Food cooperative"
+        "value" : "Food cooperative"
       }
     }, {
       "item" : {
@@ -3044,7 +2902,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Fair trade shop, Fair trade shop"
+        "value" : "Fair trade shop"
       }
     }, {
       "item" : {
@@ -3070,7 +2928,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Foodsharing distribution point, Foodsharing distribution point"
+        "value" : "Foodsharing distribution point"
       }
     }, {
       "item" : {
@@ -3101,7 +2959,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Agro ecology education, Agro ecology education"
+        "value" : "Agro ecology education"
       }
     }, {
       "item" : {
@@ -3127,7 +2985,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Food policy council, Food policy council"
+        "value" : "Food policy council"
       }
     }, {
       "item" : {
@@ -3153,7 +3011,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Food sovereignity initiative, Food sovereignity initiative"
+        "value" : "Food sovereignity initiative"
       }
     }, {
       "item" : {
@@ -3179,7 +3037,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Permaculture education, Permaculture education"
+        "value" : "Permaculture education"
       }
     }, {
       "item" : {
@@ -3205,7 +3063,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "School garden, School garden"
+        "value" : "School garden"
       }
     }, {
       "item" : {
@@ -3231,7 +3089,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Slowfood, Slow Food"
+        "value" : "Slowfood"
       }
     } ]
   }

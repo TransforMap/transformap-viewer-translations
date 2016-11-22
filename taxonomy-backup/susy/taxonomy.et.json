@@ -23,29 +23,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Vaba ruum / jagatud ruum, Vaba ruum / jagatud ruum"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "freespace"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Vaba ruum / jagatud ruum, Vaba ruum / jagatud ruum"
+        "value" : "Vaba ruum / jagatud ruum"
       }
     }, {
       "item" : {
@@ -67,7 +45,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Jätkusuutliku liikumise algatus, Jätkusuutliku liikumise algatus"
+        "value" : "Jätkusuutliku liikumise algatus"
       }
     }, {
       "item" : {
@@ -89,7 +67,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Jalgrattaparandus, Jalgrattaparandus"
+        "value" : "Jalgrattaparandus"
       }
     }, {
       "item" : {
@@ -111,7 +89,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Jalgratta teadlikkuse MTÜ, Jalgratta teadlikkuse MTÜ"
+        "value" : "Jalgratta teadlikkuse MTÜ"
       }
     }, {
       "item" : {
@@ -133,7 +111,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Kohalik energiaomamise ühendus, Kohalik energiaomamise ühendus"
+        "value" : "Kohalik energiaomamise ühendus"
       }
     }, {
       "item" : {
@@ -155,7 +133,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Kohalik ressursiomamise ühendus, Kohalik ressursiomamise ühendus"
+        "value" : "Kohalik ressursiomamise ühendus"
       }
     }, {
       "item" : {
@@ -177,7 +155,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Metsanduse ühendus, Metsanduse ühendus"
+        "value" : "Metsanduse ühendus"
       }
     }, {
       "item" : {
@@ -199,7 +177,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -221,7 +199,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Sotsiaalne kaasamise mõjuvõim, Sotsiaalne kaasamise mõjuvõim"
+        "value" : "Sotsiaalne kaasamise mõjuvõim"
       }
     }, {
       "item" : {
@@ -239,7 +217,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Vähenda, korduvkasuta, paranda, taaskasuta, Vähenda, korduvkasuta, paranda, taaskasuta"
+        "value" : "Vähenda, korduvkasuta, paranda, taaskasuta"
       }
     }, {
       "item" : {
@@ -261,7 +239,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Sotsiaalsed poed (sotsiaalsed kaubakeskused), Sotsiaalsed poed (sotsiaalsed kaubakeskused)"
+        "value" : "Sotsiaalsed poed (sotsiaalsed kaubakeskused)"
       }
     }, {
       "item" : {
@@ -283,7 +261,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Kodutute varjupaik, Kodutute varjupaik"
+        "value" : "Kodutute varjupaik"
       }
     }, {
       "item" : {
@@ -305,7 +283,29 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Koos töötamine"
       }
     }, {
       "item" : {
@@ -327,7 +327,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Ettevõtluse alane haridus, Ettevõtluse alane haridus"
+        "value" : "Ettevõtluse alane haridus"
       }
     }, {
       "item" : {
@@ -349,7 +349,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Sotsiaalse ettevõtte inkubaator, Sotsiaalse ettevõtte inkubaator"
+        "value" : "Sotsiaalse ettevõtte inkubaator"
       }
     }, {
       "item" : {
@@ -371,7 +371,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Jätkusuutlikkuse ja solidaarsuse alane haridus, Jätkusuutlikkuse ja solidaarsuse alane haridus"
+        "value" : "Jätkusuutlikkuse ja solidaarsuse alane haridus"
       }
     }, {
       "item" : {
@@ -393,7 +393,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Jätkusuutlikkuse ja solidaarsuse alane uurimustöö, Jätkusuutlikkuse ja solidaarsuse alane uurimustöö"
+        "value" : "Jätkusuutlikkuse ja solidaarsuse alane uurimustöö"
       }
     }, {
       "item" : {
@@ -411,7 +411,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Majutus ja elupaik, Majutus ja elupaik"
+        "value" : "Majutus ja elupaik"
       }
     }, {
       "item" : {
@@ -433,7 +433,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -455,7 +455,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Ühine kindlustus, Ühine kindlustus"
+        "value" : "Ühine kindlustus"
       }
     }, {
       "item" : {
@@ -477,7 +477,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Ühine kindlustus, Ühine kindlustus"
+        "value" : "Ühine kindlustus"
       }
     }, {
       "item" : {
@@ -499,7 +499,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Eetilise rahastuse propageerimine, Eetilise rahastuse propageerimine"
+        "value" : "Eetilise rahastuse propageerimine"
       }
     }, {
       "item" : {
@@ -521,7 +521,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Solidaarne laenamine, Solidaarne laenamine"
+        "value" : "Solidaarne laenamine"
       }
     }, {
       "item" : {
@@ -543,7 +543,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Ajapank, Ajapank"
+        "value" : "Ajapank"
       }
     }, {
       "item" : {
@@ -565,7 +565,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -587,7 +587,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Teavitustöö tarbijaõiguse kohta, Teavitustöö tarbijaõiguse kohta"
+        "value" : "Teavitustöö tarbijaõiguse kohta"
       }
     }, {
       "item" : {
@@ -605,7 +605,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Infrastruktuur ja ressursid, Infrastruktuur ja ressursid"
+        "value" : "Infrastruktuur ja ressursid"
       }
     }, {
       "item" : {
@@ -627,7 +627,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -649,7 +649,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Kodanikuvolikogu, Kodanikuvolikogu"
+        "value" : "Kodanikuvolikogu"
       }
     }, {
       "item" : {
@@ -671,7 +671,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Noortevolikogu, Noortevolikogu"
+        "value" : "Noortevolikogu"
       }
     }, {
       "item" : {
@@ -693,7 +693,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -715,7 +715,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "MTÜ, MTÜ"
+        "value" : "MTÜ"
       }
     }, {
       "item" : {
@@ -737,7 +737,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Kogukonnaühendus, Kogukonnaühendus"
+        "value" : "Kogukonnaühendus"
       }
     }, {
       "item" : {
@@ -759,7 +759,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Võrgustiku algatus, Võrgustiku algatus"
+        "value" : "Võrgustiku algatus"
       }
     }, {
       "item" : {
@@ -781,7 +781,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -799,7 +799,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Sotsiaalne kaasamine, Sotsiaalne kaasamine"
+        "value" : "Sotsiaalne kaasamine"
       }
     }, {
       "item" : {
@@ -821,7 +821,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Vastastikuste ühingute abi, Vastastikuste ühingute abi"
+        "value" : "Vastastikuste ühingute abi"
       }
     }, {
       "item" : {
@@ -843,7 +843,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -865,29 +865,25 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "SSEDASi partnerid, SSEDASi partnerid"
+        "value" : "SSEDASi partnerid"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q143"
+        "value" : "http://base.transformap.co/entity/Q15"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "http://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ssedas_partner"
+        "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "SSEDASi partnerid, SSEDASi partnerid"
+        "value" : "Haridus ja väljaõpe"
       }
     }, {
       "item" : {
@@ -905,7 +901,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Rahandus, Rahandus"
+        "value" : "Rahandus"
       }
     }, {
       "item" : {
@@ -923,7 +919,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Aktiivne kodanlus, Aktiivne kodanlus"
+        "value" : "Aktiivne kodanlus"
       }
     }, {
       "item" : {
@@ -941,7 +937,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Iseorganiseerumine ja ühisus, Iseorganiseerumine ja ühisus"
+        "value" : "Iseorganiseerumine ja ühisus"
       }
     }, {
       "item" : {
@@ -959,7 +955,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "SUSY-kaardi partnervõrgustik, SUSY-kaardi partnervõrgustik"
+        "value" : "SUSY-kaardi partnervõrgustik"
       }
     }, {
       "item" : {
@@ -977,7 +973,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud, Muud"
+        "value" : "Muud"
       }
     }, {
       "item" : {
@@ -995,7 +991,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Kasvata see ise ja koos, Kasvata see ise ja koos"
+        "value" : "Kasvata see ise ja koos"
       }
     }, {
       "item" : {
@@ -1013,7 +1009,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Osta kohalikku, Osta kohalikku"
+        "value" : "Osta kohalikku"
       }
     }, {
       "item" : {
@@ -1031,7 +1027,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Toidupääste, Toidupääste"
+        "value" : "Toidupääste"
       }
     }, {
       "item" : {
@@ -1049,7 +1045,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Haridus ja poliitika, Haridus ja poliitika"
+        "value" : "Haridus ja poliitika"
       }
     }, {
       "item" : {
@@ -1067,7 +1063,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Vähenda, Vähenda"
+        "value" : "Vähenda"
       }
     }, {
       "item" : {
@@ -1085,7 +1081,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Jaga ja korduvkasuta, Jaga ja korduvkasuta"
+        "value" : "Jaga ja korduvkasuta"
       }
     }, {
       "item" : {
@@ -1103,7 +1099,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Paranda, Paranda"
+        "value" : "Paranda"
       }
     }, {
       "item" : {
@@ -1121,7 +1117,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Taaskasuta ja uuskasuta (upcycle), Taaskasuta ja uuskasuta (upcycle)"
+        "value" : "Taaskasuta ja uuskasuta (upcycle)"
       }
     }, {
       "item" : {
@@ -1139,7 +1135,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Poliitiline tegevus, Poliitiline tegevus"
+        "value" : "Poliitiline tegevus"
       }
     }, {
       "item" : {
@@ -1157,7 +1153,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Osavõtt, Osavõtt"
+        "value" : "Osavõtt"
       }
     }, {
       "item" : {
@@ -1175,7 +1171,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Kogukonnad / võrgustikud, Kogukonnad / võrgustikud"
+        "value" : "Kogukonnad / võrgustikud"
       }
     }, {
       "item" : {
@@ -1197,29 +1193,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Ise saagi korjamine (self harvest), Ise saagi korjamine (self harvest)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q39"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "self_harvest"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Ise saagi korjamine (self harvest), Ise saagi korjamine (self harvest)"
+        "value" : "Ise saagi korjamine (self harvest)"
       }
     }, {
       "item" : {
@@ -1241,7 +1215,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -1263,7 +1237,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Virtuaalne otseostmine, Virtuaalne otseostmine"
+        "value" : "Virtuaalne otseostmine"
       }
     }, {
       "item" : {
@@ -1285,7 +1259,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -1307,7 +1281,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Toidujagamise grupp, Toidujagamise grupp"
+        "value" : "Toidujagamise grupp"
       }
     }, {
       "item" : {
@@ -1329,7 +1303,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Toidupääste köök, Toidupääste köök"
+        "value" : "Toidupääste köök"
       }
     }, {
       "item" : {
@@ -1351,7 +1325,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Toidujäätmete taaskasutus, Toidujäätmete taaskasutus"
+        "value" : "Toidujäätmete taaskasutus"
       }
     }, {
       "item" : {
@@ -1373,7 +1347,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -1395,7 +1369,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Põllumajanduslik mõjuvõimsus, Põllumajanduslik mõjuvõimsus"
+        "value" : "Põllumajanduslik mõjuvõimsus"
       }
     }, {
       "item" : {
@@ -1417,7 +1391,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Farmi õigusjärgluse võrgustik, Farmi õigusjärgluse võrgustik"
+        "value" : "Farmi õigusjärgluse võrgustik"
       }
     }, {
       "item" : {
@@ -1439,7 +1413,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -1461,7 +1435,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Õiglase kaubanduse kool, Õiglase kaubanduse kool"
+        "value" : "Õiglase kaubanduse kool"
       }
     }, {
       "item" : {
@@ -1472,10 +1446,6 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1483,7 +1453,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Õiglase kaubanduse linn, Õiglase kaubanduse linn"
+        "value" : "Õiglase kaubanduse linn"
       }
     }, {
       "item" : {
@@ -1505,7 +1475,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Õiglase kaubanduse hulgimüüja, Õiglase kaubanduse hulgimüüja"
+        "value" : "Õiglase kaubanduse hulgimüüja"
       }
     }, {
       "item" : {
@@ -1527,7 +1497,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Otsekaubandus, Otsekaubandus"
+        "value" : "Otsekaubandus"
       }
     }, {
       "item" : {
@@ -1549,7 +1519,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Arengukoostöö, Arengukoostöö"
+        "value" : "Arengukoostöö"
       }
     }, {
       "item" : {
@@ -1571,7 +1541,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -1593,7 +1563,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Jäätmetealane teavitustöö, Jäätmetealane teavitustöö"
+        "value" : "Jäätmetealane teavitustöö"
       }
     }, {
       "item" : {
@@ -1615,7 +1585,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Pakendivabad poed ja algatused, Pakendivabad poed ja algatused"
+        "value" : "Pakendivabad poed ja algatused"
       }
     }, {
       "item" : {
@@ -1637,7 +1607,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -1659,7 +1629,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Kasutatud asjade müük, Kasutatud asjade müük"
+        "value" : "Kasutatud asjade müük"
       }
     }, {
       "item" : {
@@ -1681,7 +1651,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Kirbuturg, Kirbuturg"
+        "value" : "Kirbuturg"
       }
     }, {
       "item" : {
@@ -1703,7 +1673,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Rõivalaenutus, Rõivalaenutus"
+        "value" : "Rõivalaenutus"
       }
     }, {
       "item" : {
@@ -1725,7 +1695,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Laenamiskeskus, Laenamiskeskus"
+        "value" : "Laenamiskeskus"
       }
     }, {
       "item" : {
@@ -1747,7 +1717,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -1769,7 +1739,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Hoodus ja parandus, Hoodus ja parandus"
+        "value" : "Hoodus ja parandus"
       }
     }, {
       "item" : {
@@ -1791,7 +1761,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Parandatud toodete edasimüük, Parandatud toodete edasimüük"
+        "value" : "Parandatud toodete edasimüük"
       }
     }, {
       "item" : {
@@ -1813,7 +1783,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -1831,7 +1801,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Toit ja põllumajandus, Toit ja põllumajandus"
+        "value" : "Toit ja põllumajandus"
       }
     }, {
       "item" : {
@@ -1853,7 +1823,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Taaskasutus, Taaskasutus"
+        "value" : "Taaskasutus"
       }
     }, {
       "item" : {
@@ -1875,7 +1845,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Uuskasutus (upcycle), Uuskasutus (upcycle)"
+        "value" : "Uuskasutus (upcycle)"
       }
     }, {
       "item" : {
@@ -1897,7 +1867,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Ökotarbekunst, Ökotarbekunst"
+        "value" : "Ökotarbekunst"
       }
     }, {
       "item" : {
@@ -1919,7 +1889,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -1941,874 +1911,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Muud (avatud kategooria), Muud (avatud kategooria)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q144"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q144"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Õiglase kaubanduse pood, Õiglase kaubanduse pood"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toidujagamise jaotuspunkt, Toidujagamise jaotuspunkt"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Agro-ökoloogia haridus, Agro-ökoloogia haridus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toidupoliitika nõukogu, Toidupoliitika nõukogu"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toidu suveräänsuse algatus, Toidu suveräänsuse algatus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Permakultuuri haridus, Permakultuuri haridus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kooliaed, Kooliaed"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Aeglane toit, Aeglane toit"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Õiglane kaubandus, Õiglane kaubandus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q188485"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Õiglane kaubandus, Õiglane kaubandus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q108"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "socialinclusion_employment"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Sotsiaalne kaasamine läbi töö, Sotsiaalne kaasamine läbi töö"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q111"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodbank"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toidupank, Toidupank"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q869457"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Koos töötamine, Koos töötamine"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q115"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "business_incubators"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Ettevõtete keskused ja inkubaatorid, Ettevõtete keskused ja inkubaatorid"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q121"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitycurrency"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kogukonna valuuta, Kogukonna valuuta"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q122"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Microfinance"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "microfinance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Mikrorahastus, Mikrorahastus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q128"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "directdemocracy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Otsedemokraatia algatus, Otsedemokraatia algatus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q131"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "participatory_budgeting"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Osalusdemokraatia avalik fond, Osalusdemokraatia avalik fond"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q139"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutualsociety_art"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Vastastikuste ühingute kunst, Vastastikuste ühingute kunst"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q8434"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Haridus ja väljaõpe, Haridus ja väljaõpe"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q22"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "community_garden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kogukonna aed, Kogukonna aed"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q24"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "edible_town"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Söödav linn, Söödav linn"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Põllumajandus kogukonna toel, Põllumajandus kogukonna toel"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Põllumajandus kogukonna toel, Põllumajandus kogukonna toel"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toidu ostmise ring, Toidu ostmise ring"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toidu ostmise ring, Toidu ostmise ring"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q37"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "guerilla_garden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Gerilja-aiandus, Gerilja-aiandus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Seemnete säästmise algatus, Seemnete säästmise algatus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Seemnete säästmise algatus, Seemnete säästmise algatus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q41"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "farm_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Otsene ostmine / farmipood, Otsene ostmine / farmipood"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q44"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "local_farmersmarket"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Kohalik taluturg, Kohalik taluturg"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q45"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "vegetable_box"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Juurviljakasti skeem, Juurviljakasti skeem"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q48"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_cooperative"
-      },
-      "itemLabel" : {
-        "xml:lang" : "et",
-        "type" : "literal",
-        "value" : "Toidu ühisettevõte, Toidu ühisettevõte"
+        "value" : "Muud (avatud kategooria)"
       }
     }, {
       "item" : {
@@ -2834,7 +1937,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Give-away pood, Give-away pood"
+        "value" : "Give-away pood"
       }
     }, {
       "item" : {
@@ -2860,7 +1963,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Vahetusturg, Vahetusturg"
+        "value" : "Vahetusturg"
       }
     }, {
       "item" : {
@@ -2886,7 +1989,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Parandamise kohvik, Parandamise kohvik"
+        "value" : "Parandamise kohvik"
       }
     }, {
       "item" : {
@@ -2912,7 +2015,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Ühiselamine, Ühiselamine"
+        "value" : "Ühiselamine"
       }
     }, {
       "item" : {
@@ -2938,7 +2041,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Kommuun, Kommuun"
+        "value" : "Kommuun"
       }
     }, {
       "item" : {
@@ -2964,7 +2067,7 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Ökoküla, Ökoküla"
+        "value" : "Ökoküla"
       }
     }, {
       "item" : {
@@ -2990,7 +2093,783 @@
       "itemLabel" : {
         "xml:lang" : "et",
         "type" : "literal",
-        "value" : "Hõivamine, Hõivamine"
+        "value" : "Hõivamine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Õiglane kaubandus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q108"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "socialinclusion_employment"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Sotsiaalne kaasamine läbi töö"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q111"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodbank"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toidupank"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q115"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "business_incubators"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Ettevõtete keskused ja inkubaatorid"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q121"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitycurrency"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kogukonna valuuta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q122"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Microfinance"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "microfinance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Mikrorahastus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q128"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q33"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "directdemocracy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Otsedemokraatia algatus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q131"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "participatory_budgeting"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Osalusdemokraatia avalik fond"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q139"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q18"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutualsociety_art"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Vastastikuste ühingute kunst"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q22"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "community_garden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kogukonna aed"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q24"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "edible_town"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Söödav linn"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Põllumajandus kogukonna toel"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Põllumajandus kogukonna toel"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toidu ostmise ring"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toidu ostmise ring"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q37"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "guerilla_garden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Gerilja-aiandus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Seemnete säästmise algatus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Seemnete säästmise algatus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q41"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "farm_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Otsene ostmine / farmipood"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q44"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "local_farmersmarket"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kohalik taluturg"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q45"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "vegetable_box"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Juurviljakasti skeem"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q48"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_cooperative"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toidu ühisettevõte"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Õiglase kaubanduse pood"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toidujagamise jaotuspunkt"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Agro-ökoloogia haridus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toidupoliitika nõukogu"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Toidu suveräänsuse algatus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Permakultuuri haridus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Kooliaed"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "et",
+        "type" : "literal",
+        "value" : "Aeglane toit"
       }
     } ]
   }

@@ -28,34 +28,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Freiraum, Shared Space, Freiraum, Shared Space"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ist ein öffentlicher oder privater Raum der für all frei zugänglich ist und auf Basis von einer Mitgliedschaft genutzt werden kann. Es herrscht keine Konsumpflicht."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "freespace"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Freiraum, Shared Space, Freiraum, Shared Space"
+        "value" : "Freiraum, Shared Space"
       }
     }, {
       "item" : {
@@ -82,7 +55,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Nachhaltige Verkehrsinitiativen, Nachhaltige Verkehrsinitiativen"
+        "value" : "Nachhaltige Verkehrsinitiativen"
       }
     }, {
       "item" : {
@@ -109,7 +82,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Fahrrad-Selbsthilfewerkstatt, Fahrrad-Selbsthilfewerkstatt"
+        "value" : "Fahrrad-Selbsthilfewerkstatt"
       }
     }, {
       "item" : {
@@ -136,7 +109,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Fahrrad NGO, Fahrrad NGO"
+        "value" : "Fahrrad NGO"
       }
     }, {
       "item" : {
@@ -163,7 +136,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "BürgerInnenbeteiligungsanlagen, BürgerInnenbeteiligungsanlagen"
+        "value" : "BürgerInnenbeteiligungsanlagen"
       }
     }, {
       "item" : {
@@ -190,7 +163,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Gemeinschaftseigentum, Gemeinschaftseigentum"
+        "value" : "Gemeinschaftseigentum"
       }
     }, {
       "item" : {
@@ -217,7 +190,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Gemeinschaftswald, Gemeinschaftswald"
+        "value" : "Gemeinschaftswald"
       }
     }, {
       "item" : {
@@ -244,7 +217,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Infrastruktur und Ressourcen), Andere (Infrastruktur und Ressourcen)"
+        "value" : "Andere (Infrastruktur und Ressourcen)"
       }
     }, {
       "item" : {
@@ -271,7 +244,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Soziale Inklusion - Selbstermächtigung, Soziale Inklusion - Selbstermächtigung"
+        "value" : "Soziale Inklusion - Selbstermächtigung"
       }
     }, {
       "item" : {
@@ -289,7 +262,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Wiederverwenden, -benutzen, reparieren und reduzieren, Wiederverwenden, -benutzen, reparieren und reduzieren"
+        "value" : "Wiederverwenden, -benutzen, reparieren und reduzieren"
       }
     }, {
       "item" : {
@@ -316,7 +289,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Sozialmarkt, Sozialmarkt"
+        "value" : "Sozialmarkt"
       }
     }, {
       "item" : {
@@ -343,7 +316,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Notschlafstelle, Notschlafstelle"
+        "value" : "Notschlafstelle"
       }
     }, {
       "item" : {
@@ -370,7 +343,34 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Sozialprojekte), Andere (Sozialprojekte)"
+        "value" : "Andere (Sozialprojekte)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Coworking ist eine Arbeitsform, bei der Freiberufler, Kreative, kleinere Startups oder digitale Nomaden zugleich in meist größeren, offenen Räumen arbeiten und auf diese Weise voneinander profitieren können."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Co-working (Zusammenarbeit in \"freien Berufen\")"
       }
     }, {
       "item" : {
@@ -397,7 +397,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Entrepreneurship Bildungsmaßnahmen, Entrepreneurship Bildungsmaßnahmen"
+        "value" : "Entrepreneurship Bildungsmaßnahmen"
       }
     }, {
       "item" : {
@@ -424,7 +424,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Social business Inkubator, Social business Inkubator"
+        "value" : "Social business Inkubator"
       }
     }, {
       "item" : {
@@ -451,7 +451,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Bildung zu Nachhaltigkeit und Solidarität, Bildung zu Nachhaltigkeit und Solidarität"
+        "value" : "Bildung zu Nachhaltigkeit und Solidarität"
       }
     }, {
       "item" : {
@@ -478,7 +478,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Forschung zu Nachhaltigkeit und Solidarität, Forschung zu Nachhaltigkeit und Solidarität"
+        "value" : "Forschung zu Nachhaltigkeit und Solidarität"
       }
     }, {
       "item" : {
@@ -501,7 +501,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Wohnen und Lebensraum, Wohnen und Lebensraum"
+        "value" : "Wohnen und Lebensraum"
       }
     }, {
       "item" : {
@@ -528,7 +528,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Bildungsprojekte etc.), Andere (Bildungsprojekte etc.)"
+        "value" : "Andere (Bildungsprojekte etc.)"
       }
     }, {
       "item" : {
@@ -555,7 +555,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Gegenseitig-alternative Versicherungsmodelle, Gegenseitig-alternative Versicherungsmodelle"
+        "value" : "Gegenseitig-alternative Versicherungsmodelle"
       }
     }, {
       "item" : {
@@ -582,7 +582,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Gegenseitig-alternative Versicherungsmodelle, Gegenseitig-alternative Versicherungsmodelle"
+        "value" : "Gegenseitig-alternative Versicherungsmodelle"
       }
     }, {
       "item" : {
@@ -609,7 +609,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Förderung ethischer Finanzierungsmodelle, Förderung ethischer Finanzierungsmodelle"
+        "value" : "Förderung ethischer Finanzierungsmodelle"
       }
     }, {
       "item" : {
@@ -636,7 +636,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Solidarische Leihsysteme, Solidarische Leihsysteme"
+        "value" : "Solidarische Leihsysteme"
       }
     }, {
       "item" : {
@@ -663,7 +663,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Tauschkreise, Tauschkreise"
+        "value" : "Tauschkreise"
       }
     }, {
       "item" : {
@@ -690,7 +690,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Finanzen, Tausch, Geld), Andere (Finanzen, Tausch, Geld)"
+        "value" : "Andere (Finanzen, Tausch, Geld)"
       }
     }, {
       "item" : {
@@ -717,7 +717,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "KonsumentInnen-Bewusstseinsbildung, KonsumentInnen-Bewusstseinsbildung"
+        "value" : "KonsumentInnen-Bewusstseinsbildung"
       }
     }, {
       "item" : {
@@ -740,7 +740,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Infrastruktur und Ressourcen, Infrastruktur und Ressourcen"
+        "value" : "Infrastruktur und Ressourcen"
       }
     }, {
       "item" : {
@@ -767,7 +767,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Politische Initiativen), Andere (Politische Initiativen)"
+        "value" : "Andere (Politische Initiativen)"
       }
     }, {
       "item" : {
@@ -794,7 +794,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "BürgerInnenrat, BürgerInnenrat"
+        "value" : "BürgerInnenrat"
       }
     }, {
       "item" : {
@@ -821,7 +821,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Jugendrat, Jugendrat"
+        "value" : "Jugendrat"
       }
     }, {
       "item" : {
@@ -848,7 +848,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Partizipation, Mitsprache), Andere (Partizipation, Mitsprache)"
+        "value" : "Andere (Partizipation, Mitsprache)"
       }
     }, {
       "item" : {
@@ -875,7 +875,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "NGO, NGO"
+        "value" : "NGO"
       }
     }, {
       "item" : {
@@ -902,7 +902,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Gemeinschaftsinitiatve, Gemeinschaftsinitiatve"
+        "value" : "Gemeinschaftsinitiatve"
       }
     }, {
       "item" : {
@@ -929,7 +929,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Vernetzungsinitiative, Vernetzungsinitiative"
+        "value" : "Vernetzungsinitiative"
       }
     }, {
       "item" : {
@@ -956,7 +956,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Gemeinschaftsprojekte, Vernetzung), Andere (Gemeinschaftsprojekte, Vernetzung)"
+        "value" : "Andere (Gemeinschaftsprojekte, Vernetzung)"
       }
     }, {
       "item" : {
@@ -979,7 +979,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Soziale Inklusion, Soziale Inklusion"
+        "value" : "Soziale Inklusion"
       }
     }, {
       "item" : {
@@ -1006,7 +1006,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Gesellschaft für gegenseitige Hilfe, Gesellschaft für gegenseitige Hilfe"
+        "value" : "Gesellschaft für gegenseitige Hilfe"
       }
     }, {
       "item" : {
@@ -1033,7 +1033,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Gemeinschaftlichkeit und gegenseitige Hilfe), Andere (Gemeinschaftlichkeit und gegenseitige Hilfe)"
+        "value" : "Andere (Gemeinschaftlichkeit und gegenseitige Hilfe)"
       }
     }, {
       "item" : {
@@ -1060,34 +1060,30 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "SSEDAS Partnerorganisationen, SSEDAS Partnerorganisationen"
+        "value" : "SSEDAS Partnerorganisationen"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q143"
+        "value" : "http://base.transformap.co/entity/Q15"
       },
       "description" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Parnterorganisationen des EU-Projekts SSEDAS. www.solidarityeconomy.eu"
+        "value" : "Bildung und Training"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "http://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ssedas_partner"
+        "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "SSEDAS Partnerorganisationen, SSEDAS Partnerorganisationen"
+        "value" : "Bildung und Training"
       }
     }, {
       "item" : {
@@ -1110,7 +1106,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Finanzen, Finanzen"
+        "value" : "Finanzen"
       }
     }, {
       "item" : {
@@ -1133,7 +1129,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Aktives BürgerInnen-Engagement, Aktives BürgerInnen-Engagement"
+        "value" : "Aktives BürgerInnen-Engagement"
       }
     }, {
       "item" : {
@@ -1156,7 +1152,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Selbstorganisation und Gegenseitigkeit, Selbstorganisation und Gegenseitigkeit"
+        "value" : "Selbstorganisation und Gegenseitigkeit"
       }
     }, {
       "item" : {
@@ -1179,7 +1175,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "SUSY-Map PartnerInnennetzwerk, SUSY-Map PartnerInnennetzwerk"
+        "value" : "SUSY-Map PartnerInnennetzwerk"
       }
     }, {
       "item" : {
@@ -1202,7 +1198,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Initiativen, Projekte), Andere (Initiativen, Projekte)"
+        "value" : "Andere (Initiativen, Projekte)"
       }
     }, {
       "item" : {
@@ -1220,7 +1216,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Selbst- und/oder gemeinschaftlich Pflanzen, Selbst- und/oder gemeinschaftlich Pflanzen"
+        "value" : "Selbst- und/oder gemeinschaftlich Pflanzen"
       }
     }, {
       "item" : {
@@ -1243,7 +1239,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Lokal kaufen, Lokal kaufen"
+        "value" : "Lokal kaufen"
       }
     }, {
       "item" : {
@@ -1266,7 +1262,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Lebensmittel-Rettung, Lebensmittel-Rettung"
+        "value" : "Lebensmittel-Rettung"
       }
     }, {
       "item" : {
@@ -1289,7 +1285,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Bildung & Politik, Bildung & Politik"
+        "value" : "Bildung & Politik"
       }
     }, {
       "item" : {
@@ -1312,7 +1308,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Reduzieren, Reduzieren"
+        "value" : "Reduzieren"
       }
     }, {
       "item" : {
@@ -1335,7 +1331,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Teilen und Wiederverwenden, Teilen und Wiederverwenden"
+        "value" : "Teilen und Wiederverwenden"
       }
     }, {
       "item" : {
@@ -1358,7 +1354,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Reparieren, Reparieren"
+        "value" : "Reparieren"
       }
     }, {
       "item" : {
@@ -1381,7 +1377,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Recycling & Upcycling, Recycling & Upcycling"
+        "value" : "Recycling & Upcycling"
       }
     }, {
       "item" : {
@@ -1404,7 +1400,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Politisches Engagement, Politisches Engagement"
+        "value" : "Politisches Engagement"
       }
     }, {
       "item" : {
@@ -1427,7 +1423,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Partizipation, Partizipation"
+        "value" : "Partizipation"
       }
     }, {
       "item" : {
@@ -1450,7 +1446,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Gemeindenetzwerk, Gemeindenetzwerk"
+        "value" : "Gemeindenetzwerk"
       }
     }, {
       "item" : {
@@ -1477,34 +1473,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Selber Pflücken/Ernten, Selber Pflücken/Ernten"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q39"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landwirtschaftliche Betriebe bieten die Möglichkeit Gemüse und Obst selbst zu pflücken."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "self_harvest"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Selber Pflücken/Ernten, Selber Pflücken/Ernten"
+        "value" : "Selber Pflücken/Ernten"
       }
     }, {
       "item" : {
@@ -1531,7 +1500,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Zusammen pflanzen, ernten, säen etc.), Andere (Zusammen pflanzen, ernten, säen etc.)"
+        "value" : "Andere (Zusammen pflanzen, ernten, säen etc.)"
       }
     }, {
       "item" : {
@@ -1558,7 +1527,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Virtueller Direkteinkauf, Virtueller Direkteinkauf"
+        "value" : "Virtueller Direkteinkauf"
       }
     }, {
       "item" : {
@@ -1585,7 +1554,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Lokale Ernährung, Einkauf), Andere (Lokale Ernährung, Einkauf)"
+        "value" : "Andere (Lokale Ernährung, Einkauf)"
       }
     }, {
       "item" : {
@@ -1612,7 +1581,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Foodsharing Gruppe, Foodsharing Gruppe"
+        "value" : "Foodsharing Gruppe"
       }
     }, {
       "item" : {
@@ -1639,7 +1608,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Essensrettungsküche, Essensrettungsküche"
+        "value" : "Essensrettungsküche"
       }
     }, {
       "item" : {
@@ -1666,7 +1635,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Verwertung von Nahrungsmittelresten, Verwertung von Nahrungsmittelresten"
+        "value" : "Verwertung von Nahrungsmittelresten"
       }
     }, {
       "item" : {
@@ -1693,7 +1662,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Essensrettung, Essen), Andere (Essensrettung, Essen)"
+        "value" : "Andere (Essensrettung, Essen)"
       }
     }, {
       "item" : {
@@ -1720,7 +1689,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Stärkung kleinbäuerlicher Landwirtschaft, Stärkung kleinbäuerlicher Landwirtschaft"
+        "value" : "Stärkung kleinbäuerlicher Landwirtschaft"
       }
     }, {
       "item" : {
@@ -1747,7 +1716,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Hofübergabe Netzwerk, Hofübergabe Netzwerk"
+        "value" : "Hofübergabe Netzwerk"
       }
     }, {
       "item" : {
@@ -1774,7 +1743,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Ernährungspolitik, Bildungsprojekte, Essen), Andere (Ernährungspolitik, Bildungsprojekte, Essen)"
+        "value" : "Andere (Ernährungspolitik, Bildungsprojekte, Essen)"
       }
     }, {
       "item" : {
@@ -1801,7 +1770,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Fairtrade Schule, Fairtrade Schule"
+        "value" : "Fairtrade Schule"
       }
     }, {
       "item" : {
@@ -1817,10 +1786,6 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1828,7 +1793,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Fairtrade Gemeinde, Fairtrade Gemeinde"
+        "value" : "Fairtrade Gemeinde"
       }
     }, {
       "item" : {
@@ -1855,7 +1820,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Fairer Handel (Großhandel), Fairer Handel (Großhandel)"
+        "value" : "Fairer Handel (Großhandel)"
       }
     }, {
       "item" : {
@@ -1882,7 +1847,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Direkthandel, Direkthandel"
+        "value" : "Direkthandel"
       }
     }, {
       "item" : {
@@ -1909,7 +1874,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Entwicklungszusammenarbeit, Entwicklungszusammenarbeit"
+        "value" : "Entwicklungszusammenarbeit"
       }
     }, {
       "item" : {
@@ -1936,7 +1901,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Initiativen und Projekte des Fairen Handels und der internationalen Kooperation), Andere (Initiativen und Projekte des Fairen Handels und der internationalen Kooperation)"
+        "value" : "Andere (Initiativen und Projekte des Fairen Handels und der internationalen Kooperation)"
       }
     }, {
       "item" : {
@@ -1963,7 +1928,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Bewusstseinsbildung für Müllvermeidung, Bewusstseinsbildung für Müllvermeidung"
+        "value" : "Bewusstseinsbildung für Müllvermeidung"
       }
     }, {
       "item" : {
@@ -1990,7 +1955,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Verpackungsfreie Läden und Initiativen, Verpackungsfreie Läden und Initiativen"
+        "value" : "Verpackungsfreie Läden und Initiativen"
       }
     }, {
       "item" : {
@@ -2017,7 +1982,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Müllvermeidungsprojekte und -initiativen), Andere (Müllvermeidungsprojekte und -initiativen)"
+        "value" : "Andere (Müllvermeidungsprojekte und -initiativen)"
       }
     }, {
       "item" : {
@@ -2044,7 +2009,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Gebrauchtwarenhandel, Gebrauchtwarenhandel"
+        "value" : "Gebrauchtwarenhandel"
       }
     }, {
       "item" : {
@@ -2071,7 +2036,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Flohmarkt, Flohmarkt"
+        "value" : "Flohmarkt"
       }
     }, {
       "item" : {
@@ -2098,7 +2063,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Bekleidungsverleih, Bekleidungsverleih"
+        "value" : "Bekleidungsverleih"
       }
     }, {
       "item" : {
@@ -2125,7 +2090,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Leihläden, Leihläden"
+        "value" : "Leihläden"
       }
     }, {
       "item" : {
@@ -2152,7 +2117,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Umsonst- und Tauschökonomische Projekte), Andere (Umsonst- und Tauschökonomische Projekte)"
+        "value" : "Andere (Umsonst- und Tauschökonomische Projekte)"
       }
     }, {
       "item" : {
@@ -2179,7 +2144,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Instandhaltung und Reparatur, Instandhaltung und Reparatur"
+        "value" : "Instandhaltung und Reparatur"
       }
     }, {
       "item" : {
@@ -2206,7 +2171,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Wiederverkauf oder Reparatur von Gütern, Wiederverkauf oder Reparatur von Gütern"
+        "value" : "Wiederverkauf oder Reparatur von Gütern"
       }
     }, {
       "item" : {
@@ -2233,7 +2198,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Reparaturprojekte und -initiativen), Andere (Reparaturprojekte und -initiativen)"
+        "value" : "Andere (Reparaturprojekte und -initiativen)"
       }
     }, {
       "item" : {
@@ -2256,7 +2221,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Lebensmittel und Landwirtschaft, Lebensmittel und Landwirtschaft"
+        "value" : "Lebensmittel und Landwirtschaft"
       }
     }, {
       "item" : {
@@ -2283,7 +2248,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Recycling, Recycling"
+        "value" : "Recycling"
       }
     }, {
       "item" : {
@@ -2310,7 +2275,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Upcycling, Upcycling"
+        "value" : "Upcycling"
       }
     }, {
       "item" : {
@@ -2337,7 +2302,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Naturkunst, Naturkunst"
+        "value" : "Naturkunst"
       }
     }, {
       "item" : {
@@ -2364,7 +2329,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Recycling- und Upcyclingprojekte), Andere (Recycling- und Upcyclingprojekte)"
+        "value" : "Andere (Recycling- und Upcyclingprojekte)"
       }
     }, {
       "item" : {
@@ -2391,499 +2356,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Lebens- und Wohnprojekte), Andere (Lebens- und Wohnprojekte)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q144"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Projekte und Initiativen, die in keine bereits vorhandene Kategorie passen."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Andere Initiativen und Projekte"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q80"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ein Umsonstladen ist ein privates, sozial oder politisch motiviertes Projekt, wo neue oder gebrauchte Gegenstände zur kostenlosen Mitnahme bereitgestellt sowie tauschfrei mitgenommen werden können."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "giveaway_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Umsonstladen, Umsonstladen"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q82"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Als Tauschbörse bezeichnet man eine Börse oder allgemeiner eine Plattform bzw. einen Ort, wo Menschen die Gelegenheit zum Tauschhandel bzw. zum kostenfreien Austausch oder gegen geringe Gebühr geboten wird."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "swap_market"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Tauschbörse, Tauschbörse"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q85"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bei einem Repair Cafe hat jede/r die Möglichkeit defekte Geräte mitzubringen und gemeinsam mit anderen zu reparieren. Und es gibt Kaffee und Kuchen dazu."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q31"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "repair_cafe"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Repair Café, Repair Café"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q95"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Cohousing"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Co-Housing ist eine geplante Gemeinschaft, die aus privaten Wohnunge/Häusern besteht, die durch Gemeinschaftseinrichtungen ergänzt werden.Cohousing-Siedlungen fördern gemeinsame soziale Aktivitäten und Alltagsplanung."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "cohousing"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Cohousing, Cohousing"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q96"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Commune"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Kommunen sind eine spezielle Form von Gemeinschaften, die meist gemeinsame Ökonomie praktizieren, nach dem Konsensprinzip entscheiden und an einem Platz leben, der in vielen Fällen Gemeinschaftseigentum ist."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "commune"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Kommune, Kommune"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q97"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Als Ökodorf wird ein Dorf oder Stadtteil bezeichnet, das bzw. der an ökologischen Kriterien wie der Nachhaltigkeit ausgerichtet ist."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ecovillage"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ökodorf, Ökodorf"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q98"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Squatting"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Eine Hausbesetzung ist die Inbesitznahme eines fremden, leerstehenden Gebäudes und seine Verwendung als Wohnraum oder Veranstaltungsraum. In den meisten Fällen erfolgt sie gegen den Willen oder ohne Berücksichtigung des Willens des Eigentümers."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "squatted_place"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Hausbesetzung, Hausbesetzung"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Geschäft in dem Produkte des fairen Handels gekauft werden können. Oft organisieren die BetreiberInnen auch Veranstaltungen zum Thema."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Geschäft des Fairen Handels, Geschäft des Fairen Handels"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Physisches- oder Online-Instrument zur Verteilung der Lebensmittel."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Foodsharing Verteiler, Foodsharing Verteiler"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bildung zur ökologischen Landwirtschaft."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landwirtschaftlich-ökologische Bildung, Landwirtschaftlich-ökologische Bildung"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ein Ernährungsrat ist der der wichtigste Ansatz der Stadtplanung für eine Gestaltung des Ernährungssystems. Ernährungsräte rücken die Belange von Bürgern und Kommunen in der Lebensmittelversorgung in den Mittelpunkt."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ernährungsrat, Ernährungsrat"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Initiativen die sich mit Projekten der Ernährungssouveränität beschäftigen und diese umsetzen. Ernährungssouveränität bezeichnet das Recht aller Völker, Länder und Ländergruppen, ihre Landwirtschafts- und Ernährungspolitik selbst zu definieren."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ernährungssouveränitäts-Initiative, Ernährungssouveränitäts-Initiative"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bildung zur Permakultur - Permakultur ist ein Konzept, das auf die Schaffung von dauerhaft funktionierenden, nachhaltigen und naturnahen Kreisläufen zielt."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Permakultur-Bildung, Permakultur-Bildung"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ein Schulgarten ist ein für Aus- und Weiterbildungszwecke angelegter Garten. Er ist ein pädagogisches Mittel, um Wissen über Gartenbau und Landwirtschaft, sowie über Natur und Umwelt zu vermitteln."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Schulgarten, Schulgarten"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Slow Food ist eine ganze Sammlung von Ideen – eine Philosophie. Allem zugrunde liegt die Überzeugung, dass das Essen ein wesentlicher Bestandteil unseres Lebens ist und dass die Lebensqualität unweigerlich mit einer gesunden Ernährung zusammenhängt."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Slowfood, Slow Food"
+        "value" : "Andere (Lebens- und Wohnprojekte)"
       }
     }, {
       "item" : {
@@ -2905,29 +2378,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Fairer Handel (Fair Trade), Fairer Handel (Fair Trade)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q188485"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Fairer Handel (Fair Trade), Fairer Handel (Fair Trade)"
+        "value" : "Fairer Handel (Fair Trade)"
       }
     }, {
       "item" : {
@@ -2958,7 +2409,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Sozialökonomische und - integrative Betriebe, Sozialökonomische und - integrative Betriebe"
+        "value" : "Sozialökonomische und - integrative Betriebe"
       }
     }, {
       "item" : {
@@ -2989,38 +2440,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Tafel, Tafel"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q869457"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Coworking ist eine Arbeitsform, bei der Freiberufler, Kreative, kleinere Startups oder digitale Nomaden zugleich in meist größeren, offenen Räumen arbeiten und auf diese Weise voneinander profitieren können."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Co-working (Zusammenarbeit in \"freien Berufen\"), Co-working (Zusammenarbeit in \"freien Berufen\")"
+        "value" : "Tafel"
       }
     }, {
       "item" : {
@@ -3046,7 +2466,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "UnternehmerInnen- und GründerInnenzentren, UnternehmerInnen- und GründerInnenzentren"
+        "value" : "UnternehmerInnen- und GründerInnenzentren"
       }
     }, {
       "item" : {
@@ -3077,7 +2497,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Regionalwährung, Regionalwährung"
+        "value" : "Regionalwährung"
       }
     }, {
       "item" : {
@@ -3108,7 +2528,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Mikrokredite, Mikrokredite"
+        "value" : "Mikrokredite"
       }
     }, {
       "item" : {
@@ -3139,7 +2559,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Initiative für direkte Demokratie, Initiative für direkte Demokratie"
+        "value" : "Initiative für direkte Demokratie"
       }
     }, {
       "item" : {
@@ -3170,7 +2590,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Partizipatives Gemeindebudget, Partizipatives Gemeindebudget"
+        "value" : "Partizipatives Gemeindebudget"
       }
     }, {
       "item" : {
@@ -3196,34 +2616,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Gesellschaft und Kunst, Gesellschaft und Kunst"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q8434"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bildung und Training"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bildung und Training, Bildung und Training"
+        "value" : "Gesellschaft und Kunst"
       }
     }, {
       "item" : {
@@ -3254,7 +2647,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Gemeinschaftsgarten, Gemeinschaftsgarten"
+        "value" : "Gemeinschaftsgarten"
       }
     }, {
       "item" : {
@@ -3285,7 +2678,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Essbare Gemeinde/Stadt, Essbare Gemeinde/Stadt"
+        "value" : "Essbare Gemeinde/Stadt"
       }
     }, {
       "item" : {
@@ -3316,7 +2709,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Solidarische Landwirtschaft, Solidarische Landwirtschaft"
+        "value" : "Solidarische Landwirtschaft"
       }
     }, {
       "item" : {
@@ -3347,7 +2740,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Solidarische Landwirtschaft, Solidarische Landwirtschaft"
+        "value" : "Solidarische Landwirtschaft"
       }
     }, {
       "item" : {
@@ -3378,7 +2771,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Foodcoop, Foodcoop"
+        "value" : "Foodcoop"
       }
     }, {
       "item" : {
@@ -3409,7 +2802,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Foodcoop, Foodcoop"
+        "value" : "Foodcoop"
       }
     }, {
       "item" : {
@@ -3440,7 +2833,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Guerilla Gardening, Guerilla Gardening"
+        "value" : "Guerilla Gardening"
       }
     }, {
       "item" : {
@@ -3471,7 +2864,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Saatgut Initiative, Saatgut Initiative"
+        "value" : "Saatgut Initiative"
       }
     }, {
       "item" : {
@@ -3502,7 +2895,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Saatgut Initiative, Saatgut Initiative"
+        "value" : "Saatgut Initiative"
       }
     }, {
       "item" : {
@@ -3533,7 +2926,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Ab-Hof Verkauf, Ab-Hof Verkauf"
+        "value" : "Ab-Hof Verkauf"
       }
     }, {
       "item" : {
@@ -3564,7 +2957,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Lokaler Bauernmarkt, Lokaler Bauernmarkt"
+        "value" : "Lokaler Bauernmarkt"
       }
     }, {
       "item" : {
@@ -3595,7 +2988,7 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Bio-Kiste, Bio-Kiste"
+        "value" : "Bio-Kiste"
       }
     }, {
       "item" : {
@@ -3626,7 +3019,472 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Lebensmittelkooperative, Lebensmittelkooperative"
+        "value" : "Lebensmittelkooperative"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Geschäft in dem Produkte des fairen Handels gekauft werden können. Oft organisieren die BetreiberInnen auch Veranstaltungen zum Thema."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Geschäft des Fairen Handels"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Physisches- oder Online-Instrument zur Verteilung der Lebensmittel."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Foodsharing Verteiler"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bildung zur ökologischen Landwirtschaft."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Landwirtschaftlich-ökologische Bildung"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ein Ernährungsrat ist der der wichtigste Ansatz der Stadtplanung für eine Gestaltung des Ernährungssystems. Ernährungsräte rücken die Belange von Bürgern und Kommunen in der Lebensmittelversorgung in den Mittelpunkt."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ernährungsrat"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Initiativen die sich mit Projekten der Ernährungssouveränität beschäftigen und diese umsetzen. Ernährungssouveränität bezeichnet das Recht aller Völker, Länder und Ländergruppen, ihre Landwirtschafts- und Ernährungspolitik selbst zu definieren."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ernährungssouveränitäts-Initiative"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bildung zur Permakultur - Permakultur ist ein Konzept, das auf die Schaffung von dauerhaft funktionierenden, nachhaltigen und naturnahen Kreisläufen zielt."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Permakultur-Bildung"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ein Schulgarten ist ein für Aus- und Weiterbildungszwecke angelegter Garten. Er ist ein pädagogisches Mittel, um Wissen über Gartenbau und Landwirtschaft, sowie über Natur und Umwelt zu vermitteln."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Schulgarten"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Slow Food ist eine ganze Sammlung von Ideen – eine Philosophie. Allem zugrunde liegt die Überzeugung, dass das Essen ein wesentlicher Bestandteil unseres Lebens ist und dass die Lebensqualität unweigerlich mit einer gesunden Ernährung zusammenhängt."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Slowfood"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q80"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ein Umsonstladen ist ein privates, sozial oder politisch motiviertes Projekt, wo neue oder gebrauchte Gegenstände zur kostenlosen Mitnahme bereitgestellt sowie tauschfrei mitgenommen werden können."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "giveaway_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Umsonstladen"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q82"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Als Tauschbörse bezeichnet man eine Börse oder allgemeiner eine Plattform bzw. einen Ort, wo Menschen die Gelegenheit zum Tauschhandel bzw. zum kostenfreien Austausch oder gegen geringe Gebühr geboten wird."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "swap_market"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Tauschbörse"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q85"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bei einem Repair Cafe hat jede/r die Möglichkeit defekte Geräte mitzubringen und gemeinsam mit anderen zu reparieren. Und es gibt Kaffee und Kuchen dazu."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q31"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "repair_cafe"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Repair Café"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q95"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cohousing"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Co-Housing ist eine geplante Gemeinschaft, die aus privaten Wohnunge/Häusern besteht, die durch Gemeinschaftseinrichtungen ergänzt werden.Cohousing-Siedlungen fördern gemeinsame soziale Aktivitäten und Alltagsplanung."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "cohousing"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Cohousing"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q96"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Commune"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kommunen sind eine spezielle Form von Gemeinschaften, die meist gemeinsame Ökonomie praktizieren, nach dem Konsensprinzip entscheiden und an einem Platz leben, der in vielen Fällen Gemeinschaftseigentum ist."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "commune"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kommune"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q97"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Als Ökodorf wird ein Dorf oder Stadtteil bezeichnet, das bzw. der an ökologischen Kriterien wie der Nachhaltigkeit ausgerichtet ist."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ecovillage"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ökodorf"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q98"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Squatting"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Eine Hausbesetzung ist die Inbesitznahme eines fremden, leerstehenden Gebäudes und seine Verwendung als Wohnraum oder Veranstaltungsraum. In den meisten Fällen erfolgt sie gegen den Willen oder ohne Berücksichtigung des Willens des Eigentümers."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "squatted_place"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Hausbesetzung"
       }
     } ]
   }

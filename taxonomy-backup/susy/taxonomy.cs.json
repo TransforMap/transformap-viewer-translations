@@ -28,34 +28,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Svobodný prostor / sdílený prostor, Svobodný prostor / sdílený prostor"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
-      },
-      "description" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Veřejný anebo soukromý prostor, který je úplně otevřený veřejnosti anebo na základě členství bez nutnosti konzumace."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "freespace"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Svobodný prostor / sdílený prostor, Svobodný prostor / sdílený prostor"
+        "value" : "Svobodný prostor / sdílený prostor"
       }
     }, {
       "item" : {
@@ -77,7 +50,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Iniciativa udržitelné dopravy, Iniciativa udržitelné dopravy"
+        "value" : "Iniciativa udržitelné dopravy"
       }
     }, {
       "item" : {
@@ -104,7 +77,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Samoopravná cyklo-dílna, Samoopravná cyklo-dílna"
+        "value" : "Samoopravná cyklo-dílna"
       }
     }, {
       "item" : {
@@ -126,7 +99,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "NNO podporující cyklistiku, NNO podporující cyklistiku"
+        "value" : "NNO podporující cyklistiku"
       }
     }, {
       "item" : {
@@ -190,7 +163,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Komunitní lesnictví, Komunitní lesnictví"
+        "value" : "Komunitní lesnictví"
       }
     }, {
       "item" : {
@@ -212,7 +185,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (infrastruktura a zdroje), Ostatní (infrastruktura a zdroje)"
+        "value" : "Ostatní (infrastruktura a zdroje)"
       }
     }, {
       "item" : {
@@ -234,7 +207,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Posílení sociální inkluzí, Posílení sociální inkluzí"
+        "value" : "Posílení sociální inkluzí"
       }
     }, {
       "item" : {
@@ -252,7 +225,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Redukuj, znovu-použij, oprav, recykluj, Redukuj, znovu-použij, oprav, recykluj"
+        "value" : "Redukuj, znovu-použij, oprav, recykluj"
       }
     }, {
       "item" : {
@@ -274,7 +247,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Společensky prospěšné obchody (společensky prospěšné supermarkety), Společensky prospěšné obchody (společensky prospěšné supermarkety)"
+        "value" : "Společensky prospěšné obchody (společensky prospěšné supermarkety)"
       }
     }, {
       "item" : {
@@ -296,7 +269,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ubytování pro lidi bez domova, Ubytování pro lidi bez domova"
+        "value" : "Ubytování pro lidi bez domova"
       }
     }, {
       "item" : {
@@ -318,7 +291,29 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (iniciativy sociální inkluze), Ostatní (iniciativy sociální inkluze)"
+        "value" : "Ostatní (iniciativy sociální inkluze)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Co-workingový prostor"
       }
     }, {
       "item" : {
@@ -340,7 +335,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Vzdělávání o podnikání, Vzdělávání o podnikání"
+        "value" : "Vzdělávání o podnikání"
       }
     }, {
       "item" : {
@@ -362,7 +357,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Inkubátor sociálního podnikání, Inkubátor sociálního podnikání"
+        "value" : "Inkubátor sociálního podnikání"
       }
     }, {
       "item" : {
@@ -384,7 +379,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Udržitelné a solidární vzdělávání, Udržitelné a solidární vzdělávání"
+        "value" : "Udržitelné a solidární vzdělávání"
       }
     }, {
       "item" : {
@@ -406,7 +401,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Výzkum udržitelnosti a solidarity, Výzkum udržitelnosti a solidarity"
+        "value" : "Výzkum udržitelnosti a solidarity"
       }
     }, {
       "item" : {
@@ -424,7 +419,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Bydlení, Bydlení"
+        "value" : "Bydlení"
       }
     }, {
       "item" : {
@@ -446,7 +441,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (vzdělávání etc.), Ostatní (vzdělávání etc.)"
+        "value" : "Ostatní (vzdělávání etc.)"
       }
     }, {
       "item" : {
@@ -468,7 +463,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Reciproční pojištění, Reciproční pojištění"
+        "value" : "Reciproční pojištění"
       }
     }, {
       "item" : {
@@ -490,7 +485,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Reciproční pojištění, Reciproční pojištění"
+        "value" : "Reciproční pojištění"
       }
     }, {
       "item" : {
@@ -512,7 +507,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Propagace etického financování, Propagace etického financování"
+        "value" : "Propagace etického financování"
       }
     }, {
       "item" : {
@@ -534,7 +529,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Solidární půjčky, Solidární půjčky"
+        "value" : "Solidární půjčky"
       }
     }, {
       "item" : {
@@ -556,7 +551,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Časové banky, Časové banky"
+        "value" : "Časové banky"
       }
     }, {
       "item" : {
@@ -578,7 +573,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (etické finance), Ostatní (etické finance)"
+        "value" : "Ostatní (etické finance)"
       }
     }, {
       "item" : {
@@ -600,7 +595,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Spotřebitelská osvěta, Spotřebitelská osvěta"
+        "value" : "Spotřebitelská osvěta"
       }
     }, {
       "item" : {
@@ -618,7 +613,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Infrastruktura a zdroje, Infrastruktura a zdroje"
+        "value" : "Infrastruktura a zdroje"
       }
     }, {
       "item" : {
@@ -640,7 +635,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (politické projekty), Ostatní (politické projekty)"
+        "value" : "Ostatní (politické projekty)"
       }
     }, {
       "item" : {
@@ -662,7 +657,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Rada občanů, Rada občanů"
+        "value" : "Rada občanů"
       }
     }, {
       "item" : {
@@ -684,7 +679,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Rada mládeže, Rada mládeže"
+        "value" : "Rada mládeže"
       }
     }, {
       "item" : {
@@ -706,7 +701,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (participativní projekty), Ostatní (participativní projekty)"
+        "value" : "Ostatní (participativní projekty)"
       }
     }, {
       "item" : {
@@ -728,7 +723,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Organizace občanské společnosti (NNO), Organizace občanské společnosti (NNO)"
+        "value" : "Organizace občanské společnosti (NNO)"
       }
     }, {
       "item" : {
@@ -750,7 +745,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Skupina místní komunity, Skupina místní komunity"
+        "value" : "Skupina místní komunity"
       }
     }, {
       "item" : {
@@ -772,7 +767,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Iniciativa síťování, Iniciativa síťování"
+        "value" : "Iniciativa síťování"
       }
     }, {
       "item" : {
@@ -794,7 +789,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (komunitní projekty), Ostatní (komunitní projekty)"
+        "value" : "Ostatní (komunitní projekty)"
       }
     }, {
       "item" : {
@@ -812,7 +807,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Sociální inkluze, Sociální inkluze"
+        "value" : "Sociální inkluze"
       }
     }, {
       "item" : {
@@ -834,7 +829,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Společenství vzájemnosti - pomoc, Společenství vzájemnosti - pomoc"
+        "value" : "Společenství vzájemnosti - pomoc"
       }
     }, {
       "item" : {
@@ -856,7 +851,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (společenství vzájemnosti), Ostatní (společenství vzájemnosti)"
+        "value" : "Ostatní (společenství vzájemnosti)"
       }
     }, {
       "item" : {
@@ -878,29 +873,25 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "partneři projektu SSEDAS, partneři projektu SSEDAS"
+        "value" : "partneři projektu SSEDAS"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q143"
+        "value" : "http://base.transformap.co/entity/Q15"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "http://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ssedas_partner"
+        "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "partneři projektu SSEDAS, partneři projektu SSEDAS"
+        "value" : "Vzdělávání a školení"
       }
     }, {
       "item" : {
@@ -918,7 +909,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Finance, Finance"
+        "value" : "Finance"
       }
     }, {
       "item" : {
@@ -936,7 +927,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Aktivní občanství, Aktivní občanství"
+        "value" : "Aktivní občanství"
       }
     }, {
       "item" : {
@@ -954,7 +945,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Sebe-organizování a vzájemnost, Sebe-organizování a vzájemnost"
+        "value" : "Sebe-organizování a vzájemnost"
       }
     }, {
       "item" : {
@@ -972,7 +963,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "SUSY mapa - partnerská síť, SUSY mapa - partnerská síť"
+        "value" : "SUSY mapa - partnerská síť"
       }
     }, {
       "item" : {
@@ -990,7 +981,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (iniciativy a projekty), Ostatní (iniciativy a projekty)"
+        "value" : "Ostatní (iniciativy a projekty)"
       }
     }, {
       "item" : {
@@ -1008,7 +999,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Pěstuj/me si sami, Pěstuj/me si sami"
+        "value" : "Pěstuj/me si sami"
       }
     }, {
       "item" : {
@@ -1026,7 +1017,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Nakupuj/te lokálně, Nakupuj/te lokálně"
+        "value" : "Nakupuj/te lokálně"
       }
     }, {
       "item" : {
@@ -1044,7 +1035,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Zachraň/te jídlo, Zachraň/te jídlo"
+        "value" : "Zachraň/te jídlo"
       }
     }, {
       "item" : {
@@ -1062,7 +1053,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Vzdělávání a politika, Vzdělávání a politika"
+        "value" : "Vzdělávání a politika"
       }
     }, {
       "item" : {
@@ -1080,7 +1071,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Redukovat, Redukovat"
+        "value" : "Redukovat"
       }
     }, {
       "item" : {
@@ -1098,7 +1089,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Sdílet a opakovaně používat, Sdílet a opakovaně používat"
+        "value" : "Sdílet a opakovaně používat"
       }
     }, {
       "item" : {
@@ -1116,7 +1107,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Opravit, Opravit"
+        "value" : "Opravit"
       }
     }, {
       "item" : {
@@ -1134,7 +1125,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Recyklovat a upcyklovat, Recyklovat a upcyklovat"
+        "value" : "Recyklovat a upcyklovat"
       }
     }, {
       "item" : {
@@ -1152,7 +1143,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Politická angažovanost, Politická angažovanost"
+        "value" : "Politická angažovanost"
       }
     }, {
       "item" : {
@@ -1170,7 +1161,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Participace, Participace"
+        "value" : "Participace"
       }
     }, {
       "item" : {
@@ -1188,7 +1179,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Komunity / sítě, Komunity / sítě"
+        "value" : "Komunity / sítě"
       }
     }, {
       "item" : {
@@ -1210,29 +1201,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Samosběr, Samosběr"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q39"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "self_harvest"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Samosběr, Samosběr"
+        "value" : "Samosběr"
       }
     }, {
       "item" : {
@@ -1254,7 +1223,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (pěstitelské a spotřebitelské iniciativy), Ostatní (pěstitelské a spotřebitelské iniciativy)"
+        "value" : "Ostatní (pěstitelské a spotřebitelské iniciativy)"
       }
     }, {
       "item" : {
@@ -1276,7 +1245,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Virtuální přímé nákupy, Virtuální přímé nákupy"
+        "value" : "Virtuální přímé nákupy"
       }
     }, {
       "item" : {
@@ -1298,7 +1267,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (nakupování místních produktů), Ostatní (nakupování místních produktů)"
+        "value" : "Ostatní (nakupování místních produktů)"
       }
     }, {
       "item" : {
@@ -1320,7 +1289,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Skupinové sdílení jídla, Skupinové sdílení jídla"
+        "value" : "Skupinové sdílení jídla"
       }
     }, {
       "item" : {
@@ -1342,7 +1311,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Vaření ze zachráněného vyhozeného jídla, Vaření ze zachráněného vyhozeného jídla"
+        "value" : "Vaření ze zachráněného vyhozeného jídla"
       }
     }, {
       "item" : {
@@ -1364,7 +1333,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Recycklace vyhozeného jídla, Recycklace vyhozeného jídla"
+        "value" : "Recycklace vyhozeného jídla"
       }
     }, {
       "item" : {
@@ -1386,7 +1355,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (zachraňování jídla), Ostatní (zachraňování jídla)"
+        "value" : "Ostatní (zachraňování jídla)"
       }
     }, {
       "item" : {
@@ -1408,7 +1377,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Posilování drobných zemědělců, Posilování drobných zemědělců"
+        "value" : "Posilování drobných zemědělců"
       }
     }, {
       "item" : {
@@ -1451,7 +1420,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (potravinová politika a vzdělávání), Ostatní (potravinová politika a vzdělávání)"
+        "value" : "Ostatní (potravinová politika a vzdělávání)"
       }
     }, {
       "item" : {
@@ -1473,7 +1442,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Fairtradová škola, Fairtradová škola"
+        "value" : "Fairtradová škola"
       }
     }, {
       "item" : {
@@ -1484,10 +1453,6 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1495,7 +1460,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Fairtradové město, Fairtradové město"
+        "value" : "Fairtradové město"
       }
     }, {
       "item" : {
@@ -1517,7 +1482,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Fairtradový velkobchod, Fairtradový velkobchod"
+        "value" : "Fairtradový velkobchod"
       }
     }, {
       "item" : {
@@ -1539,7 +1504,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Direct trade (přímý prodej), Direct trade (přímý prodej)"
+        "value" : "Direct trade (přímý prodej)"
       }
     }, {
       "item" : {
@@ -1561,7 +1526,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Rozvojová spolupráce, Rozvojová spolupráce"
+        "value" : "Rozvojová spolupráce"
       }
     }, {
       "item" : {
@@ -1583,7 +1548,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (fairtradová anebo rozvojová iniciativa), Ostatní (fairtradová anebo rozvojová iniciativa)"
+        "value" : "Ostatní (fairtradová anebo rozvojová iniciativa)"
       }
     }, {
       "item" : {
@@ -1605,7 +1570,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Odpadová osvěta, Odpadová osvěta"
+        "value" : "Odpadová osvěta"
       }
     }, {
       "item" : {
@@ -1627,7 +1592,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Bezobalové obchody a iniciativy, Bezobalové obchody a iniciativy"
+        "value" : "Bezobalové obchody a iniciativy"
       }
     }, {
       "item" : {
@@ -1649,7 +1614,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (projekty redukce odpadu), Ostatní (projekty redukce odpadu)"
+        "value" : "Ostatní (projekty redukce odpadu)"
       }
     }, {
       "item" : {
@@ -1671,7 +1636,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Prodej použitého zboží, Prodej použitého zboží"
+        "value" : "Prodej použitého zboží"
       }
     }, {
       "item" : {
@@ -1693,7 +1658,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Bleší trh, Bleší trh"
+        "value" : "Bleší trh"
       }
     }, {
       "item" : {
@@ -1715,7 +1680,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Půjčovna oděvů, Půjčovna oděvů"
+        "value" : "Půjčovna oděvů"
       }
     }, {
       "item" : {
@@ -1758,7 +1723,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (sdílecí iniciativy), Ostatní (sdílecí iniciativy)"
+        "value" : "Ostatní (sdílecí iniciativy)"
       }
     }, {
       "item" : {
@@ -1780,7 +1745,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Údržba a opravy, Údržba a opravy"
+        "value" : "Údržba a opravy"
       }
     }, {
       "item" : {
@@ -1802,7 +1767,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Prodej opraveného zboží, Prodej opraveného zboží"
+        "value" : "Prodej opraveného zboží"
       }
     }, {
       "item" : {
@@ -1824,7 +1789,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (opravny), Ostatní (opravny)"
+        "value" : "Ostatní (opravny)"
       }
     }, {
       "item" : {
@@ -1842,7 +1807,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Potraviny a zemědělství, Potraviny a zemědělství"
+        "value" : "Potraviny a zemědělství"
       }
     }, {
       "item" : {
@@ -1864,7 +1829,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Recyklace, Recyklace"
+        "value" : "Recyklace"
       }
     }, {
       "item" : {
@@ -1886,7 +1851,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Upcyklace, Upcyklace"
+        "value" : "Upcyklace"
       }
     }, {
       "item" : {
@@ -1908,7 +1873,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Eko-užité umění, Eko-užité umění"
+        "value" : "Eko-užité umění"
       }
     }, {
       "item" : {
@@ -1930,7 +1895,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (recyklace a upcyklace), Ostatní (recyklace a upcyklace)"
+        "value" : "Ostatní (recyklace a upcyklace)"
       }
     }, {
       "item" : {
@@ -1952,28 +1917,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ostatní (iniciativy bydlení), Ostatní (iniciativy bydlení)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q144"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q144"
+        "value" : "Ostatní (iniciativy bydlení)"
       }
     }, {
       "item" : {
@@ -2024,7 +1968,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Výměnný bazar, Výměnný bazar"
+        "value" : "Výměnný bazar"
       }
     }, {
       "item" : {
@@ -2050,7 +1994,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Kavárna s opravnou, Kavárna s opravnou"
+        "value" : "Kavárna s opravnou"
       }
     }, {
       "item" : {
@@ -2076,7 +2020,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Komunitní bydlení, Komunitní bydlení"
+        "value" : "Komunitní bydlení"
       }
     }, {
       "item" : {
@@ -2102,7 +2046,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Komuna, Komuna"
+        "value" : "Komuna"
       }
     }, {
       "item" : {
@@ -2128,7 +2072,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Ekovesnice, Ekovesnice"
+        "value" : "Ekovesnice"
       }
     }, {
       "item" : {
@@ -2154,7 +2098,580 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Squatting, Squatting"
+        "value" : "Squatting"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
+      },
+      "description" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Fair trade je způsob obchodu, který poskytuje pěstitelům a pracovníkům v zemích globálního Jihu možnost uživit se vlastní prací za důstojných podmínek."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Fair trade"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q108"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "socialinclusion_employment"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Sociální integrace skrze práci (integrační sociální podnik)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q111"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodbank"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Potravinová banka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q115"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "business_incubators"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Podnikatelská centra & inkubátory"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q121"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitycurrency"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Komunitní měna"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q122"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Microfinance"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "microfinance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mikrofinancování"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q128"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q33"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "directdemocracy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Iniciativy přímé demokracie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q131"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "participatory_budgeting"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Participativní veřejný fond"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q139"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q18"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutualsociety_art"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Společenství vzájemnosti - umění"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q22"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "community_garden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Komunitní zahrada"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q24"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "edible_town"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Jedlé město"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Komunitou podporované zemědělství"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Komunitou podporované zemědělství"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Spotřebitelský spolek"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Spotřebitelský spolek"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q37"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "guerilla_garden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Guerilla gardening"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Iniciativy uchovávání osiva"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Iniciativy uchovávání osiva"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q41"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "farm_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Přímý nákup / prodej ze dvora"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q44"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "local_farmersmarket"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Farmářský trh s místními produkty"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q45"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "vegetable_box"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Bedýnkový systém"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q48"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_cooperative"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Spotřebiltelské družstvo"
       }
     }, {
       "item" : {
@@ -2180,7 +2697,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Fairtradový obchod, Fairtradový obchod"
+        "value" : "Fairtradový obchod"
       }
     }, {
       "item" : {
@@ -2206,7 +2723,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Místo skupinového sdílení jídla, Místo skupinového sdílení jídla"
+        "value" : "Místo skupinového sdílení jídla"
       }
     }, {
       "item" : {
@@ -2232,7 +2749,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Vzdělávání v agro-ekologii, Vzdělávání v agro-ekologii"
+        "value" : "Vzdělávání v agro-ekologii"
       }
     }, {
       "item" : {
@@ -2283,7 +2800,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Iniciativa potravinové suverenity, Iniciativa potravinové suverenity"
+        "value" : "Iniciativa potravinové suverenity"
       }
     }, {
       "item" : {
@@ -2309,7 +2826,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Vzdělávání o permakultuře, Vzdělávání o permakultuře"
+        "value" : "Vzdělávání o permakultuře"
       }
     }, {
       "item" : {
@@ -2335,7 +2852,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Školní zahrada, Školní zahrada"
+        "value" : "Školní zahrada"
       }
     }, {
       "item" : {
@@ -2361,655 +2878,7 @@
       "itemLabel" : {
         "xml:lang" : "cs",
         "type" : "literal",
-        "value" : "Slow food, Slow food"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
-      },
-      "description" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Fair trade je způsob obchodu, který poskytuje pěstitelům a pracovníkům v zemích globálního Jihu možnost uživit se vlastní prací za důstojných podmínek."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Fair trade, Fair trade"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q188485"
-      },
-      "description" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Fair trade je způsob obchodu, který poskytuje pěstitelům a pracovníkům v zemích globálního Jihu možnost uživit se vlastní prací za důstojných podmínek."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Fair trade, Fair trade"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q108"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "socialinclusion_employment"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Sociální integrace skrze práci (integrační sociální podnik), Sociální integrace skrze práci (integrační sociální podnik)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q111"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodbank"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Potravinová banka, Potravinová banka"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q869457"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Co-workingový prostor, Co-workingový prostor"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q115"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "business_incubators"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Podnikatelská centra & inkubátory, Podnikatelská centra & inkubátory"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q121"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitycurrency"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Komunitní měna, Komunitní měna"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q122"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Microfinance"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "microfinance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Mikrofinancování, Mikrofinancování"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q128"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "directdemocracy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Iniciativy přímé demokracie, Iniciativy přímé demokracie"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q131"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "participatory_budgeting"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Participativní veřejný fond, Participativní veřejný fond"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q139"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutualsociety_art"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Společenství vzájemnosti - umění, Společenství vzájemnosti - umění"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q8434"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Vzdělávání a školení, Vzdělávání a školení"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q22"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "community_garden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Komunitní zahrada, Komunitní zahrada"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q24"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "edible_town"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Jedlé město, Jedlé město"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Komunitou podporované zemědělství, Komunitou podporované zemědělství"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Komunitou podporované zemědělství, Komunitou podporované zemědělství"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Spotřebitelský spolek, Spotřebitelský spolek"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Spotřebitelský spolek, Spotřebitelský spolek"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q37"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "guerilla_garden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Guerilla gardening, Guerilla gardening"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Iniciativy uchovávání osiva, Iniciativy uchovávání osiva"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Iniciativy uchovávání osiva, Iniciativy uchovávání osiva"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q41"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "farm_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Přímý nákup / prodej ze dvora, Přímý nákup / prodej ze dvora"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q44"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "local_farmersmarket"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Farmářský trh s místními produkty, Farmářský trh s místními produkty"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q45"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "vegetable_box"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Bedýnkový systém, Bedýnkový systém"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q48"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_cooperative"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Spotřebiltelské družstvo, Spotřebiltelské družstvo"
+        "value" : "Slow food"
       }
     } ]
   }

@@ -28,34 +28,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Spațiu liber, Spațiu liber"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
-      },
-      "description" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Spațiu public sau privat deschis pentru orice persoană sau numai pentru membrii unei organizații, fără a fi nevoie de consumație."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "freespace"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Spațiu liber, Spațiu liber"
+        "value" : "Spațiu liber"
       }
     }, {
       "item" : {
@@ -82,7 +55,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Inițiativa de Mobilitate Durabilă, Inițiativa de Mobilitate Durabilă"
+        "value" : "Inițiativa de Mobilitate Durabilă"
       }
     }, {
       "item" : {
@@ -109,7 +82,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Auto-reparații pentru biciclete, Auto-reparații pentru biciclete"
+        "value" : "Auto-reparații pentru biciclete"
       }
     }, {
       "item" : {
@@ -136,7 +109,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "ONG ce promovează ciclismul, ONG ce promovează ciclismul"
+        "value" : "ONG ce promovează ciclismul"
       }
     }, {
       "item" : {
@@ -163,7 +136,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Proprietate locala colectivă de energie, Proprietate locala colectivă de energie"
+        "value" : "Proprietate locala colectivă de energie"
       }
     }, {
       "item" : {
@@ -185,7 +158,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Deținerea locală colectivă a resurselor, Deținerea locală colectivă a resurselor"
+        "value" : "Deținerea locală colectivă a resurselor"
       }
     }, {
       "item" : {
@@ -212,7 +185,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Composesorat, Composesorat"
+        "value" : "Composesorat"
       }
     }, {
       "item" : {
@@ -239,7 +212,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -261,7 +234,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Inițiative de împuternicire a angajaților, Inițiative de împuternicire a angajaților"
+        "value" : "Inițiative de împuternicire a angajaților"
       }
     }, {
       "item" : {
@@ -279,7 +252,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Redu, reutilizează, repară, reciclează, Redu, reutilizează, repară, reciclează"
+        "value" : "Redu, reutilizează, repară, reciclează"
       }
     }, {
       "item" : {
@@ -301,7 +274,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Magazin Social, Magazin Social"
+        "value" : "Magazin Social"
       }
     }, {
       "item" : {
@@ -323,7 +296,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Cămin pentru persoane fără adăpost, Cămin pentru persoane fără adăpost"
+        "value" : "Cămin pentru persoane fără adăpost"
       }
     }, {
       "item" : {
@@ -350,7 +323,29 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Clacă"
       }
     }, {
       "item" : {
@@ -372,7 +367,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Educație antreprenorială, Educație antreprenorială"
+        "value" : "Educație antreprenorială"
       }
     }, {
       "item" : {
@@ -394,7 +389,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Incubator de afaceri sociale, Incubator de afaceri sociale"
+        "value" : "Incubator de afaceri sociale"
       }
     }, {
       "item" : {
@@ -416,7 +411,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Educație pentru sustenabilitate și solidaritate, Educație pentru sustenabilitate și solidaritate"
+        "value" : "Educație pentru sustenabilitate și solidaritate"
       }
     }, {
       "item" : {
@@ -438,7 +433,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Cercetare pentru sustenabilitate și solidaritate, Cercetare pentru sustenabilitate și solidaritate"
+        "value" : "Cercetare pentru sustenabilitate și solidaritate"
       }
     }, {
       "item" : {
@@ -456,7 +451,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Locuire & habitat, Locuire & habitat"
+        "value" : "Locuire & habitat"
       }
     }, {
       "item" : {
@@ -483,7 +478,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -505,7 +500,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Asigurare mutuală, Asigurare mutuală"
+        "value" : "Asigurare mutuală"
       }
     }, {
       "item" : {
@@ -527,7 +522,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Asigurare mutuală, Asigurare mutuală"
+        "value" : "Asigurare mutuală"
       }
     }, {
       "item" : {
@@ -549,7 +544,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Promovarea finanțărilor etice, Promovarea finanțărilor etice"
+        "value" : "Promovarea finanțărilor etice"
       }
     }, {
       "item" : {
@@ -571,7 +566,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Casă de ajutor reciproc (CAR), Casă de ajutor reciproc (CAR)"
+        "value" : "Casă de ajutor reciproc (CAR)"
       }
     }, {
       "item" : {
@@ -593,7 +588,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Bancă de timp, Bancă de timp"
+        "value" : "Bancă de timp"
       }
     }, {
       "item" : {
@@ -620,7 +615,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -642,7 +637,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Conștientizare privind consumerismul, Conștientizare privind consumerismul"
+        "value" : "Conștientizare privind consumerismul"
       }
     }, {
       "item" : {
@@ -660,7 +655,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Infrastructură & Resurse, Infrastructură & Resurse"
+        "value" : "Infrastructură & Resurse"
       }
     }, {
       "item" : {
@@ -687,7 +682,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -709,7 +704,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Consiliul cetățenesc, Consiliul cetățenesc"
+        "value" : "Consiliul cetățenesc"
       }
     }, {
       "item" : {
@@ -731,7 +726,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Consiliul Tinerilor, Consiliul Tinerilor"
+        "value" : "Consiliul Tinerilor"
       }
     }, {
       "item" : {
@@ -758,7 +753,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -785,7 +780,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "OSCuri / ONGuri, OSCuri / ONGuri"
+        "value" : "OSCuri / ONGuri"
       }
     }, {
       "item" : {
@@ -807,7 +802,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Grupuri comunitare, Grupuri comunitare"
+        "value" : "Grupuri comunitare"
       }
     }, {
       "item" : {
@@ -829,7 +824,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Inițiative de networking, Inițiative de networking"
+        "value" : "Inițiative de networking"
       }
     }, {
       "item" : {
@@ -856,7 +851,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -874,7 +869,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Incluziune socială, Incluziune socială"
+        "value" : "Incluziune socială"
       }
     }, {
       "item" : {
@@ -896,7 +891,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Societăți mutuale de ajutor, Societăți mutuale de ajutor"
+        "value" : "Societăți mutuale de ajutor"
       }
     }, {
       "item" : {
@@ -923,7 +918,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -945,29 +940,25 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Parteneri SSEDAS, Parteneri SSEDAS"
+        "value" : "Parteneri SSEDAS"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q143"
+        "value" : "http://base.transformap.co/entity/Q15"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "http://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ssedas_partner"
+        "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Parteneri SSEDAS, Parteneri SSEDAS"
+        "value" : "Educație & Training"
       }
     }, {
       "item" : {
@@ -985,7 +976,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Finanțe, Finanțe"
+        "value" : "Finanțe"
       }
     }, {
       "item" : {
@@ -1003,7 +994,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Cetățenie Activă, Cetățenie Activă"
+        "value" : "Cetățenie Activă"
       }
     }, {
       "item" : {
@@ -1021,7 +1012,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Auto-organizare & mutualitate, Auto-organizare & mutualitate"
+        "value" : "Auto-organizare & mutualitate"
       }
     }, {
       "item" : {
@@ -1039,7 +1030,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Harta SUSY a rețelei de parteneri, Harta SUSY a rețelei de parteneri"
+        "value" : "Harta SUSY a rețelei de parteneri"
       }
     }, {
       "item" : {
@@ -1062,7 +1053,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -1080,7 +1071,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Cultivare individuală & în comun, Cultivare individuală & în comun"
+        "value" : "Cultivare individuală & în comun"
       }
     }, {
       "item" : {
@@ -1098,7 +1089,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Cumpără local, Cumpără local"
+        "value" : "Cumpără local"
       }
     }, {
       "item" : {
@@ -1116,7 +1107,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Recuperare alimente, Recuperare alimente"
+        "value" : "Recuperare alimente"
       }
     }, {
       "item" : {
@@ -1134,7 +1125,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Educație & politici, Educație & politici"
+        "value" : "Educație & politici"
       }
     }, {
       "item" : {
@@ -1152,7 +1143,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Reducere, Reducere"
+        "value" : "Reducere"
       }
     }, {
       "item" : {
@@ -1170,7 +1161,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Împarte & reutilizeză, Împarte & reutilizeză"
+        "value" : "Împarte & reutilizeză"
       }
     }, {
       "item" : {
@@ -1188,7 +1179,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Repararații, Repararații"
+        "value" : "Repararații"
       }
     }, {
       "item" : {
@@ -1206,7 +1197,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Reciclare & reciclare de înaltă calitate, Reciclare & reciclare de înaltă calitate"
+        "value" : "Reciclare & reciclare de înaltă calitate"
       }
     }, {
       "item" : {
@@ -1224,7 +1215,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Angajament politic, Angajament politic"
+        "value" : "Angajament politic"
       }
     }, {
       "item" : {
@@ -1242,7 +1233,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Participare, Participare"
+        "value" : "Participare"
       }
     }, {
       "item" : {
@@ -1260,7 +1251,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Comunități /Rețele, Comunități /Rețele"
+        "value" : "Comunități /Rețele"
       }
     }, {
       "item" : {
@@ -1282,29 +1273,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Recoltare individuală, Recoltare individuală"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q39"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "self_harvest"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Recoltare individuală, Recoltare individuală"
+        "value" : "Recoltare individuală"
       }
     }, {
       "item" : {
@@ -1331,7 +1300,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -1353,7 +1322,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Achiziție directă virtuală, Achiziție directă virtuală"
+        "value" : "Achiziție directă virtuală"
       }
     }, {
       "item" : {
@@ -1380,7 +1349,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -1402,7 +1371,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Grupuri de distribuire a alimentelor, Grupuri de distribuire a alimentelor"
+        "value" : "Grupuri de distribuire a alimentelor"
       }
     }, {
       "item" : {
@@ -1424,7 +1393,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Bucătărie pentru salvarea hranei, Bucătărie pentru salvarea hranei"
+        "value" : "Bucătărie pentru salvarea hranei"
       }
     }, {
       "item" : {
@@ -1446,7 +1415,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Reciclarea deșeurilor alimentare, Reciclarea deșeurilor alimentare"
+        "value" : "Reciclarea deșeurilor alimentare"
       }
     }, {
       "item" : {
@@ -1473,7 +1442,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -1500,7 +1469,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Împuternicire agricolă, Împuternicire agricolă"
+        "value" : "Împuternicire agricolă"
       }
     }, {
       "item" : {
@@ -1527,7 +1496,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Rețeaua fermelor succesorale, Rețeaua fermelor succesorale"
+        "value" : "Rețeaua fermelor succesorale"
       }
     }, {
       "item" : {
@@ -1554,7 +1523,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -1576,7 +1545,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Școli Fair Trade, Școli Fair Trade"
+        "value" : "Școli Fair Trade"
       }
     }, {
       "item" : {
@@ -1587,10 +1556,6 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1598,7 +1563,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Orașe Fair Trade, Orașe Fair Trade"
+        "value" : "Orașe Fair Trade"
       }
     }, {
       "item" : {
@@ -1620,7 +1585,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Angrosiști Fair Trade, Angrosiști Fair Trade"
+        "value" : "Angrosiști Fair Trade"
       }
     }, {
       "item" : {
@@ -1642,7 +1607,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Comerț direct, Comerț direct"
+        "value" : "Comerț direct"
       }
     }, {
       "item" : {
@@ -1664,7 +1629,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Cooperare pentru Dezvoltare, Cooperare pentru Dezvoltare"
+        "value" : "Cooperare pentru Dezvoltare"
       }
     }, {
       "item" : {
@@ -1691,7 +1656,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -1713,7 +1678,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Conștientizare privind deșeurile, Conștientizare privind deșeurile"
+        "value" : "Conștientizare privind deșeurile"
       }
     }, {
       "item" : {
@@ -1735,7 +1700,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Magazine și Inițiative fără ambalare, Magazine și Inițiative fără ambalare"
+        "value" : "Magazine și Inițiative fără ambalare"
       }
     }, {
       "item" : {
@@ -1762,7 +1727,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -1784,7 +1749,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Vânzări second hand, Vânzări second hand"
+        "value" : "Vânzări second hand"
       }
     }, {
       "item" : {
@@ -1806,7 +1771,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Piață de vechituri, Piață de vechituri"
+        "value" : "Piață de vechituri"
       }
     }, {
       "item" : {
@@ -1828,7 +1793,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Închiriere de haine, Închiriere de haine"
+        "value" : "Închiriere de haine"
       }
     }, {
       "item" : {
@@ -1850,7 +1815,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Împrumut central, Împrumut central"
+        "value" : "Împrumut central"
       }
     }, {
       "item" : {
@@ -1877,7 +1842,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -1899,7 +1864,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Mentenanță și reparații, Mentenanță și reparații"
+        "value" : "Mentenanță și reparații"
       }
     }, {
       "item" : {
@@ -1921,7 +1886,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Revânzare de bunuri reparate, Revânzare de bunuri reparate"
+        "value" : "Revânzare de bunuri reparate"
       }
     }, {
       "item" : {
@@ -1948,7 +1913,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -1966,7 +1931,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Hrană & Agricultură, Hrană & Agricultură"
+        "value" : "Hrană & Agricultură"
       }
     }, {
       "item" : {
@@ -1988,7 +1953,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Reciclare, Reciclare"
+        "value" : "Reciclare"
       }
     }, {
       "item" : {
@@ -2010,7 +1975,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Reciclare de înaltă calitate, Reciclare de înaltă calitate"
+        "value" : "Reciclare de înaltă calitate"
       }
     }, {
       "item" : {
@@ -2032,7 +1997,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Artă eco-aplicată, Artă eco-aplicată"
+        "value" : "Artă eco-aplicată"
       }
     }, {
       "item" : {
@@ -2059,7 +2024,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -2086,423 +2051,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Altele, Altele"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q144"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q144"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Magazine Fair Trade, Magazine Fair Trade"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Puncte de distribuție a alimentelor, Puncte de distribuție a alimentelor"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Educație agro-ecologică, Educație agro-ecologică"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Consiliile politicilor alimentare, Consiliile politicilor alimentare"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Inițiative privind suveranitatea alimentară, Inițiative privind suveranitatea alimentară"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Educație despre permacultură, Educație despre permacultură"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Grădini școlare, Grădini școlare"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Slowfood, Slowfood"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q80"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "giveaway_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Magazin gratuit, Magazin gratuit"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q82"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "swap_market"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Piețe de schimb, Piețe de schimb"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q85"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
-      },
-      "description" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "locuri de întâlnire unde se repara diverse obiecte."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q31"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "repair_cafe"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Cafenele de reparații, Cafenele de reparații"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q95"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Cohousing"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "cohousing"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Locuire la comun, Locuire la comun"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q96"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Commune"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "commune"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Comune, Comune"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q97"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ecovillage"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Eco-sat, Eco-sat"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q98"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Squatting"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "squatted_place"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Instalare fără drept într-o locație, Instalare fără drept într-o locație"
+        "value" : "Altele"
       }
     }, {
       "item" : {
@@ -2529,34 +2078,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Fair Trade/ Comerț Echitabil, Fair Trade/ Comerț Echitabil"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q188485"
-      },
-      "description" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Fair Trade este o mișcare socială care ajută producătorii din țările în curs de dezvoltare să obțină condiții mai bune de comerț și să promoveze sustenabilitatea."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Fair Trade/ Comerț Echitabil, Fair Trade/ Comerț Echitabil"
+        "value" : "Fair Trade/ Comerț Echitabil"
       }
     }, {
       "item" : {
@@ -2582,7 +2104,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Incluziune socială prin angajare, Incluziune socială prin angajare"
+        "value" : "Incluziune socială prin angajare"
       }
     }, {
       "item" : {
@@ -2608,33 +2130,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Bancă de alimente, Bancă de alimente"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q869457"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Clacă, Clacă"
+        "value" : "Bancă de alimente"
       }
     }, {
       "item" : {
@@ -2660,7 +2156,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Centre și Incubatoare de afaceri, Centre și Incubatoare de afaceri"
+        "value" : "Centre și Incubatoare de afaceri"
       }
     }, {
       "item" : {
@@ -2686,7 +2182,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Moneda locală, Moneda locală"
+        "value" : "Moneda locală"
       }
     }, {
       "item" : {
@@ -2712,7 +2208,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Microfinanțare, Microfinanțare"
+        "value" : "Microfinanțare"
       }
     }, {
       "item" : {
@@ -2738,7 +2234,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Inițiative de democrație directă, Inițiative de democrație directă"
+        "value" : "Inițiative de democrație directă"
       }
     }, {
       "item" : {
@@ -2764,7 +2260,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Fonduri mutuale, Fonduri mutuale"
+        "value" : "Fonduri mutuale"
       }
     }, {
       "item" : {
@@ -2790,29 +2286,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Școală populară de artă, Școală populară de artă"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q8434"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ro",
-        "type" : "literal",
-        "value" : "Educație & Training, Educație & Training"
+        "value" : "Școală populară de artă"
       }
     }, {
       "item" : {
@@ -2838,7 +2312,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Grădina comunitară, Grădina comunitară"
+        "value" : "Grădina comunitară"
       }
     }, {
       "item" : {
@@ -2864,7 +2338,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Grădini urbane, Grădini urbane"
+        "value" : "Grădini urbane"
       }
     }, {
       "item" : {
@@ -2890,7 +2364,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Agricultură susținută de comunitate, Agricultură susținută de comunitate"
+        "value" : "Agricultură susținută de comunitate"
       }
     }, {
       "item" : {
@@ -2916,7 +2390,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Agricultură susținută de comunitate, Agricultură susținută de comunitate"
+        "value" : "Agricultură susținută de comunitate"
       }
     }, {
       "item" : {
@@ -2942,7 +2416,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Circuit de procurarea hranei, Circuit de procurarea hranei"
+        "value" : "Circuit de procurarea hranei"
       }
     }, {
       "item" : {
@@ -2968,7 +2442,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Circuit de procurarea hranei, Circuit de procurarea hranei"
+        "value" : "Circuit de procurarea hranei"
       }
     }, {
       "item" : {
@@ -2999,7 +2473,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Guerilla grădinilor, Guerilla grădinilor"
+        "value" : "Guerilla grădinilor"
       }
     }, {
       "item" : {
@@ -3025,7 +2499,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Inițiative de protejare a semințelor tradiționale, Inițiative de protejare a semințelor tradiționale"
+        "value" : "Inițiative de protejare a semințelor tradiționale"
       }
     }, {
       "item" : {
@@ -3051,7 +2525,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Inițiative de protejare a semințelor tradiționale, Inițiative de protejare a semințelor tradiționale"
+        "value" : "Inițiative de protejare a semințelor tradiționale"
       }
     }, {
       "item" : {
@@ -3077,7 +2551,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Achiziție directă / Magazinul fermei, Achiziție directă / Magazinul fermei"
+        "value" : "Achiziție directă / Magazinul fermei"
       }
     }, {
       "item" : {
@@ -3103,7 +2577,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Piața fermierilor locali, Piața fermierilor locali"
+        "value" : "Piața fermierilor locali"
       }
     }, {
       "item" : {
@@ -3129,7 +2603,7 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Piața fermierilor locali, Piața fermierilor locali"
+        "value" : "Piața fermierilor locali"
       }
     }, {
       "item" : {
@@ -3155,7 +2629,402 @@
       "itemLabel" : {
         "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "Cooperativă alimentară, Cooperativă alimentară"
+        "value" : "Cooperativă alimentară"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Magazine Fair Trade"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Puncte de distribuție a alimentelor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Educație agro-ecologică"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Consiliile politicilor alimentare"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Inițiative privind suveranitatea alimentară"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Educație despre permacultură"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Grădini școlare"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Slowfood"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q80"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "giveaway_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Magazin gratuit"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q82"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "swap_market"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Piețe de schimb"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q85"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
+      },
+      "description" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "locuri de întâlnire unde se repara diverse obiecte."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q31"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "repair_cafe"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Cafenele de reparații"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q95"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cohousing"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "cohousing"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Locuire la comun"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q96"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Commune"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "commune"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Comune"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q97"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ecovillage"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Eco-sat"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q98"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Squatting"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "squatted_place"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ro",
+        "type" : "literal",
+        "value" : "Instalare fără drept într-o locație"
       }
     } ]
   }

@@ -23,29 +23,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Espacio Comunitario, Espacio Comunitario"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "freespace"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Espacio Comunitario, Espacio Comunitario"
+        "value" : "Espacio Comunitario"
       }
     }, {
       "item" : {
@@ -67,7 +45,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Iniciativa de movilidad sostenible, Iniciativa de movilidad sostenible"
+        "value" : "Iniciativa de movilidad sostenible"
       }
     }, {
       "item" : {
@@ -89,7 +67,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Taller de autoreparación de bicicletas, Taller de autoreparación de bicicletas"
+        "value" : "Taller de autoreparación de bicicletas"
       }
     }, {
       "item" : {
@@ -111,7 +89,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "ONG de difusión de la movilidad sostenible, ONG de difusión de la movilidad sostenible"
+        "value" : "ONG de difusión de la movilidad sostenible"
       }
     }, {
       "item" : {
@@ -133,7 +111,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Cooperativa de Energía local, Cooperativa de Energía local"
+        "value" : "Cooperativa de Energía local"
       }
     }, {
       "item" : {
@@ -155,7 +133,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Recursos Naturales Colectivos, Recursos Naturales Colectivos"
+        "value" : "Recursos Naturales Colectivos"
       }
     }, {
       "item" : {
@@ -177,7 +155,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Bosque Comunitario, Bosque Comunitario"
+        "value" : "Bosque Comunitario"
       }
     }, {
       "item" : {
@@ -199,7 +177,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -221,7 +199,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Fortalecimiento para la inclusión social, Fortalecimiento para la inclusión social"
+        "value" : "Fortalecimiento para la inclusión social"
       }
     }, {
       "item" : {
@@ -239,7 +217,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Reducir, Reutilizar, Reparar, Reciclar, Reducir, Reutilizar, Reparar, Reciclar"
+        "value" : "Reducir, Reutilizar, Reparar, Reciclar"
       }
     }, {
       "item" : {
@@ -261,7 +239,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Economato / Tienda social, Economato / Tienda social"
+        "value" : "Economato / Tienda social"
       }
     }, {
       "item" : {
@@ -283,7 +261,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Albergue para personas sin techo, Albergue para personas sin techo"
+        "value" : "Albergue para personas sin techo"
       }
     }, {
       "item" : {
@@ -305,7 +283,29 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (Categoría abierta), Otras (Categoría abierta)"
+        "value" : "Otras (Categoría abierta)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Coworking (espacio de trabajo compartido)"
       }
     }, {
       "item" : {
@@ -327,7 +327,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Formación para el emprendimiento, Formación para el emprendimiento"
+        "value" : "Formación para el emprendimiento"
       }
     }, {
       "item" : {
@@ -349,7 +349,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Incubadora de empresas sociales, Incubadora de empresas sociales"
+        "value" : "Incubadora de empresas sociales"
       }
     }, {
       "item" : {
@@ -371,7 +371,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Educación para la sostenibilidad y la solidaridad, Educación para la sostenibilidad y la solidaridad"
+        "value" : "Educación para la sostenibilidad y la solidaridad"
       }
     }, {
       "item" : {
@@ -393,7 +393,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Investigación para la sostenibilidad y la solidaridad, Investigación para la sostenibilidad y la solidaridad"
+        "value" : "Investigación para la sostenibilidad y la solidaridad"
       }
     }, {
       "item" : {
@@ -411,7 +411,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Vivienda Social, Vivienda Social"
+        "value" : "Vivienda Social"
       }
     }, {
       "item" : {
@@ -433,7 +433,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (Categoría abierta), Otras (Categoría abierta)"
+        "value" : "Otras (Categoría abierta)"
       }
     }, {
       "item" : {
@@ -455,7 +455,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Seguro de carácter mutualista, Seguro de carácter mutualista"
+        "value" : "Seguro de carácter mutualista"
       }
     }, {
       "item" : {
@@ -477,7 +477,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Seguro de carácter mutualista, Seguro de carácter mutualista"
+        "value" : "Seguro de carácter mutualista"
       }
     }, {
       "item" : {
@@ -499,7 +499,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Promoción de finanzas éticas, Promoción de finanzas éticas"
+        "value" : "Promoción de finanzas éticas"
       }
     }, {
       "item" : {
@@ -521,7 +521,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Préstamos sociales/solidarios, Préstamos sociales/solidarios"
+        "value" : "Préstamos sociales/solidarios"
       }
     }, {
       "item" : {
@@ -543,7 +543,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Banco del tiempo, Banco del tiempo"
+        "value" : "Banco del tiempo"
       }
     }, {
       "item" : {
@@ -565,7 +565,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -587,7 +587,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Sensibilización sobre consumo responsable, Sensibilización sobre consumo responsable"
+        "value" : "Sensibilización sobre consumo responsable"
       }
     }, {
       "item" : {
@@ -605,7 +605,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Recursos e Infraestructuras, Recursos e Infraestructuras"
+        "value" : "Recursos e Infraestructuras"
       }
     }, {
       "item" : {
@@ -627,7 +627,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -649,7 +649,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Consejo ciudadano, Consejo ciudadano"
+        "value" : "Consejo ciudadano"
       }
     }, {
       "item" : {
@@ -671,7 +671,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Consejo de Juventud, Consejo de Juventud"
+        "value" : "Consejo de Juventud"
       }
     }, {
       "item" : {
@@ -693,7 +693,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -715,7 +715,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "ONG / Organizaciones de la sociedad civil, ONG / Organizaciones de la sociedad civil"
+        "value" : "ONG / Organizaciones de la sociedad civil"
       }
     }, {
       "item" : {
@@ -737,7 +737,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Grupo de apoyo comunitario y de voluntariado, Grupo de apoyo comunitario y de voluntariado"
+        "value" : "Grupo de apoyo comunitario y de voluntariado"
       }
     }, {
       "item" : {
@@ -759,7 +759,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Iniciativas de construcción de redes, Iniciativas de construcción de redes"
+        "value" : "Iniciativas de construcción de redes"
       }
     }, {
       "item" : {
@@ -781,7 +781,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -799,7 +799,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Inclusión Social, Inclusión Social"
+        "value" : "Inclusión Social"
       }
     }, {
       "item" : {
@@ -821,7 +821,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Grupos de Apoyo Mutuo, Grupos de Apoyo Mutuo"
+        "value" : "Grupos de Apoyo Mutuo"
       }
     }, {
       "item" : {
@@ -843,7 +843,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -865,29 +865,25 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Socios SSEDAS, Socios SSEDAS"
+        "value" : "Socios SSEDAS"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q143"
+        "value" : "http://base.transformap.co/entity/Q15"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "http://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ssedas_partner"
+        "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Socios SSEDAS, Socios SSEDAS"
+        "value" : "Educación y Formación"
       }
     }, {
       "item" : {
@@ -905,7 +901,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Finanzas, Finanzas"
+        "value" : "Finanzas"
       }
     }, {
       "item" : {
@@ -923,7 +919,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Ciudadanía Activa, Ciudadanía Activa"
+        "value" : "Ciudadanía Activa"
       }
     }, {
       "item" : {
@@ -941,7 +937,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Auto-organización y apoyo mutuo, Auto-organización y apoyo mutuo"
+        "value" : "Auto-organización y apoyo mutuo"
       }
     }, {
       "item" : {
@@ -959,7 +955,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Red de socios del mapa de SUSY, Red de socios del mapa de SUSY"
+        "value" : "Red de socios del mapa de SUSY"
       }
     }, {
       "item" : {
@@ -977,7 +973,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -995,7 +991,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Agricultura ciudadana y comunitaria, Agricultura ciudadana y comunitaria"
+        "value" : "Agricultura ciudadana y comunitaria"
       }
     }, {
       "item" : {
@@ -1013,7 +1009,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Compra local, Compra local"
+        "value" : "Compra local"
       }
     }, {
       "item" : {
@@ -1031,7 +1027,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Recuperadores de alimentos, Recuperadores de alimentos"
+        "value" : "Recuperadores de alimentos"
       }
     }, {
       "item" : {
@@ -1049,7 +1045,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Educación y Políticas, Educación y Políticas"
+        "value" : "Educación y Políticas"
       }
     }, {
       "item" : {
@@ -1067,7 +1063,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Reducción de residuos, Reducción de residuos"
+        "value" : "Reducción de residuos"
       }
     }, {
       "item" : {
@@ -1085,7 +1081,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Reutiliza y Comparte, Reutiliza y Comparte"
+        "value" : "Reutiliza y Comparte"
       }
     }, {
       "item" : {
@@ -1103,7 +1099,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Iniciativas de reparación y arreglos, Iniciativas de reparación y arreglos"
+        "value" : "Iniciativas de reparación y arreglos"
       }
     }, {
       "item" : {
@@ -1121,7 +1117,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Reciclaje y Upcycling, Reciclaje y Upcycling"
+        "value" : "Reciclaje y Upcycling"
       }
     }, {
       "item" : {
@@ -1139,7 +1135,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Compromiso político, Compromiso político"
+        "value" : "Compromiso político"
       }
     }, {
       "item" : {
@@ -1157,7 +1153,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Participación, Participación"
+        "value" : "Participación"
       }
     }, {
       "item" : {
@@ -1175,7 +1171,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Comunidades / Redes, Comunidades / Redes"
+        "value" : "Comunidades / Redes"
       }
     }, {
       "item" : {
@@ -1197,29 +1193,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Huertos periurbanos, Huertos periurbanos"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q39"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "self_harvest"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Huertos periurbanos, Huertos periurbanos"
+        "value" : "Huertos periurbanos"
       }
     }, {
       "item" : {
@@ -1241,7 +1215,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -1263,7 +1237,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Compra directa por internet, Compra directa por internet"
+        "value" : "Compra directa por internet"
       }
     }, {
       "item" : {
@@ -1285,7 +1259,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -1307,7 +1281,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Grupo de Foodsharing, Grupo de Foodsharing"
+        "value" : "Grupo de Foodsharing"
       }
     }, {
       "item" : {
@@ -1329,7 +1303,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Cocina con alimentos recuperados, Cocina con alimentos recuperados"
+        "value" : "Cocina con alimentos recuperados"
       }
     }, {
       "item" : {
@@ -1351,7 +1325,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Aprovechamiento de desperdicios alimentarios, Aprovechamiento de desperdicios alimentarios"
+        "value" : "Aprovechamiento de desperdicios alimentarios"
       }
     }, {
       "item" : {
@@ -1373,7 +1347,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -1395,7 +1369,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Fortalecimiento agroecológico, Fortalecimiento agroecológico"
+        "value" : "Fortalecimiento agroecológico"
       }
     }, {
       "item" : {
@@ -1417,7 +1391,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Banco de Tierras, Banco de Tierras"
+        "value" : "Banco de Tierras"
       }
     }, {
       "item" : {
@@ -1439,7 +1413,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -1461,7 +1435,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Colegio por el comercio justo, Colegio por el comercio justo"
+        "value" : "Colegio por el comercio justo"
       }
     }, {
       "item" : {
@@ -1472,10 +1446,6 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1483,7 +1453,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Ciudad por el comercio justo, Ciudad por el comercio justo"
+        "value" : "Ciudad por el comercio justo"
       }
     }, {
       "item" : {
@@ -1505,7 +1475,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Mayorista de Comercio Justo, Mayorista de Comercio Justo"
+        "value" : "Mayorista de Comercio Justo"
       }
     }, {
       "item" : {
@@ -1527,7 +1497,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Venta directa, Venta directa"
+        "value" : "Venta directa"
       }
     }, {
       "item" : {
@@ -1549,7 +1519,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Cooperación para el Desarrollo, Cooperación para el Desarrollo"
+        "value" : "Cooperación para el Desarrollo"
       }
     }, {
       "item" : {
@@ -1571,7 +1541,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -1593,7 +1563,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Sensibilización sobre reducción de residuos, Sensibilización sobre reducción de residuos"
+        "value" : "Sensibilización sobre reducción de residuos"
       }
     }, {
       "item" : {
@@ -1615,7 +1585,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Tienda a granel, Tienda a granel"
+        "value" : "Tienda a granel"
       }
     }, {
       "item" : {
@@ -1637,7 +1607,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -1659,7 +1629,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Tienda de segunda mano, Tienda de segunda mano"
+        "value" : "Tienda de segunda mano"
       }
     }, {
       "item" : {
@@ -1681,7 +1651,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Mercado de las Pulgas, Mercado de las Pulgas"
+        "value" : "Mercado de las Pulgas"
       }
     }, {
       "item" : {
@@ -1703,7 +1673,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Tienda de alquiler de ropa, Tienda de alquiler de ropa"
+        "value" : "Tienda de alquiler de ropa"
       }
     }, {
       "item" : {
@@ -1725,7 +1695,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Central de préstamo, Central de préstamo"
+        "value" : "Central de préstamo"
       }
     }, {
       "item" : {
@@ -1747,7 +1717,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -1769,7 +1739,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Mantenimiento y reparación, Mantenimiento y reparación"
+        "value" : "Mantenimiento y reparación"
       }
     }, {
       "item" : {
@@ -1791,7 +1761,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Tienda de segunda mano, Tienda de segunda mano"
+        "value" : "Tienda de segunda mano"
       }
     }, {
       "item" : {
@@ -1813,7 +1783,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -1831,7 +1801,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Agricultura y Alimentación, Agricultura y Alimentación"
+        "value" : "Agricultura y Alimentación"
       }
     }, {
       "item" : {
@@ -1853,7 +1823,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Reciclaje, Reciclaje"
+        "value" : "Reciclaje"
       }
     }, {
       "item" : {
@@ -1875,7 +1845,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Upcycling, Upcycling"
+        "value" : "Upcycling"
       }
     }, {
       "item" : {
@@ -1897,7 +1867,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Arte-naturaleza, Arte-naturaleza"
+        "value" : "Arte-naturaleza"
       }
     }, {
       "item" : {
@@ -1919,7 +1889,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -1941,28 +1911,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Otras (categoría abierta), Otras (categoría abierta)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q144"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q144"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {
@@ -1988,7 +1937,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Tienda Gratis, Tienda Gratis"
+        "value" : "Tienda Gratis"
       }
     }, {
       "item" : {
@@ -2014,7 +1963,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Mercado de trueque, Mercado de trueque"
+        "value" : "Mercado de trueque"
       }
     }, {
       "item" : {
@@ -2040,7 +1989,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Repair café, Repair café"
+        "value" : "Repair café"
       }
     }, {
       "item" : {
@@ -2066,7 +2015,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Cooperativa de vivienda, Cooperativa de vivienda"
+        "value" : "Cooperativa de vivienda"
       }
     }, {
       "item" : {
@@ -2092,7 +2041,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Comuna, Comuna"
+        "value" : "Comuna"
       }
     }, {
       "item" : {
@@ -2118,7 +2067,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Ecoaldea, Ecoaldea"
+        "value" : "Ecoaldea"
       }
     }, {
       "item" : {
@@ -2144,215 +2093,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Iniciativa Okupa, Iniciativa Okupa"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Tienda de comercio justo, Tienda de comercio justo"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Punto de distribución de Foodsharing, Punto de distribución de Foodsharing"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Formación en Agroecología, Formación en Agroecología"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Consejo Alimentario, Consejo Alimentario"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Iniciativa de Soberanía Alimentaria, Iniciativa de Soberanía Alimentaria"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Formación en Permacultura, Formación en Permacultura"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Huerto Escolar, Huerto Escolar"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Slowfood, Slowfood"
+        "value" : "Iniciativa Okupa"
       }
     }, {
       "item" : {
@@ -2374,29 +2115,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Comercio Justo, Comercio Justo"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q188485"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Comercio Justo, Comercio Justo"
+        "value" : "Comercio Justo"
       }
     }, {
       "item" : {
@@ -2422,7 +2141,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Inclusión Social a través del empleo, Inclusión Social a través del empleo"
+        "value" : "Inclusión Social a través del empleo"
       }
     }, {
       "item" : {
@@ -2448,33 +2167,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Banco de alimentos, Banco de alimentos"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q869457"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Coworking (espacio de trabajo compartido), Coworking (espacio de trabajo compartido)"
+        "value" : "Banco de alimentos"
       }
     }, {
       "item" : {
@@ -2500,7 +2193,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Incubadoras de empresas y Centros empresariales, Incubadoras de empresas y Centros empresariales"
+        "value" : "Incubadoras de empresas y Centros empresariales"
       }
     }, {
       "item" : {
@@ -2526,7 +2219,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Moneda Social, Moneda Social"
+        "value" : "Moneda Social"
       }
     }, {
       "item" : {
@@ -2552,7 +2245,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Microfinanciación, Microfinanciación"
+        "value" : "Microfinanciación"
       }
     }, {
       "item" : {
@@ -2578,7 +2271,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Iniciativas de democracia directa, Iniciativas de democracia directa"
+        "value" : "Iniciativas de democracia directa"
       }
     }, {
       "item" : {
@@ -2604,7 +2297,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Presupuestos participativos, Presupuestos participativos"
+        "value" : "Presupuestos participativos"
       }
     }, {
       "item" : {
@@ -2630,29 +2323,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Grupo artístico de apoyo mutuo, Grupo artístico de apoyo mutuo"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q8434"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Educación y Formación, Educación y Formación"
+        "value" : "Grupo artístico de apoyo mutuo"
       }
     }, {
       "item" : {
@@ -2678,7 +2349,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Huertos Comunitarios, Huertos Comunitarios"
+        "value" : "Huertos Comunitarios"
       }
     }, {
       "item" : {
@@ -2704,7 +2375,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Ciudades/ Pueblos comestibles, Ciudades/ Pueblos comestibles"
+        "value" : "Ciudades/ Pueblos comestibles"
       }
     }, {
       "item" : {
@@ -2730,7 +2401,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Agricultura sostenida por la comunidad, Agricultura sostenida por la comunidad"
+        "value" : "Agricultura sostenida por la comunidad"
       }
     }, {
       "item" : {
@@ -2756,7 +2427,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Agricultura sostenida por la comunidad, Agricultura sostenida por la comunidad"
+        "value" : "Agricultura sostenida por la comunidad"
       }
     }, {
       "item" : {
@@ -2782,7 +2453,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Grupo de Consumo, Grupo de Consumo"
+        "value" : "Grupo de Consumo"
       }
     }, {
       "item" : {
@@ -2808,7 +2479,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Grupo de Consumo, Grupo de Consumo"
+        "value" : "Grupo de Consumo"
       }
     }, {
       "item" : {
@@ -2834,7 +2505,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Guerrilla hortelana / Green Guerrilla, Guerrilla hortelana / Green Guerrilla"
+        "value" : "Guerrilla hortelana / Green Guerrilla"
       }
     }, {
       "item" : {
@@ -2860,7 +2531,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Banco de semillas (iniciativa de conservación de semillas), Banco de semillas (iniciativa de conservación de semillas)"
+        "value" : "Banco de semillas (iniciativa de conservación de semillas)"
       }
     }, {
       "item" : {
@@ -2886,7 +2557,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Banco de semillas (iniciativa de conservación de semillas), Banco de semillas (iniciativa de conservación de semillas)"
+        "value" : "Banco de semillas (iniciativa de conservación de semillas)"
       }
     }, {
       "item" : {
@@ -2912,7 +2583,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Venta directa en terreno/finca, Venta directa en terreno/finca"
+        "value" : "Venta directa en terreno/finca"
       }
     }, {
       "item" : {
@@ -2938,7 +2609,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Mercado de Productores, Mercado de Productores"
+        "value" : "Mercado de Productores"
       }
     }, {
       "item" : {
@@ -2964,7 +2635,7 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Modelo de reparto de cajas de alimentos, Modelo de reparto de cajas de alimentos"
+        "value" : "Modelo de reparto de cajas de alimentos"
       }
     }, {
       "item" : {
@@ -2990,7 +2661,215 @@
       "itemLabel" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Cooperativa alimentaria, Cooperativa alimentaria"
+        "value" : "Cooperativa alimentaria"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tienda de comercio justo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Punto de distribución de Foodsharing"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Formación en Agroecología"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Alimentario"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Iniciativa de Soberanía Alimentaria"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Formación en Permacultura"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Huerto Escolar"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Slowfood"
       }
     } ]
   }

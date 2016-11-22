@@ -23,29 +23,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Свободно / споделено простанство, Свободно / споделено простанство"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "freespace"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Свободно / споделено простанство, Свободно / споделено простанство"
+        "value" : "Свободно / споделено простанство"
       }
     }, {
       "item" : {
@@ -67,7 +45,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Инициатива за устойчива мобилност, Инициатива за устойчива мобилност"
+        "value" : "Инициатива за устойчива мобилност"
       }
     }, {
       "item" : {
@@ -89,7 +67,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "\"Ремонтирай сам\" за велосипеди, \"Ремонтирай сам\" за велосипеди"
+        "value" : "\"Ремонтирай сам\" за велосипеди"
       }
     }, {
       "item" : {
@@ -111,7 +89,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "НПО за популяризиране на велосипедизма, НПО за популяризиране на велосипедизма"
+        "value" : "НПО за популяризиране на велосипедизма"
       }
     }, {
       "item" : {
@@ -133,7 +111,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Местна частна колективна собственост върху енергия, Местна частна колективна собственост върху енергия"
+        "value" : "Местна частна колективна собственост върху енергия"
       }
     }, {
       "item" : {
@@ -155,7 +133,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Местна частна колективна собственост върху ресурси, Местна частна колективна собственост върху ресурси"
+        "value" : "Местна частна колективна собственост върху ресурси"
       }
     }, {
       "item" : {
@@ -177,7 +155,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Общностно лесовъдство, Общностно лесовъдство"
+        "value" : "Общностно лесовъдство"
       }
     }, {
       "item" : {
@@ -199,7 +177,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -221,7 +199,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Оправомощаване на социалното включване, Оправомощаване на социалното включване"
+        "value" : "Оправомощаване на социалното включване"
       }
     }, {
       "item" : {
@@ -239,7 +217,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Намаляване на потреблението, повторна употреба, поправяне, рециклиране, Намаляване на потреблението, повторна употреба, поправяне, рециклиране"
+        "value" : "Намаляване на потреблението, повторна употреба, поправяне, рециклиране"
       }
     }, {
       "item" : {
@@ -261,7 +239,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Социални магазини (социален супермаркет), Социални магазини (социален супермаркет)"
+        "value" : "Социални магазини (социален супермаркет)"
       }
     }, {
       "item" : {
@@ -283,7 +261,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Подслон за бездомни, Подслон за бездомни"
+        "value" : "Подслон за бездомни"
       }
     }, {
       "item" : {
@@ -305,7 +283,29 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Съвместна работа"
       }
     }, {
       "item" : {
@@ -327,7 +327,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Обучение за предприемачи, Обучение за предприемачи"
+        "value" : "Обучение за предприемачи"
       }
     }, {
       "item" : {
@@ -349,7 +349,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Социален бизнес инкубатор, Социален бизнес инкубатор"
+        "value" : "Социален бизнес инкубатор"
       }
     }, {
       "item" : {
@@ -371,7 +371,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Обучение по устойчивост и солидарност, Обучение по устойчивост и солидарност"
+        "value" : "Обучение по устойчивост и солидарност"
       }
     }, {
       "item" : {
@@ -393,7 +393,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Проучване по устойчивост и солидарност, Проучване по устойчивост и солидарност"
+        "value" : "Проучване по устойчивост и солидарност"
       }
     }, {
       "item" : {
@@ -411,7 +411,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Жилище и местообитание, Жилище и местообитание"
+        "value" : "Жилище и местообитание"
       }
     }, {
       "item" : {
@@ -433,7 +433,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -455,7 +455,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Взаимозастраховане, Взаимозастраховане"
+        "value" : "Взаимозастраховане"
       }
     }, {
       "item" : {
@@ -477,7 +477,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Взаимозастраховане, Взаимозастраховане"
+        "value" : "Взаимозастраховане"
       }
     }, {
       "item" : {
@@ -499,7 +499,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Насърчаване на етичното финансиране, Насърчаване на етичното финансиране"
+        "value" : "Насърчаване на етичното финансиране"
       }
     }, {
       "item" : {
@@ -521,7 +521,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Солидарно кредитиране, Солидарно кредитиране"
+        "value" : "Солидарно кредитиране"
       }
     }, {
       "item" : {
@@ -543,7 +543,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Времево банкиране, Времево банкиране"
+        "value" : "Времево банкиране"
       }
     }, {
       "item" : {
@@ -565,7 +565,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -587,7 +587,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Повишаване на информираността за прекомерното потребление, Повишаване на информираността за прекомерното потребление"
+        "value" : "Повишаване на информираността за прекомерното потребление"
       }
     }, {
       "item" : {
@@ -605,7 +605,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Инфраструктура и ресурси, Инфраструктура и ресурси"
+        "value" : "Инфраструктура и ресурси"
       }
     }, {
       "item" : {
@@ -627,7 +627,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -649,7 +649,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Граждански съвет, Граждански съвет"
+        "value" : "Граждански съвет"
       }
     }, {
       "item" : {
@@ -671,7 +671,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Младежки съвет, Младежки съвет"
+        "value" : "Младежки съвет"
       }
     }, {
       "item" : {
@@ -693,7 +693,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -715,7 +715,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "ОГО / НПО, ОГО / НПО"
+        "value" : "ОГО / НПО"
       }
     }, {
       "item" : {
@@ -737,7 +737,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Общностна група, Общностна група"
+        "value" : "Общностна група"
       }
     }, {
       "item" : {
@@ -759,7 +759,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Инициатива за създаване на мрежа, Инициатива за създаване на мрежа"
+        "value" : "Инициатива за създаване на мрежа"
       }
     }, {
       "item" : {
@@ -781,7 +781,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -799,7 +799,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Социално включване, Социално включване"
+        "value" : "Социално включване"
       }
     }, {
       "item" : {
@@ -821,7 +821,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Взаимоспомагателна помощ, Взаимоспомагателна помощ"
+        "value" : "Взаимоспомагателна помощ"
       }
     }, {
       "item" : {
@@ -843,7 +843,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -865,29 +865,25 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Партньори по SSEDAS, Партньори по SSEDAS"
+        "value" : "Партньори по SSEDAS"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q143"
+        "value" : "http://base.transformap.co/entity/Q15"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "http://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ssedas_partner"
+        "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Партньори по SSEDAS, Партньори по SSEDAS"
+        "value" : "Образование и обучение"
       }
     }, {
       "item" : {
@@ -905,7 +901,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Финанси, Финанси"
+        "value" : "Финанси"
       }
     }, {
       "item" : {
@@ -923,7 +919,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Активно гражданско участие, Активно гражданско участие"
+        "value" : "Активно гражданско участие"
       }
     }, {
       "item" : {
@@ -941,7 +937,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Самоорганизация и взаимност, Самоорганизация и взаимност"
+        "value" : "Самоорганизация и взаимност"
       }
     }, {
       "item" : {
@@ -959,7 +955,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Карта на партньорската мрежа на SUSY, Карта на партньорската мрежа на SUSY"
+        "value" : "Карта на партньорската мрежа на SUSY"
       }
     }, {
       "item" : {
@@ -977,7 +973,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго, Друго"
+        "value" : "Друго"
       }
     }, {
       "item" : {
@@ -995,7 +991,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Отгледай го сам и заедно, Отгледай го сам и заедно"
+        "value" : "Отгледай го сам и заедно"
       }
     }, {
       "item" : {
@@ -1013,7 +1009,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Купуване на местни продукти, Купуване на местни продукти"
+        "value" : "Купуване на местни продукти"
       }
     }, {
       "item" : {
@@ -1031,7 +1027,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Спасяване на храна, Спасяване на храна"
+        "value" : "Спасяване на храна"
       }
     }, {
       "item" : {
@@ -1049,7 +1045,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Образование и политика, Образование и политика"
+        "value" : "Образование и политика"
       }
     }, {
       "item" : {
@@ -1067,7 +1063,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Намаляване, Намаляване"
+        "value" : "Намаляване"
       }
     }, {
       "item" : {
@@ -1085,7 +1081,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Споделяне и повторна употреба, Споделяне и повторна употреба"
+        "value" : "Споделяне и повторна употреба"
       }
     }, {
       "item" : {
@@ -1103,7 +1099,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Поправяне, Поправяне"
+        "value" : "Поправяне"
       }
     }, {
       "item" : {
@@ -1121,7 +1117,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Рециклиране и креативно използване, Рециклиране и креативно използване"
+        "value" : "Рециклиране и креативно използване"
       }
     }, {
       "item" : {
@@ -1139,7 +1135,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Политическо ангажиране, Политическо ангажиране"
+        "value" : "Политическо ангажиране"
       }
     }, {
       "item" : {
@@ -1157,7 +1153,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Участие, Участие"
+        "value" : "Участие"
       }
     }, {
       "item" : {
@@ -1175,7 +1171,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Общности / мрежи, Общности / мрежи"
+        "value" : "Общности / мрежи"
       }
     }, {
       "item" : {
@@ -1197,29 +1193,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Самостоятелно прибиране на реколтата, Самостоятелно прибиране на реколтата"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q39"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "self_harvest"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Самостоятелно прибиране на реколтата, Самостоятелно прибиране на реколтата"
+        "value" : "Самостоятелно прибиране на реколтата"
       }
     }, {
       "item" : {
@@ -1241,7 +1215,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -1263,7 +1237,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Онлайн преки покупки, Онлайн преки покупки"
+        "value" : "Онлайн преки покупки"
       }
     }, {
       "item" : {
@@ -1285,7 +1259,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -1307,7 +1281,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Група за споделяне на храна, Група за споделяне на храна"
+        "value" : "Група за споделяне на храна"
       }
     }, {
       "item" : {
@@ -1329,7 +1303,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Кухня със спасена храна, Кухня със спасена храна"
+        "value" : "Кухня със спасена храна"
       }
     }, {
       "item" : {
@@ -1351,7 +1325,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Рециклиране на хранителни отпадъци, Рециклиране на хранителни отпадъци"
+        "value" : "Рециклиране на хранителни отпадъци"
       }
     }, {
       "item" : {
@@ -1373,7 +1347,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -1395,7 +1369,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Овластяване на селските стопани, Овластяване на селските стопани"
+        "value" : "Овластяване на селските стопани"
       }
     }, {
       "item" : {
@@ -1417,7 +1391,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Мрежа за приемственост на ферми, Мрежа за приемственост на ферми"
+        "value" : "Мрежа за приемственост на ферми"
       }
     }, {
       "item" : {
@@ -1439,7 +1413,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -1461,7 +1435,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Училище за справедлива търговия, Училище за справедлива търговия"
+        "value" : "Училище за справедлива търговия"
       }
     }, {
       "item" : {
@@ -1472,10 +1446,6 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1483,7 +1453,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Град за справедлива търговия, Град за справедлива търговия"
+        "value" : "Град за справедлива търговия"
       }
     }, {
       "item" : {
@@ -1505,7 +1475,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Търговец на едро на продукти от справедлива търговия, Търговец на едро на продукти от справедлива търговия"
+        "value" : "Търговец на едро на продукти от справедлива търговия"
       }
     }, {
       "item" : {
@@ -1527,7 +1497,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Директна търговия, Директна търговия"
+        "value" : "Директна търговия"
       }
     }, {
       "item" : {
@@ -1549,7 +1519,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Сътрудничество за развитие, Сътрудничество за развитие"
+        "value" : "Сътрудничество за развитие"
       }
     }, {
       "item" : {
@@ -1571,7 +1541,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -1593,7 +1563,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Повишаване на осведомеността за отпадъците, Повишаване на осведомеността за отпадъците"
+        "value" : "Повишаване на осведомеността за отпадъците"
       }
     }, {
       "item" : {
@@ -1615,7 +1585,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Магазини и инициативи \"без опаковки\", Магазини и инициативи \"без опаковки\""
+        "value" : "Магазини и инициативи \"без опаковки\""
       }
     }, {
       "item" : {
@@ -1637,7 +1607,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -1659,7 +1629,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Продажба на използвани стоки, Продажба на използвани стоки"
+        "value" : "Продажба на използвани стоки"
       }
     }, {
       "item" : {
@@ -1681,7 +1651,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Битпазар, Битпазар"
+        "value" : "Битпазар"
       }
     }, {
       "item" : {
@@ -1703,7 +1673,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Облекла под наем, Облекла под наем"
+        "value" : "Облекла под наем"
       }
     }, {
       "item" : {
@@ -1725,7 +1695,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Централа за кредитиране, Централа за кредитиране"
+        "value" : "Централа за кредитиране"
       }
     }, {
       "item" : {
@@ -1747,7 +1717,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -1769,7 +1739,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Поддръжка и ремонт, Поддръжка и ремонт"
+        "value" : "Поддръжка и ремонт"
       }
     }, {
       "item" : {
@@ -1791,7 +1761,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Препродажба или ремонтирани стоки, Препродажба или ремонтирани стоки"
+        "value" : "Препродажба или ремонтирани стоки"
       }
     }, {
       "item" : {
@@ -1813,7 +1783,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -1831,7 +1801,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Храна и селско стопанство, Храна и селско стопанство"
+        "value" : "Храна и селско стопанство"
       }
     }, {
       "item" : {
@@ -1853,7 +1823,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Рециклиране, Рециклиране"
+        "value" : "Рециклиране"
       }
     }, {
       "item" : {
@@ -1875,7 +1845,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Креативно използване, Креативно използване"
+        "value" : "Креативно използване"
       }
     }, {
       "item" : {
@@ -1897,7 +1867,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Екологично приложно изкуство, Екологично приложно изкуство"
+        "value" : "Екологично приложно изкуство"
       }
     }, {
       "item" : {
@@ -1919,7 +1889,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -1941,28 +1911,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Друго (отворена категория), Друго (отворена категория)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q144"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "other"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q144"
+        "value" : "Друго (отворена категория)"
       }
     }, {
       "item" : {
@@ -1988,7 +1937,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Безплатен магазин, Безплатен магазин"
+        "value" : "Безплатен магазин"
       }
     }, {
       "item" : {
@@ -2014,7 +1963,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Пазар за обмяна, Пазар за обмяна"
+        "value" : "Пазар за обмяна"
       }
     }, {
       "item" : {
@@ -2040,7 +1989,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Кафене за ремонт, Кафене за ремонт"
+        "value" : "Кафене за ремонт"
       }
     }, {
       "item" : {
@@ -2066,7 +2015,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Кохаузинг, Кохаузинг"
+        "value" : "Кохаузинг"
       }
     }, {
       "item" : {
@@ -2092,7 +2041,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Комуна, Комуна"
+        "value" : "Комуна"
       }
     }, {
       "item" : {
@@ -2118,7 +2067,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Еко селище, Еко селище"
+        "value" : "Еко селище"
       }
     }, {
       "item" : {
@@ -2144,215 +2093,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Самонастаняване, Самонастаняване"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Магазин за справедлива търговия, Магазин за справедлива търговия"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Пункт за разпределяне на споделена храна, Пункт за разпределяне на споделена храна"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Агроекологично образование, Агроекологично образование"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Съвет за политика за храните, Съвет за политика за храните"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Продоволствена инициатива, Продоволствена инициатива"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Пермакултурно обучение, Пермакултурно обучение"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Училищна градина, Училищна градина"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Бавна храна, Бавна храна"
+        "value" : "Самонастаняване"
       }
     }, {
       "item" : {
@@ -2374,29 +2115,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Справедлива търговия, Справедлива търговия"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q188485"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Справедлива търговия, Справедлива търговия"
+        "value" : "Справедлива търговия"
       }
     }, {
       "item" : {
@@ -2422,7 +2141,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Социално включване чрез заетост, Социално включване чрез заетост"
+        "value" : "Социално включване чрез заетост"
       }
     }, {
       "item" : {
@@ -2448,33 +2167,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Хранителна банка, Хранителна банка"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q869457"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Съвместна работа, Съвместна работа"
+        "value" : "Хранителна банка"
       }
     }, {
       "item" : {
@@ -2500,7 +2193,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Бизнес центрове и инкубатори, Бизнес центрове и инкубатори"
+        "value" : "Бизнес центрове и инкубатори"
       }
     }, {
       "item" : {
@@ -2526,7 +2219,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "валута на общността, валута на общността"
+        "value" : "валута на общността"
       }
     }, {
       "item" : {
@@ -2552,7 +2245,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Микрофинанси, Микрофинанси"
+        "value" : "Микрофинанси"
       }
     }, {
       "item" : {
@@ -2578,7 +2271,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Инициатива за директна демокрация, Инициатива за директна демокрация"
+        "value" : "Инициатива за директна демокрация"
       }
     }, {
       "item" : {
@@ -2604,7 +2297,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Обществени фондове, в които може да се участва, Обществени фондове, в които може да се участва"
+        "value" : "Обществени фондове, в които може да се участва"
       }
     }, {
       "item" : {
@@ -2630,29 +2323,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Взаимоспомагателно изкуство, Взаимоспомагателно изкуство"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q8434"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "bg",
-        "type" : "literal",
-        "value" : "Образование и обучение, Образование и обучение"
+        "value" : "Взаимоспомагателно изкуство"
       }
     }, {
       "item" : {
@@ -2678,7 +2349,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Обществена градина, Обществена градина"
+        "value" : "Обществена градина"
       }
     }, {
       "item" : {
@@ -2704,7 +2375,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Град градина, Град градина"
+        "value" : "Град градина"
       }
     }, {
       "item" : {
@@ -2730,7 +2401,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Селско стопанство подкрепяно от общността, Селско стопанство подкрепяно от общността"
+        "value" : "Селско стопанство подкрепяно от общността"
       }
     }, {
       "item" : {
@@ -2756,7 +2427,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Селско стопанство подкрепяно от общността, Селско стопанство подкрепяно от общността"
+        "value" : "Селско стопанство подкрепяно от общността"
       }
     }, {
       "item" : {
@@ -2782,7 +2453,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Групи купуващи храна, Групи купуващи храна"
+        "value" : "Групи купуващи храна"
       }
     }, {
       "item" : {
@@ -2808,7 +2479,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Групи купуващи храна, Групи купуващи храна"
+        "value" : "Групи купуващи храна"
       }
     }, {
       "item" : {
@@ -2834,7 +2505,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Партизанско градинарство, Партизанско градинарство"
+        "value" : "Партизанско градинарство"
       }
     }, {
       "item" : {
@@ -2860,7 +2531,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Инициатива за съхраняване на семена, Инициатива за съхраняване на семена"
+        "value" : "Инициатива за съхраняване на семена"
       }
     }, {
       "item" : {
@@ -2886,7 +2557,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Инициатива за съхраняване на семена, Инициатива за съхраняване на семена"
+        "value" : "Инициатива за съхраняване на семена"
       }
     }, {
       "item" : {
@@ -2912,7 +2583,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Пряко закупуване / фермерски магазин, Пряко закупуване / фермерски магазин"
+        "value" : "Пряко закупуване / фермерски магазин"
       }
     }, {
       "item" : {
@@ -2938,7 +2609,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Местен фермерски пазар, Местен фермерски пазар"
+        "value" : "Местен фермерски пазар"
       }
     }, {
       "item" : {
@@ -2964,7 +2635,7 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Доставка на фермерски храни, Доставка на фермерски храни"
+        "value" : "Доставка на фермерски храни"
       }
     }, {
       "item" : {
@@ -2990,7 +2661,215 @@
       "itemLabel" : {
         "xml:lang" : "bg",
         "type" : "literal",
-        "value" : "Хранителен кооператив, Хранителен кооператив"
+        "value" : "Хранителен кооператив"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Магазин за справедлива търговия"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Пункт за разпределяне на споделена храна"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Агроекологично образование"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Съвет за политика за храните"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Продоволствена инициатива"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Пермакултурно обучение"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Училищна градина"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "bg",
+        "type" : "literal",
+        "value" : "Бавна храна"
       }
     } ]
   }

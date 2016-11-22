@@ -6,1099 +6,6 @@
     "bindings" : [ {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q80"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "giveaway_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Loja de bens doados, Loja de bens doados"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q82"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "swap_market"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Mercado de trocas, Mercado de trocas"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q85"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q31"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "repair_cafe"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Repair café, Repair café"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q95"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Cohousing"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Cohousing é uma comunidade em que os seus habitantes vivem em casas privadas,  mas que estão aglomeradas em torno de espaços partilhados/comuns."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "cohousing"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Cohousing, Cohousing"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q96"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Commune"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Pessoas que vivem conjuntamente e que partilham interesse comuns e frequentemente partilham os mesmos valores e ideais. A propriedade é partilhada, bem como os recursos e em alguns casos a partilha inclui os rendimentos e os bens."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "commune"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Comunidade, Comunidade"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q97"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Ecovilas são comunidades intencionais cujo objetivo é tornarem-se sustentáveis social, económica e ecologicamente."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ecovillage"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Ecovila, Ecovila"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q98"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Squatting"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "squatted_place"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Okupas, Okupas"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Lojas de comércio justo, Lojas de comércio justo"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Pontos de distribuição de partilha de alimentos, Pontos de distribuição de partilha de alimentos"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Educação Agro-Ecológica, Educação Agro-Ecológica"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Conselhos de política alimentar, Conselhos de política alimentar"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Iniciativas de soberania alimentar, Iniciativas de soberania alimentar"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Educação para a permacultura, Educação para a permacultura"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Escolas de jardinagem, Escolas de jardinagem"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Slowfood, Slowfood"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "O Comércio Justo é uma aliança entre pequenos produtores dos países em desenvolvimento e consumidores de todo o mundo, com o objetivo de promover condições de vida e trabalho dignas, respeito pelo ambiente e garantia de produtos de qualidade."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Comércio Justo, Comércio Justo"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q188485"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "O Comércio Justo é uma aliança entre pequenos produtores dos países em desenvolvimento e consumidores de todo o mundo, com o objetivo de promover condições de vida e trabalho dignas, respeito pelo ambiente e garantia de produtos de qualidade."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Comércio Justo, Comércio Justo"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q108"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Empresas que criam emprego para pessoas com deficiência e pessoas carenciadas e que os integram no mercado de trabalho (pessoa com deficiência física e /ou mental ; antigos presidiários; antigos toxicodependentes …)"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "socialinclusion_employment"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Inclusão social através do emprego, Inclusão social através do emprego"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q111"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodbank"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Banco Alimentar, Banco Alimentar"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q869457"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Coworking, Coworking"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q115"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Centros empresariais e incubadoras são espaços criados nas comunidades para apoiar as pessoas que estão a tentar iniciar a sua própria iniciativa ou ideia de negócio."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "business_incubators"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Centros empresariais e incubadoras, Centros empresariais e incubadoras"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q121"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Considerada um instrumento de desenvolvimento local, destinada a beneficiar o mercado de trabalho dos grupos que participam da economia local. A sua utilização  é restrita e beneficia a redistribuição dos recursos na esfera da própria comunidade."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitycurrency"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Moeda comunitária, Moeda comunitária"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q122"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Microfinance"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "microfinance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Microfinanças, Microfinanças"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q128"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "directdemocracy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Iniciativa de Democracia direta, Iniciativa de Democracia direta"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q131"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "participatory_budgeting"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Fundo Público participativo, Fundo Público participativo"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q139"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutualsociety_art"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Sociedades de arte mutualistas, Sociedades de arte mutualistas"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q8434"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Formação e Educação, Formação e Educação"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q22"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Um jardim comunitário é um pedaço de terra ajardinado por um coletivo de pessoas."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "community_garden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Jardins comunitários, Jardins comunitários"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q24"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "edible_town"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Cidades Comestíveis, Cidades Comestíveis"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Agricultura comunitária, Agricultura comunitária"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Agricultura comunitária, Agricultura comunitária"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Um grupo de pessoas que se organiza coletivamente para comprar diretamente aos produtores."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Compra coletiva de alimentos, Compra coletiva de alimentos"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Um grupo de pessoas que se organiza coletivamente para comprar diretamente aos produtores."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Compra coletiva de alimentos, Compra coletiva de alimentos"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q37"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Jardinagem de guerrilha é o ato de jardinagem em terras que os jardineiros não têm os direitos legais para utilizar, como um local abandonado, uma área sem manutenção, ou em propriedades privadas. Muitas vezes, estes projetos obtêm um estatuto legal."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "guerilla_garden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Jardinagem de guerrilha, Jardinagem de guerrilha"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Iniciativas de preservação de sementes, Iniciativas de preservação de sementes"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Iniciativas de preservação de sementes, Iniciativas de preservação de sementes"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q41"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "farm_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Compras diretas/Compras na Quinta, Compras diretas/Compras na Quinta"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q44"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "local_farmersmarket"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Mercados de agricultores locais, Mercados de agricultores locais"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q45"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Agricultores locais que semanalmente fazem entregas de cabazes de legumes ao domicílio."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "vegetable_box"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Cabazes de legumes, Cabazes de legumes"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q48"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_cooperative"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Cooperativas alimentares, Cooperativas alimentares"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q100"
       },
       "description" : {
@@ -1121,34 +28,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Espaço Comunitário, Espaço Comunitário"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Espaços públicos ou privados, que são abertos ao público livremente, ou através da adesão como membro. Não há obrigatoriedade de consumo de bens ou serviços nestes espaços."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "freespace"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Espaço Comunitário, Espaço Comunitário"
+        "value" : "Espaço Comunitário"
       }
     }, {
       "item" : {
@@ -1175,7 +55,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Iniciativa de Mobilidade Sustentável, Iniciativa de Mobilidade Sustentável"
+        "value" : "Iniciativa de Mobilidade Sustentável"
       }
     }, {
       "item" : {
@@ -1202,7 +82,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Cicloficina, Cicloficina"
+        "value" : "Cicloficina"
       }
     }, {
       "item" : {
@@ -1229,7 +109,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Movimento de promoção do uso da bicicleta, Movimento de promoção do uso da bicicleta"
+        "value" : "Movimento de promoção do uso da bicicleta"
       }
     }, {
       "item" : {
@@ -1256,7 +136,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Coletivo Local de Produção de Energia, Coletivo Local de Produção de Energia"
+        "value" : "Coletivo Local de Produção de Energia"
       }
     }, {
       "item" : {
@@ -1283,7 +163,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Recursos locais coletivos, Recursos locais coletivos"
+        "value" : "Recursos locais coletivos"
       }
     }, {
       "item" : {
@@ -1310,7 +190,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Floresta Comunitária, Floresta Comunitária"
+        "value" : "Floresta Comunitária"
       }
     }, {
       "item" : {
@@ -1337,7 +217,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -1359,7 +239,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Empoderamento pela inclusão social, Empoderamento pela inclusão social"
+        "value" : "Empoderamento pela inclusão social"
       }
     }, {
       "item" : {
@@ -1377,7 +257,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Reduzir, reutilizar, reparar, reciclar, Reduzir, reutilizar, reparar, reciclar"
+        "value" : "Reduzir, reutilizar, reparar, reciclar"
       }
     }, {
       "item" : {
@@ -1399,7 +279,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Lojas sociais (supermercados sociais), Lojas sociais (supermercados sociais)"
+        "value" : "Lojas sociais (supermercados sociais)"
       }
     }, {
       "item" : {
@@ -1421,7 +301,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Casas de acolhimento a sem-abrigo, Casas de acolhimento a sem-abrigo"
+        "value" : "Casas de acolhimento a sem-abrigo"
       }
     }, {
       "item" : {
@@ -1443,7 +323,29 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Coworking"
       }
     }, {
       "item" : {
@@ -1465,7 +367,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Educação para o empreendedorismo, Educação para o empreendedorismo"
+        "value" : "Educação para o empreendedorismo"
       }
     }, {
       "item" : {
@@ -1492,7 +394,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Incubadora de negócios sociais, Incubadora de negócios sociais"
+        "value" : "Incubadora de negócios sociais"
       }
     }, {
       "item" : {
@@ -1514,7 +416,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Educação Solidária e Sustentável, Educação Solidária e Sustentável"
+        "value" : "Educação Solidária e Sustentável"
       }
     }, {
       "item" : {
@@ -1536,7 +438,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Investigação Solidária e Sustentável, Investigação Solidária e Sustentável"
+        "value" : "Investigação Solidária e Sustentável"
       }
     }, {
       "item" : {
@@ -1554,7 +456,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Habitação e Habitat, Habitação e Habitat"
+        "value" : "Habitação e Habitat"
       }
     }, {
       "item" : {
@@ -1576,7 +478,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -1598,7 +500,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Mutualidades, Mutualidades"
+        "value" : "Mutualidades"
       }
     }, {
       "item" : {
@@ -1620,7 +522,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Mutualidades, Mutualidades"
+        "value" : "Mutualidades"
       }
     }, {
       "item" : {
@@ -1642,7 +544,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Promoção de financiamento ético, Promoção de financiamento ético"
+        "value" : "Promoção de financiamento ético"
       }
     }, {
       "item" : {
@@ -1664,7 +566,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Empréstimos solidários, Empréstimos solidários"
+        "value" : "Empréstimos solidários"
       }
     }, {
       "item" : {
@@ -1686,7 +588,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Banco do Tempo, Banco do Tempo"
+        "value" : "Banco do Tempo"
       }
     }, {
       "item" : {
@@ -1708,7 +610,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -1730,7 +632,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Consciencialização para o consumo, Consciencialização para o consumo"
+        "value" : "Consciencialização para o consumo"
       }
     }, {
       "item" : {
@@ -1748,7 +650,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Recursos e Infraestruturas, Recursos e Infraestruturas"
+        "value" : "Recursos e Infraestruturas"
       }
     }, {
       "item" : {
@@ -1770,7 +672,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -1792,7 +694,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Conselhos de Cidadania, Conselhos de Cidadania"
+        "value" : "Conselhos de Cidadania"
       }
     }, {
       "item" : {
@@ -1814,7 +716,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros Conselhos, Outros Conselhos"
+        "value" : "Outros Conselhos"
       }
     }, {
       "item" : {
@@ -1836,7 +738,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -1863,7 +765,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "OSC/ONG, OSC/ONG"
+        "value" : "OSC/ONG"
       }
     }, {
       "item" : {
@@ -1885,7 +787,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Grupo comunitário, Grupo comunitário"
+        "value" : "Grupo comunitário"
       }
     }, {
       "item" : {
@@ -1907,7 +809,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Iniciativas de Parcerias, Iniciativas de Parcerias"
+        "value" : "Iniciativas de Parcerias"
       }
     }, {
       "item" : {
@@ -1929,7 +831,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -1947,7 +849,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Inclusão social, Inclusão social"
+        "value" : "Inclusão social"
       }
     }, {
       "item" : {
@@ -1969,7 +871,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Mutualidades de assistência, Mutualidades de assistência"
+        "value" : "Mutualidades de assistência"
       }
     }, {
       "item" : {
@@ -1991,7 +893,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -2013,29 +915,25 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Parceiros SSEDAS, Parceiros SSEDAS"
+        "value" : "Parceiros SSEDAS"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q143"
+        "value" : "http://base.transformap.co/entity/Q15"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "http://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ssedas_partner"
+        "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Parceiros SSEDAS, Parceiros SSEDAS"
+        "value" : "Formação e Educação"
       }
     }, {
       "item" : {
@@ -2053,7 +951,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Finanças, Finanças"
+        "value" : "Finanças"
       }
     }, {
       "item" : {
@@ -2071,7 +969,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Cidadania ativa, Cidadania ativa"
+        "value" : "Cidadania ativa"
       }
     }, {
       "item" : {
@@ -2089,7 +987,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Auto-Organização e Mutualidade, Auto-Organização e Mutualidade"
+        "value" : "Auto-Organização e Mutualidade"
       }
     }, {
       "item" : {
@@ -2107,7 +1005,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Mapeamento da rede de parceiros, Mapeamento da rede de parceiros"
+        "value" : "Mapeamento da rede de parceiros"
       }
     }, {
       "item" : {
@@ -2130,7 +1028,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros, Outros"
+        "value" : "Outros"
       }
     }, {
       "item" : {
@@ -2148,7 +1046,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Cultive por si e/ou em comunidade, Cultive por si e/ou em comunidade"
+        "value" : "Cultive por si e/ou em comunidade"
       }
     }, {
       "item" : {
@@ -2166,7 +1064,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Comprar Local, Comprar Local"
+        "value" : "Comprar Local"
       }
     }, {
       "item" : {
@@ -2184,7 +1082,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Resgate de alimentos, Resgate de alimentos"
+        "value" : "Resgate de alimentos"
       }
     }, {
       "item" : {
@@ -2202,7 +1100,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Educação e Política, Educação e Política"
+        "value" : "Educação e Política"
       }
     }, {
       "item" : {
@@ -2220,7 +1118,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Reduzir, Reduzir"
+        "value" : "Reduzir"
       }
     }, {
       "item" : {
@@ -2238,7 +1136,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Partilha e Reutilização, Partilha e Reutilização"
+        "value" : "Partilha e Reutilização"
       }
     }, {
       "item" : {
@@ -2256,7 +1154,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Reparação, Reparação"
+        "value" : "Reparação"
       }
     }, {
       "item" : {
@@ -2274,7 +1172,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Reciclar e Upcycling, Reciclar e Upcycling"
+        "value" : "Reciclar e Upcycling"
       }
     }, {
       "item" : {
@@ -2292,7 +1190,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Compromisso político, Compromisso político"
+        "value" : "Compromisso político"
       }
     }, {
       "item" : {
@@ -2310,7 +1208,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Participação, Participação"
+        "value" : "Participação"
       }
     }, {
       "item" : {
@@ -2328,7 +1226,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Comunidades / redes, Comunidades / redes"
+        "value" : "Comunidades / redes"
       }
     }, {
       "item" : {
@@ -2355,34 +1253,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Auto-Colheita, Auto-Colheita"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q39"
-      },
-      "description" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Agricultores que oferecem lotes de terra para auto-colheita"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "self_harvest"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pt",
-        "type" : "literal",
-        "value" : "Auto-Colheita, Auto-Colheita"
+        "value" : "Auto-Colheita"
       }
     }, {
       "item" : {
@@ -2404,7 +1275,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -2426,7 +1297,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Compras diretas virtuais, Compras diretas virtuais"
+        "value" : "Compras diretas virtuais"
       }
     }, {
       "item" : {
@@ -2448,7 +1319,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -2470,7 +1341,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Grupos de partilha de alimentos, Grupos de partilha de alimentos"
+        "value" : "Grupos de partilha de alimentos"
       }
     }, {
       "item" : {
@@ -2492,7 +1363,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Cozinhas de alimentos resgatados, Cozinhas de alimentos resgatados"
+        "value" : "Cozinhas de alimentos resgatados"
       }
     }, {
       "item" : {
@@ -2514,7 +1385,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Reutilização de Desperdício Alimentar, Reutilização de Desperdício Alimentar"
+        "value" : "Reutilização de Desperdício Alimentar"
       }
     }, {
       "item" : {
@@ -2541,7 +1412,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -2568,7 +1439,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Empoderamento agrícola, Empoderamento agrícola"
+        "value" : "Empoderamento agrícola"
       }
     }, {
       "item" : {
@@ -2590,7 +1461,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Parcerias de sucessão agrícola, Parcerias de sucessão agrícola"
+        "value" : "Parcerias de sucessão agrícola"
       }
     }, {
       "item" : {
@@ -2617,7 +1488,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -2639,7 +1510,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Escolas de comércio justo, Escolas de comércio justo"
+        "value" : "Escolas de comércio justo"
       }
     }, {
       "item" : {
@@ -2650,10 +1521,6 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -2661,7 +1528,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Cidades de comércio justo, Cidades de comércio justo"
+        "value" : "Cidades de comércio justo"
       }
     }, {
       "item" : {
@@ -2683,7 +1550,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Grossistas de comércio justo, Grossistas de comércio justo"
+        "value" : "Grossistas de comércio justo"
       }
     }, {
       "item" : {
@@ -2705,7 +1572,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Comércio direto, Comércio direto"
+        "value" : "Comércio direto"
       }
     }, {
       "item" : {
@@ -2727,7 +1594,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Cooperação para o desenvolvimento, Cooperação para o desenvolvimento"
+        "value" : "Cooperação para o desenvolvimento"
       }
     }, {
       "item" : {
@@ -2754,7 +1621,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -2776,7 +1643,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Consciencialização para o desperdício, Consciencialização para o desperdício"
+        "value" : "Consciencialização para o desperdício"
       }
     }, {
       "item" : {
@@ -2798,7 +1665,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Iniciativas e lojas sem embalagens, Iniciativas e lojas sem embalagens"
+        "value" : "Iniciativas e lojas sem embalagens"
       }
     }, {
       "item" : {
@@ -2825,7 +1692,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -2847,7 +1714,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Venda de bens usados, Venda de bens usados"
+        "value" : "Venda de bens usados"
       }
     }, {
       "item" : {
@@ -2869,7 +1736,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Mercado de produtos usados, Mercado de produtos usados"
+        "value" : "Mercado de produtos usados"
       }
     }, {
       "item" : {
@@ -2891,7 +1758,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Aluguer de vestuário, Aluguer de vestuário"
+        "value" : "Aluguer de vestuário"
       }
     }, {
       "item" : {
@@ -2913,7 +1780,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Financiamento central, Financiamento central"
+        "value" : "Financiamento central"
       }
     }, {
       "item" : {
@@ -2940,7 +1807,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -2962,7 +1829,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Reparação e Manutenção, Reparação e Manutenção"
+        "value" : "Reparação e Manutenção"
       }
     }, {
       "item" : {
@@ -2984,7 +1851,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Revender ou reparar bens, Revender ou reparar bens"
+        "value" : "Revender ou reparar bens"
       }
     }, {
       "item" : {
@@ -3011,7 +1878,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -3029,7 +1896,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Agricultura e Alimentação, Agricultura e Alimentação"
+        "value" : "Agricultura e Alimentação"
       }
     }, {
       "item" : {
@@ -3051,7 +1918,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Reciclagem, Reciclagem"
+        "value" : "Reciclagem"
       }
     }, {
       "item" : {
@@ -3073,7 +1940,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Upcycling, Upcycling"
+        "value" : "Upcycling"
       }
     }, {
       "item" : {
@@ -3121,7 +1988,7 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
@@ -3143,16 +2010,20 @@
       "itemLabel" : {
         "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "Outros (categoria em aberto), Outros (categoria em aberto)"
+        "value" : "Outros (categoria em aberto)"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q144"
+        "value" : "http://base.transformap.co/entity/Q80"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
+        "value" : "http://base.transformap.co/entity/Q30"
       },
       "instance_of" : {
         "type" : "uri",
@@ -3160,11 +2031,1004 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "other"
+        "value" : "giveaway_shop"
       },
       "itemLabel" : {
+        "xml:lang" : "pt",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q144"
+        "value" : "Loja de bens doados"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q82"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "swap_market"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Mercado de trocas"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q85"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q31"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "repair_cafe"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Repair café"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q95"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cohousing"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Cohousing é uma comunidade em que os seus habitantes vivem em casas privadas,  mas que estão aglomeradas em torno de espaços partilhados/comuns."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "cohousing"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Cohousing"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q96"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Commune"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Pessoas que vivem conjuntamente e que partilham interesse comuns e frequentemente partilham os mesmos valores e ideais. A propriedade é partilhada, bem como os recursos e em alguns casos a partilha inclui os rendimentos e os bens."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "commune"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Comunidade"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q97"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ecovilas são comunidades intencionais cujo objetivo é tornarem-se sustentáveis social, económica e ecologicamente."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ecovillage"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Ecovila"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q98"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Squatting"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "squatted_place"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Okupas"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "O Comércio Justo é uma aliança entre pequenos produtores dos países em desenvolvimento e consumidores de todo o mundo, com o objetivo de promover condições de vida e trabalho dignas, respeito pelo ambiente e garantia de produtos de qualidade."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Comércio Justo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q108"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Empresas que criam emprego para pessoas com deficiência e pessoas carenciadas e que os integram no mercado de trabalho (pessoa com deficiência física e /ou mental ; antigos presidiários; antigos toxicodependentes …)"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "socialinclusion_employment"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Inclusão social através do emprego"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q111"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodbank"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Banco Alimentar"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q115"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Centros empresariais e incubadoras são espaços criados nas comunidades para apoiar as pessoas que estão a tentar iniciar a sua própria iniciativa ou ideia de negócio."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "business_incubators"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Centros empresariais e incubadoras"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q121"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Considerada um instrumento de desenvolvimento local, destinada a beneficiar o mercado de trabalho dos grupos que participam da economia local. A sua utilização  é restrita e beneficia a redistribuição dos recursos na esfera da própria comunidade."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitycurrency"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Moeda comunitária"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q122"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Microfinance"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "microfinance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Microfinanças"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q128"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q33"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "directdemocracy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Iniciativa de Democracia direta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q131"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "participatory_budgeting"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Fundo Público participativo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q139"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q18"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutualsociety_art"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Sociedades de arte mutualistas"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q22"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Um jardim comunitário é um pedaço de terra ajardinado por um coletivo de pessoas."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "community_garden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Jardins comunitários"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q24"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "edible_town"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Cidades Comestíveis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Agricultura comunitária"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Agricultura comunitária"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Um grupo de pessoas que se organiza coletivamente para comprar diretamente aos produtores."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Compra coletiva de alimentos"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Um grupo de pessoas que se organiza coletivamente para comprar diretamente aos produtores."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Compra coletiva de alimentos"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q37"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Jardinagem de guerrilha é o ato de jardinagem em terras que os jardineiros não têm os direitos legais para utilizar, como um local abandonado, uma área sem manutenção, ou em propriedades privadas. Muitas vezes, estes projetos obtêm um estatuto legal."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "guerilla_garden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Jardinagem de guerrilha"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Iniciativas de preservação de sementes"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Iniciativas de preservação de sementes"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q41"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "farm_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Compras diretas/Compras na Quinta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q44"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "local_farmersmarket"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Mercados de agricultores locais"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q45"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
+      },
+      "description" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Agricultores locais que semanalmente fazem entregas de cabazes de legumes ao domicílio."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "vegetable_box"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Cabazes de legumes"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q48"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_cooperative"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Cooperativas alimentares"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Lojas de comércio justo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Pontos de distribuição de partilha de alimentos"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Educação Agro-Ecológica"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Conselhos de política alimentar"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Iniciativas de soberania alimentar"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Educação para a permacultura"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Escolas de jardinagem"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pt",
+        "type" : "literal",
+        "value" : "Slowfood"
       }
     } ]
   }
