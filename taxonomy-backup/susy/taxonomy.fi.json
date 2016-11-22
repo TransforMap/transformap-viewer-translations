@@ -943,8 +943,9 @@
         "value" : "other"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q144"
+        "value" : "Muu"
       }
     }, {
       "item" : {

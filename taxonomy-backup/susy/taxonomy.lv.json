@@ -861,8 +861,9 @@
         "value" : "other"
       },
       "itemLabel" : {
+        "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q144"
+        "value" : "Cits"
       }
     }, {
       "item" : {

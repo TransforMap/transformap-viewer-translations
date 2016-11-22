@@ -2559,285 +2559,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q48"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Eine FoodCoop ist der Zusammenschluss von Personen und Haushalten, die selbstorganisiert biologische Produkte direkt von lokalen Bauernhöfen, Gärtnereien, Imkereien etc. beziehen"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_cooperative"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Lebensmittelkooperative"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Geschäft in dem Produkte des fairen Handels gekauft werden können. Oft organisieren die BetreiberInnen auch Veranstaltungen zum Thema."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Geschäft des Fairen Handels"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Physisches- oder Online-Instrument zur Verteilung der Lebensmittel."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Foodsharing Verteiler"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bildung zur ökologischen Landwirtschaft."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landwirtschaftlich-ökologische Bildung"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ein Ernährungsrat ist der der wichtigste Ansatz der Stadtplanung für eine Gestaltung des Ernährungssystems. Ernährungsräte rücken die Belange von Bürgern und Kommunen in der Lebensmittelversorgung in den Mittelpunkt."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ernährungsrat"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Initiativen die sich mit Projekten der Ernährungssouveränität beschäftigen und diese umsetzen. Ernährungssouveränität bezeichnet das Recht aller Völker, Länder und Ländergruppen, ihre Landwirtschafts- und Ernährungspolitik selbst zu definieren."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ernährungssouveränitäts-Initiative"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bildung zur Permakultur - Permakultur ist ein Konzept, das auf die Schaffung von dauerhaft funktionierenden, nachhaltigen und naturnahen Kreisläufen zielt."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Permakultur-Bildung"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ein Schulgarten ist ein für Aus- und Weiterbildungszwecke angelegter Garten. Er ist ein pädagogisches Mittel, um Wissen über Gartenbau und Landwirtschaft, sowie über Natur und Umwelt zu vermitteln."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Schulgarten"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Slow Food ist eine ganze Sammlung von Ideen – eine Philosophie. Allem zugrunde liegt die Überzeugung, dass das Essen ein wesentlicher Bestandteil unseres Lebens ist und dass die Lebensqualität unweigerlich mit einer gesunden Ernährung zusammenhängt."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Slow Food"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
       "wikipedia" : {
@@ -3546,6 +3267,285 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Bio-Kiste"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q48"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Eine FoodCoop ist der Zusammenschluss von Personen und Haushalten, die selbstorganisiert biologische Produkte direkt von lokalen Bauernhöfen, Gärtnereien, Imkereien etc. beziehen"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_cooperative"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Lebensmittelkooperative"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Geschäft in dem Produkte des fairen Handels gekauft werden können. Oft organisieren die BetreiberInnen auch Veranstaltungen zum Thema."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Geschäft des Fairen Handels"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Physisches- oder Online-Instrument zur Verteilung der Lebensmittel."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Foodsharing Verteiler"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bildung zur ökologischen Landwirtschaft."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Landwirtschaftlich-ökologische Bildung"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ein Ernährungsrat ist der der wichtigste Ansatz der Stadtplanung für eine Gestaltung des Ernährungssystems. Ernährungsräte rücken die Belange von Bürgern und Kommunen in der Lebensmittelversorgung in den Mittelpunkt."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ernährungsrat"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Initiativen die sich mit Projekten der Ernährungssouveränität beschäftigen und diese umsetzen. Ernährungssouveränität bezeichnet das Recht aller Völker, Länder und Ländergruppen, ihre Landwirtschafts- und Ernährungspolitik selbst zu definieren."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ernährungssouveränitäts-Initiative"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bildung zur Permakultur - Permakultur ist ein Konzept, das auf die Schaffung von dauerhaft funktionierenden, nachhaltigen und naturnahen Kreisläufen zielt."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Permakultur-Bildung"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ein Schulgarten ist ein für Aus- und Weiterbildungszwecke angelegter Garten. Er ist ein pädagogisches Mittel, um Wissen über Gartenbau und Landwirtschaft, sowie über Natur und Umwelt zu vermitteln."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Schulgarten"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Slow Food ist eine ganze Sammlung von Ideen – eine Philosophie. Allem zugrunde liegt die Überzeugung, dass das Essen ein wesentlicher Bestandteil unseres Lebens ist und dass die Lebensqualität unweigerlich mit einer gesunden Ernährung zusammenhängt."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Slow Food"
       }
     } ]
   }

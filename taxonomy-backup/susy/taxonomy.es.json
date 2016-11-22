@@ -863,8 +863,9 @@
         "value" : "other"
       },
       "itemLabel" : {
+        "xml:lang" : "es",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q144"
+        "value" : "Otras (categoría abierta)"
       }
     }, {
       "item" : {

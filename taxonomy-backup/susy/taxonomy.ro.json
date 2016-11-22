@@ -938,8 +938,9 @@
         "value" : "other"
       },
       "itemLabel" : {
+        "xml:lang" : "ro",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q144"
+        "value" : "Altele"
       }
     }, {
       "item" : {
