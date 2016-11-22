@@ -27,6 +27,8 @@ WHERE {
 Use curl to update this data:
 
 ```
+echo "query:"
+echo "$(cat query|sed "s/\$LANG/en/")"
 for LANG_CODE in $(cat langs); do
   curl  -H "Accept: application/json" -o taxonomy.$LANG_CODE.json --get --data-urlencode "$(cat query|sed "s/\$LANG/$LANG_CODE/")" https://query.base.transformap.co/bigdata/namespace/transformap/sparql
 done
