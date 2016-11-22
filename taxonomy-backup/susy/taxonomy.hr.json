@@ -28,7 +28,34 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Slobodan prostor/dijeljeni prostor"
+        "value" : "Slobodan prostor/dijeljeni prostor, Slobodan prostor/dijeljeni prostor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q100"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Javni ili privatni prostor, otovren za javnost na temelju potpune otvorenosti ili na temelju članstva bez potrebe za konzumacijom."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "freespace"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Slobodan prostor/dijeljeni prostor, Slobodan prostor/dijeljeni prostor"
       }
     }, {
       "item" : {
@@ -55,7 +82,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Inicijativa za održivu mobilnost"
+        "value" : "Inicijativa za održivu mobilnost, Inicijativa za održivu mobilnost"
       }
     }, {
       "item" : {
@@ -82,7 +109,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Biciklo samopopravljaone"
+        "value" : "Biciklo samopopravljaone, Biciklo samopopravljaone"
       }
     }, {
       "item" : {
@@ -109,7 +136,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "NVO za podizanje svijesti javnosti o biciklima"
+        "value" : "NVO za podizanje svijesti javnosti o biciklima, NVO za podizanje svijesti javnosti o biciklima"
       }
     }, {
       "item" : {
@@ -136,7 +163,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "lokalno kolektivno vlasništvo nad energijom"
+        "value" : "lokalno kolektivno vlasništvo nad energijom, lokalno kolektivno vlasništvo nad energijom"
       }
     }, {
       "item" : {
@@ -163,7 +190,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Lokalno kolektivno/zajedničko vlasništvo nad resursima"
+        "value" : "Lokalno kolektivno/zajedničko vlasništvo nad resursima, Lokalno kolektivno/zajedničko vlasništvo nad resursima"
       }
     }, {
       "item" : {
@@ -190,7 +217,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Šuma zajednice"
+        "value" : "Šuma zajednice, Šuma zajednice"
       }
     }, {
       "item" : {
@@ -217,7 +244,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -239,7 +266,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Inicijative osnaživanja"
+        "value" : "Inicijative osnaživanja, Inicijative osnaživanja"
       }
     }, {
       "item" : {
@@ -257,7 +284,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Smanji upotrebu, ponovno upotrijebi, popravi i recikliraj."
+        "value" : "Smanji upotrebu, ponovno upotrijebi, popravi i recikliraj., Smanji upotrebu, ponovno upotrijebi, popravi i recikliraj."
       }
     }, {
       "item" : {
@@ -279,7 +306,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Društveni dućani"
+        "value" : "Društveni dućani, Društveni dućani"
       }
     }, {
       "item" : {
@@ -301,7 +328,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Sklonište za beskućnike"
+        "value" : "Sklonište za beskućnike, Sklonište za beskućnike"
       }
     }, {
       "item" : {
@@ -328,29 +355,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo ( otvorena kategorija)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Coworking - Dijeljenje prostora za rad"
+        "value" : "Drugo ( otvorena kategorija), Drugo ( otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -372,7 +377,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Obrazovanje za poduzetništvo"
+        "value" : "Obrazovanje za poduzetništvo, Obrazovanje za poduzetništvo"
       }
     }, {
       "item" : {
@@ -394,7 +399,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Društveno poduzetnički inkubator"
+        "value" : "Društveno poduzetnički inkubator, Društveno poduzetnički inkubator"
       }
     }, {
       "item" : {
@@ -416,7 +421,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Održivo i solidarno obrazovanje"
+        "value" : "Održivo i solidarno obrazovanje, Održivo i solidarno obrazovanje"
       }
     }, {
       "item" : {
@@ -438,7 +443,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Održivo i solidarno istraživanje"
+        "value" : "Održivo i solidarno istraživanje, Održivo i solidarno istraživanje"
       }
     }, {
       "item" : {
@@ -456,7 +461,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Stanovanje i življenje"
+        "value" : "Stanovanje i življenje, Stanovanje i življenje"
       }
     }, {
       "item" : {
@@ -483,7 +488,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -505,7 +510,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Uzajamno osiguranje"
+        "value" : "Uzajamno osiguranje, Uzajamno osiguranje"
       }
     }, {
       "item" : {
@@ -527,7 +532,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Uzajamno osiguranje"
+        "value" : "Uzajamno osiguranje, Uzajamno osiguranje"
       }
     }, {
       "item" : {
@@ -570,7 +575,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Solidarno pozamljivanje"
+        "value" : "Solidarno pozamljivanje, Solidarno pozamljivanje"
       }
     }, {
       "item" : {
@@ -592,7 +597,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Vremenska banka"
+        "value" : "Vremenska banka, Vremenska banka"
       }
     }, {
       "item" : {
@@ -619,7 +624,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -641,7 +646,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Osvješćivanje potrošača"
+        "value" : "Osvješćivanje potrošača, Osvješćivanje potrošača"
       }
     }, {
       "item" : {
@@ -659,7 +664,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Infrastruktura i resursi"
+        "value" : "Infrastruktura i resursi, Infrastruktura i resursi"
       }
     }, {
       "item" : {
@@ -686,7 +691,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -708,7 +713,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Vijeće građana"
+        "value" : "Vijeće građana, Vijeće građana"
       }
     }, {
       "item" : {
@@ -730,7 +735,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Vijeće mladih"
+        "value" : "Vijeće mladih, Vijeće mladih"
       }
     }, {
       "item" : {
@@ -757,7 +762,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -779,7 +784,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "OCD-i/NVO-i"
+        "value" : "OCD-i/NVO-i, OCD-i/NVO-i"
       }
     }, {
       "item" : {
@@ -801,7 +806,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Grupe zajednice"
+        "value" : "Grupe zajednice, Grupe zajednice"
       }
     }, {
       "item" : {
@@ -823,7 +828,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "inicijative umrežavanja"
+        "value" : "inicijative umrežavanja, inicijative umrežavanja"
       }
     }, {
       "item" : {
@@ -850,7 +855,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -868,7 +873,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Društveno uključivanje"
+        "value" : "Društveno uključivanje, Društveno uključivanje"
       }
     }, {
       "item" : {
@@ -890,7 +895,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Društva uzajamne pomoći"
+        "value" : "Društva uzajamne pomoći, Društva uzajamne pomoći"
       }
     }, {
       "item" : {
@@ -917,7 +922,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -939,25 +944,29 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "SSEDAS partneri"
+        "value" : "SSEDAS partneri, SSEDAS partneri"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "http://base.transformap.co/entity/Q143"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "http://base.transformap.co/entity/Q19"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ssedas_partner"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Obrazovanje i trening"
+        "value" : "SSEDAS partneri, SSEDAS partneri"
       }
     }, {
       "item" : {
@@ -975,7 +984,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Financije"
+        "value" : "Financije, Financije"
       }
     }, {
       "item" : {
@@ -993,7 +1002,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Aktivno građanstvo"
+        "value" : "Aktivno građanstvo, Aktivno građanstvo"
       }
     }, {
       "item" : {
@@ -1011,7 +1020,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "samo - organiziranje i uzajamnost"
+        "value" : "samo - organiziranje i uzajamnost, samo - organiziranje i uzajamnost"
       }
     }, {
       "item" : {
@@ -1029,7 +1038,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "SUSY- karta mreže partnera"
+        "value" : "SUSY- karta mreže partnera, SUSY- karta mreže partnera"
       }
     }, {
       "item" : {
@@ -1052,7 +1061,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo"
+        "value" : "Drugo, Drugo"
       }
     }, {
       "item" : {
@@ -1070,7 +1079,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Posadi sam & zajedno/u društvu"
+        "value" : "Posadi sam & zajedno/u društvu, Posadi sam & zajedno/u društvu"
       }
     }, {
       "item" : {
@@ -1088,7 +1097,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Kupuj lokalno"
+        "value" : "Kupuj lokalno, Kupuj lokalno"
       }
     }, {
       "item" : {
@@ -1106,7 +1115,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Očuvanje hrane"
+        "value" : "Očuvanje hrane, Očuvanje hrane"
       }
     }, {
       "item" : {
@@ -1124,7 +1133,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Obrazovanje i politike"
+        "value" : "Obrazovanje i politike, Obrazovanje i politike"
       }
     }, {
       "item" : {
@@ -1142,7 +1151,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Smanji upotrebu"
+        "value" : "Smanji upotrebu, Smanji upotrebu"
       }
     }, {
       "item" : {
@@ -1160,7 +1169,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Dijeli i ponovno upotrijebi"
+        "value" : "Dijeli i ponovno upotrijebi, Dijeli i ponovno upotrijebi"
       }
     }, {
       "item" : {
@@ -1178,7 +1187,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Popravljanje"
+        "value" : "Popravljanje, Popravljanje"
       }
     }, {
       "item" : {
@@ -1196,7 +1205,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Recikliranje i Upcikliranje"
+        "value" : "Recikliranje i Upcikliranje, Recikliranje i Upcikliranje"
       }
     }, {
       "item" : {
@@ -1214,7 +1223,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Političko uključivanje"
+        "value" : "Političko uključivanje, Političko uključivanje"
       }
     }, {
       "item" : {
@@ -1232,7 +1241,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Sudjelovanje"
+        "value" : "Sudjelovanje, Sudjelovanje"
       }
     }, {
       "item" : {
@@ -1250,7 +1259,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Zajednice/mreže"
+        "value" : "Zajednice/mreže, Zajednice/mreže"
       }
     }, {
       "item" : {
@@ -1277,7 +1286,34 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Samostalna berba"
+        "value" : "Samostalna berba, Samostalna berba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q39"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Farme posade i uzgoje plodove te ih nude ljudima, ali tako da ih oni sami moraju pobrat."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "self_harvest"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Samostalna berba, Samostalna berba"
       }
     }, {
       "item" : {
@@ -1304,7 +1340,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo ( otvorena kategorija)"
+        "value" : "Drugo ( otvorena kategorija), Drugo ( otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -1326,7 +1362,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Virtualna izravna kupnja"
+        "value" : "Virtualna izravna kupnja, Virtualna izravna kupnja"
       }
     }, {
       "item" : {
@@ -1353,7 +1389,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo ( otvorena kategorija)"
+        "value" : "Drugo ( otvorena kategorija), Drugo ( otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -1375,7 +1411,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Grupe za dijeljene hrane"
+        "value" : "Grupe za dijeljene hrane, Grupe za dijeljene hrane"
       }
     }, {
       "item" : {
@@ -1397,7 +1433,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Kuhinja očuvanja/ spašavanja hrane"
+        "value" : "Kuhinja očuvanja/ spašavanja hrane, Kuhinja očuvanja/ spašavanja hrane"
       }
     }, {
       "item" : {
@@ -1419,7 +1455,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Recikliranje otpada hrane"
+        "value" : "Recikliranje otpada hrane, Recikliranje otpada hrane"
       }
     }, {
       "item" : {
@@ -1446,7 +1482,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -1468,7 +1504,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Poljoprivredno osnaživanje"
+        "value" : "Poljoprivredno osnaživanje, Poljoprivredno osnaživanje"
       }
     }, {
       "item" : {
@@ -1490,7 +1526,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Mreža sukcesivnih farmi"
+        "value" : "Mreža sukcesivnih farmi, Mreža sukcesivnih farmi"
       }
     }, {
       "item" : {
@@ -1517,7 +1553,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -1539,7 +1575,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Fair trade škole"
+        "value" : "Fair trade škole, Fair trade škole"
       }
     }, {
       "item" : {
@@ -1550,6 +1586,10 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1557,7 +1597,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Fair Trade gradovi"
+        "value" : "Fair Trade gradovi, Fair Trade gradovi"
       }
     }, {
       "item" : {
@@ -1579,7 +1619,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Fair trade na veliko"
+        "value" : "Fair trade na veliko, Fair trade na veliko"
       }
     }, {
       "item" : {
@@ -1601,7 +1641,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Izravna trgovina"
+        "value" : "Izravna trgovina, Izravna trgovina"
       }
     }, {
       "item" : {
@@ -1623,7 +1663,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Razvojna suradnja"
+        "value" : "Razvojna suradnja, Razvojna suradnja"
       }
     }, {
       "item" : {
@@ -1650,7 +1690,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -1672,7 +1712,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Podizanje svijesti o otpadu"
+        "value" : "Podizanje svijesti o otpadu, Podizanje svijesti o otpadu"
       }
     }, {
       "item" : {
@@ -1694,7 +1734,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Dućani robe bez ambalaže"
+        "value" : "Dućani robe bez ambalaže, Dućani robe bez ambalaže"
       }
     }, {
       "item" : {
@@ -1721,7 +1761,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otovrena kategorija)"
+        "value" : "Drugo (otovrena kategorija), Drugo (otovrena kategorija)"
       }
     }, {
       "item" : {
@@ -1743,7 +1783,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Prodaja rabljene odjeće/dobara"
+        "value" : "Prodaja rabljene odjeće/dobara, Prodaja rabljene odjeće/dobara"
       }
     }, {
       "item" : {
@@ -1765,7 +1805,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Buvljak"
+        "value" : "Buvljak, Buvljak"
       }
     }, {
       "item" : {
@@ -1787,7 +1827,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Najam odjeće"
+        "value" : "Najam odjeće, Najam odjeće"
       }
     }, {
       "item" : {
@@ -1809,7 +1849,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Centrala za posuđivanje"
+        "value" : "Centrala za posuđivanje, Centrala za posuđivanje"
       }
     }, {
       "item" : {
@@ -1836,7 +1876,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -1858,7 +1898,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Održavanje i popravak"
+        "value" : "Održavanje i popravak, Održavanje i popravak"
       }
     }, {
       "item" : {
@@ -1880,7 +1920,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Preprodaja popravljenih dobara/robe"
+        "value" : "Preprodaja popravljenih dobara/robe, Preprodaja popravljenih dobara/robe"
       }
     }, {
       "item" : {
@@ -1907,7 +1947,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo ( otvorena kategorija)"
+        "value" : "Drugo ( otvorena kategorija), Drugo ( otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -1925,7 +1965,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Hrana i poljoprivreda"
+        "value" : "Hrana i poljoprivreda, Hrana i poljoprivreda"
       }
     }, {
       "item" : {
@@ -1947,7 +1987,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Recikliranje"
+        "value" : "Recikliranje, Recikliranje"
       }
     }, {
       "item" : {
@@ -1969,7 +2009,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Upcikliranje"
+        "value" : "Upcikliranje, Upcikliranje"
       }
     }, {
       "item" : {
@@ -1991,7 +2031,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Eko primjenjena umjetnost"
+        "value" : "Eko primjenjena umjetnost, Eko primjenjena umjetnost"
       }
     }, {
       "item" : {
@@ -2018,7 +2058,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
@@ -2045,20 +2085,16 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Drugo (otvorena kategorija)"
+        "value" : "Drugo (otvorena kategorija), Drugo (otvorena kategorija)"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q80"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
+        "value" : "http://base.transformap.co/entity/Q144"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
+        "value" : "http://base.transformap.co/entity/Q20"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2066,25 +2102,24 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "giveaway_shop"
+        "value" : "other"
       },
       "itemLabel" : {
-        "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Dućan za doniranje"
+        "value" : "http://base.transformap.co/entity/Q144"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q82"
+        "value" : "http://base.transformap.co/entity/Q50"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
+        "value" : "http://base.transformap.co/entity/Q10"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2092,25 +2127,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "swap_market"
+        "value" : "fairtrade_shop"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Tržnice zamjene"
+        "value" : "Fair Trade dućani, Fair Trade dućani"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q85"
+        "value" : "http://base.transformap.co/entity/Q53"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q31"
+        "value" : "http://base.transformap.co/entity/Q27"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2118,25 +2153,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "repair_cafe"
+        "value" : "foodrescue_distribution"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Kafići \"Popravljaonice\""
+        "value" : "Distribucijski centri za dijeljene hrane, Distribucijski centri za dijeljene hrane"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q95"
+        "value" : "http://base.transformap.co/entity/Q58"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Cohousing"
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
+        "value" : "http://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2144,25 +2179,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "cohousing"
+        "value" : "agroecology_education"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Zajedničko stanovanje"
+        "value" : "Obrazovanje o agro ekologiji, Obrazovanje o agro ekologiji"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q96"
+        "value" : "http://base.transformap.co/entity/Q60"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Commune"
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
+        "value" : "http://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2170,25 +2205,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "commune"
+        "value" : "foodpolicy_council"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Komune"
+        "value" : "Vijeća politike hrane, Vijeća politike hrane"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q97"
+        "value" : "http://base.transformap.co/entity/Q61"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
+        "value" : "http://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2196,25 +2231,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "ecovillage"
+        "value" : "food_souvereignity"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Eko  - selo"
+        "value" : "Inicijative suverenosti hrane, Inicijative suverenosti hrane"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q98"
+        "value" : "http://base.transformap.co/entity/Q62"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Squatting"
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
+        "value" : "http://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2222,12 +2257,64 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "squatted_place"
+        "value" : "permaculture_education"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Skvotanje"
+        "value" : "Permakulturno obrazovanje, Permakulturno obrazovanje"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Školski vrtovi, Školski vrtovi"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Slowfood, Slowfood"
       }
     }, {
       "item" : {
@@ -2254,7 +2341,34 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Fair trade"
+        "value" : "Fair trade, Fair trade"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q188485"
+      },
+      "description" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Fair Trade je društveni pokret za pomoć proizvođačima u razvojnim zemljama kako bi ostvarili bolje uvjete trgovanja i za promicanje održivosti. Fair trade zagovara (pravedne) cijene, kao i poboljšanje socijalnih i okolišnih standarda."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Fair trade, Fair trade"
       }
     }, {
       "item" : {
@@ -2280,7 +2394,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Društveno uključivanje kroz zapošljavanje"
+        "value" : "Društveno uključivanje kroz zapošljavanje, Društveno uključivanje kroz zapošljavanje"
       }
     }, {
       "item" : {
@@ -2306,7 +2420,33 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Banka hrane"
+        "value" : "Banka hrane, Banka hrane"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q869457"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Coworking - Dijeljenje prostora za rad, Coworking - Dijeljenje prostora za rad"
       }
     }, {
       "item" : {
@@ -2332,7 +2472,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "poduzetnički centri i inkubatori"
+        "value" : "poduzetnički centri i inkubatori, poduzetnički centri i inkubatori"
       }
     }, {
       "item" : {
@@ -2358,7 +2498,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Valuta zajednice"
+        "value" : "Valuta zajednice, Valuta zajednice"
       }
     }, {
       "item" : {
@@ -2384,7 +2524,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Mikrofinanciranje"
+        "value" : "Mikrofinanciranje, Mikrofinanciranje"
       }
     }, {
       "item" : {
@@ -2410,7 +2550,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Inicijativa direktne demokracije"
+        "value" : "Inicijativa direktne demokracije, Inicijativa direktne demokracije"
       }
     }, {
       "item" : {
@@ -2436,7 +2576,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Sudjelujuća javna sredstva"
+        "value" : "Sudjelujuća javna sredstva, Sudjelujuća javna sredstva"
       }
     }, {
       "item" : {
@@ -2462,7 +2602,29 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Uzajamna umjetnička društva"
+        "value" : "Uzajamna umjetnička društva, Uzajamna umjetnička društva"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q8434"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "hr",
+        "type" : "literal",
+        "value" : "Obrazovanje i trening, Obrazovanje i trening"
       }
     }, {
       "item" : {
@@ -2488,7 +2650,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Vrt zajednice"
+        "value" : "Vrt zajednice, Vrt zajednice"
       }
     }, {
       "item" : {
@@ -2514,7 +2676,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Jestivi Grad"
+        "value" : "Jestivi Grad, Jestivi Grad"
       }
     }, {
       "item" : {
@@ -2540,7 +2702,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Zajednica koja podupire poljoprivredu"
+        "value" : "Zajednica koja podupire poljoprivredu, Zajednica koja podupire poljoprivredu"
       }
     }, {
       "item" : {
@@ -2566,7 +2728,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Zajednica koja podupire poljoprivredu"
+        "value" : "Zajednica koja podupire poljoprivredu, Zajednica koja podupire poljoprivredu"
       }
     }, {
       "item" : {
@@ -2592,7 +2754,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Društvo/krug za kupovanje hrane"
+        "value" : "Društvo/krug za kupovanje hrane, Društvo/krug za kupovanje hrane"
       }
     }, {
       "item" : {
@@ -2618,7 +2780,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Društvo/krug za kupovanje hrane"
+        "value" : "Društvo/krug za kupovanje hrane, Društvo/krug za kupovanje hrane"
       }
     }, {
       "item" : {
@@ -2644,7 +2806,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Gerila vrtlarstvo"
+        "value" : "Gerila vrtlarstvo, Gerila vrtlarstvo"
       }
     }, {
       "item" : {
@@ -2670,7 +2832,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Inicijative za očuvanje sjemenja"
+        "value" : "Inicijative za očuvanje sjemenja, Inicijative za očuvanje sjemenja"
       }
     }, {
       "item" : {
@@ -2696,7 +2858,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Inicijative za očuvanje sjemenja"
+        "value" : "Inicijative za očuvanje sjemenja, Inicijative za očuvanje sjemenja"
       }
     }, {
       "item" : {
@@ -2722,7 +2884,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Izravna kupnja/izravna prodaja na imanju"
+        "value" : "Izravna kupnja/izravna prodaja na imanju, Izravna kupnja/izravna prodaja na imanju"
       }
     }, {
       "item" : {
@@ -2748,7 +2910,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Tržnica lokalnih proizvođača"
+        "value" : "Tržnica lokalnih proizvođača, Tržnica lokalnih proizvođača"
       }
     }, {
       "item" : {
@@ -2774,7 +2936,7 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Tržnica lokalnih proizvođača"
+        "value" : "Tržnica lokalnih proizvođača, Tržnica lokalnih proizvođača"
       }
     }, {
       "item" : {
@@ -2800,20 +2962,20 @@
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Zadruga za hranu"
+        "value" : "Zadruga za hranu, Zadruga za hranu"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q50"
+        "value" : "http://base.transformap.co/entity/Q80"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
+        "value" : "http://base.transformap.co/entity/Q30"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2821,25 +2983,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "fairtrade_shop"
+        "value" : "giveaway_shop"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Fair Trade dućani"
+        "value" : "Dućan za doniranje, Dućan za doniranje"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q53"
+        "value" : "http://base.transformap.co/entity/Q82"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
+        "value" : "http://base.transformap.co/entity/Q30"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2847,25 +3009,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "foodrescue_distribution"
+        "value" : "swap_market"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Distribucijski centri za dijeljene hrane"
+        "value" : "Tržnice zamjene, Tržnice zamjene"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q58"
+        "value" : "http://base.transformap.co/entity/Q85"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "http://base.transformap.co/entity/Q31"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2873,25 +3035,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "agroecology_education"
+        "value" : "repair_cafe"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Obrazovanje o agro ekologiji"
+        "value" : "Kafići \"Popravljaonice\", Kafići \"Popravljaonice\""
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q60"
+        "value" : "http://base.transformap.co/entity/Q95"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+        "value" : "https://en.wikipedia.org/wiki/Cohousing"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "http://base.transformap.co/entity/Q12"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2899,25 +3061,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "foodpolicy_council"
+        "value" : "cohousing"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Vijeća politike hrane"
+        "value" : "Zajedničko stanovanje, Zajedničko stanovanje"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q61"
+        "value" : "http://base.transformap.co/entity/Q96"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+        "value" : "https://en.wikipedia.org/wiki/Commune"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "http://base.transformap.co/entity/Q12"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2925,25 +3087,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "food_souvereignity"
+        "value" : "commune"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Inicijative suverenosti hrane"
+        "value" : "Komune, Komune"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q62"
+        "value" : "http://base.transformap.co/entity/Q97"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "http://base.transformap.co/entity/Q12"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2951,25 +3113,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "permaculture_education"
+        "value" : "ecovillage"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Permakulturno obrazovanje"
+        "value" : "Eko  - selo, Eko  - selo"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q63"
+        "value" : "http://base.transformap.co/entity/Q98"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+        "value" : "https://en.wikipedia.org/wiki/Squatting"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "http://base.transformap.co/entity/Q12"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2977,38 +3139,12 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "schoolgarden"
+        "value" : "squatted_place"
       },
       "itemLabel" : {
         "xml:lang" : "hr",
         "type" : "literal",
-        "value" : "Školski vrtovi"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "hr",
-        "type" : "literal",
-        "value" : "Slowfood"
+        "value" : "Skvotanje, Skvotanje"
       }
     } ]
   }

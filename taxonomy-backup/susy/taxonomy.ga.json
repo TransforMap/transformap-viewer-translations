@@ -28,7 +28,34 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Space Saor / Spás Roinnte"
+        "value" : "Space Saor / Spás Roinnte, Space Saor / Spás Roinnte"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q100"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "spás poiblí nó príobháideach , atá ar oscailt don phobal ar bhoinn oscailte go hiomlán , nó ar bhoinn ballraíochta , gan an gá a consumation ."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "freespace"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Space Saor / Spás Roinnte, Space Saor / Spás Roinnte"
       }
     }, {
       "item" : {
@@ -55,7 +82,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Tionscnamh um Shoghluaisteacht Inbhuanaithe"
+        "value" : "Tionscnamh um Shoghluaisteacht Inbhuanaithe, Tionscnamh um Shoghluaisteacht Inbhuanaithe"
       }
     }, {
       "item" : {
@@ -82,7 +109,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Féin Deisiúchán Rothar"
+        "value" : "Féin Deisiúchán Rothar, Féin Deisiúchán Rothar"
       }
     }, {
       "item" : {
@@ -109,7 +136,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Feasacht Rothar NGO"
+        "value" : "Feasacht Rothar NGO, Feasacht Rothar NGO"
       }
     }, {
       "item" : {
@@ -136,7 +163,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Úinéireacht Fuinnimh Áitiúla Comhchoiteann"
+        "value" : "Úinéireacht Fuinnimh Áitiúla Comhchoiteann, Úinéireacht Fuinnimh Áitiúla Comhchoiteann"
       }
     }, {
       "item" : {
@@ -163,7 +190,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Comhchoiteanna Ressource Úinéireacht áitiúil"
+        "value" : "Comhchoiteanna Ressource Úinéireacht áitiúil, Comhchoiteanna Ressource Úinéireacht áitiúil"
       }
     }, {
       "item" : {
@@ -190,7 +217,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "foraoiseacht Chomhphobail"
+        "value" : "foraoiseacht Chomhphobail, foraoiseacht Chomhphobail"
       }
     }, {
       "item" : {
@@ -217,7 +244,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
+        "value" : "Eile ( catagóir oscailte ), Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -239,7 +266,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Tionscnaimh Empowerment"
+        "value" : "Tionscnaimh Empowerment, Tionscnaimh Empowerment"
       }
     }, {
       "item" : {
@@ -257,7 +284,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Laghdaigh, athúsáid , a dheisiú , athchúrsáil"
+        "value" : "Laghdaigh, athúsáid , a dheisiú , athchúrsáil, Laghdaigh, athúsáid , a dheisiú , athchúrsáil"
       }
     }, {
       "item" : {
@@ -279,7 +306,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Siopaí sóisialta ( Ollmhargadh Shóisialta )"
+        "value" : "Siopaí sóisialta ( Ollmhargadh Shóisialta ), Siopaí sóisialta ( Ollmhargadh Shóisialta )"
       }
     }, {
       "item" : {
@@ -301,7 +328,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Dídean do Dhaoine gan Dídean"
+        "value" : "Dídean do Dhaoine gan Dídean, Dídean do Dhaoine gan Dídean"
       }
     }, {
       "item" : {
@@ -328,29 +355,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "co oibre"
+        "value" : "Eile ( catagóir oscailte ), Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -372,7 +377,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Oideachas Fiontraíocht"
+        "value" : "Oideachas Fiontraíocht, Oideachas Fiontraíocht"
       }
     }, {
       "item" : {
@@ -394,7 +399,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Social Goradáin Ghnó"
+        "value" : "Social Goradáin Ghnó, Social Goradáin Ghnó"
       }
     }, {
       "item" : {
@@ -416,7 +421,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Inbhuanaithe agus Dlúthpháirtíocht Oideachas"
+        "value" : "Inbhuanaithe agus Dlúthpháirtíocht Oideachas, Inbhuanaithe agus Dlúthpháirtíocht Oideachas"
       }
     }, {
       "item" : {
@@ -438,7 +443,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Inbhuanaithe agus Dlúthpháirtíocht Taighde"
+        "value" : "Inbhuanaithe agus Dlúthpháirtíocht Taighde, Inbhuanaithe agus Dlúthpháirtíocht Taighde"
       }
     }, {
       "item" : {
@@ -456,7 +461,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Tithíocht & gnáthóg"
+        "value" : "Tithíocht & gnáthóg, Tithíocht & gnáthóg"
       }
     }, {
       "item" : {
@@ -483,7 +488,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
+        "value" : "Eile ( catagóir oscailte ), Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -505,7 +510,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Árachas frithpháirteach"
+        "value" : "Árachas frithpháirteach, Árachas frithpháirteach"
       }
     }, {
       "item" : {
@@ -527,7 +532,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Árachas frithpháirteach"
+        "value" : "Árachas frithpháirteach, Árachas frithpháirteach"
       }
     }, {
       "item" : {
@@ -549,7 +554,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "maoiniú eiticiúil a chur chun cinn"
+        "value" : "maoiniú eiticiúil a chur chun cinn, maoiniú eiticiúil a chur chun cinn"
       }
     }, {
       "item" : {
@@ -571,7 +576,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Dlúthpháirtíocht Lending"
+        "value" : "Dlúthpháirtíocht Lending, Dlúthpháirtíocht Lending"
       }
     }, {
       "item" : {
@@ -593,7 +598,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Am Baincéireachta"
+        "value" : "Am Baincéireachta, Am Baincéireachta"
       }
     }, {
       "item" : {
@@ -615,7 +620,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
+        "value" : "Eile ( catagóir oscailte ), Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -637,7 +642,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Ardú Feasachta consumerism"
+        "value" : "Ardú Feasachta consumerism, Ardú Feasachta consumerism"
       }
     }, {
       "item" : {
@@ -655,7 +660,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Bonneagar agus Acmhainní"
+        "value" : "Bonneagar agus Acmhainní, Bonneagar agus Acmhainní"
       }
     }, {
       "item" : {
@@ -682,7 +687,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
+        "value" : "Eile ( catagóir oscailte ), Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -704,7 +709,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Cistí Poiblí Rannpháirtíochta"
+        "value" : "Cistí Poiblí Rannpháirtíochta, Cistí Poiblí Rannpháirtíochta"
       }
     }, {
       "item" : {
@@ -726,7 +731,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Comhairle na nÓg"
+        "value" : "Comhairle na nÓg, Comhairle na nÓg"
       }
     }, {
       "item" : {
@@ -753,7 +758,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
+        "value" : "Eile ( catagóir oscailte ), Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -775,7 +780,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "CSOanna / eagraíochtaí neamhrialtasacha"
+        "value" : "CSOanna / eagraíochtaí neamhrialtasacha, CSOanna / eagraíochtaí neamhrialtasacha"
       }
     }, {
       "item" : {
@@ -797,7 +802,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Grúpaí Pobail"
+        "value" : "Grúpaí Pobail, Grúpaí Pobail"
       }
     }, {
       "item" : {
@@ -819,7 +824,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Tionscnaimh líonrú"
+        "value" : "Tionscnaimh líonrú, Tionscnaimh líonrú"
       }
     }, {
       "item" : {
@@ -846,7 +851,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile (catagóir oscailte)"
+        "value" : "Eile (catagóir oscailte), Eile (catagóir oscailte)"
       }
     }, {
       "item" : {
@@ -864,7 +869,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "cuimsiú sóisialta"
+        "value" : "cuimsiú sóisialta, cuimsiú sóisialta"
       }
     }, {
       "item" : {
@@ -886,7 +891,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Frithpháirteach Cumainn Aid"
+        "value" : "Frithpháirteach Cumainn Aid, Frithpháirteach Cumainn Aid"
       }
     }, {
       "item" : {
@@ -913,7 +918,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile (catagóir oscailte)"
+        "value" : "Eile (catagóir oscailte), Eile (catagóir oscailte)"
       }
     }, {
       "item" : {
@@ -935,25 +940,29 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "comhpháirtithe SSEDAS"
+        "value" : "comhpháirtithe SSEDAS, comhpháirtithe SSEDAS"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "http://base.transformap.co/entity/Q143"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "http://base.transformap.co/entity/Q19"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ssedas_partner"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Oideachas & Oiliúint"
+        "value" : "comhpháirtithe SSEDAS, comhpháirtithe SSEDAS"
       }
     }, {
       "item" : {
@@ -971,7 +980,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Airgeadas"
+        "value" : "Airgeadas, Airgeadas"
       }
     }, {
       "item" : {
@@ -989,7 +998,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Saoránacht Ghníomhach"
+        "value" : "Saoránacht Ghníomhach, Saoránacht Ghníomhach"
       }
     }, {
       "item" : {
@@ -1007,7 +1016,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Féin-Eagraíocht & frithpháirteachas"
+        "value" : "Féin-Eagraíocht & frithpháirteachas, Féin-Eagraíocht & frithpháirteachas"
       }
     }, {
       "item" : {
@@ -1025,7 +1034,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "líonra comhpháirtíochta Susy-léarscáil"
+        "value" : "líonra comhpháirtíochta Susy-léarscáil, líonra comhpháirtíochta Susy-léarscáil"
       }
     }, {
       "item" : {
@@ -1048,7 +1057,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile"
+        "value" : "Eile, Eile"
       }
     }, {
       "item" : {
@@ -1066,7 +1075,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Grow leat féin agus le chéile"
+        "value" : "Grow leat féin agus le chéile, Grow leat féin agus le chéile"
       }
     }, {
       "item" : {
@@ -1084,7 +1093,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Ceannaigh áitiúil"
+        "value" : "Ceannaigh áitiúil, Ceannaigh áitiúil"
       }
     }, {
       "item" : {
@@ -1102,7 +1111,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Tarrthála Bia"
+        "value" : "Tarrthála Bia, Tarrthála Bia"
       }
     }, {
       "item" : {
@@ -1120,7 +1129,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Oideachas agus Polasaí"
+        "value" : "Oideachas agus Polasaí, Oideachas agus Polasaí"
       }
     }, {
       "item" : {
@@ -1138,7 +1147,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "laghdú"
+        "value" : "laghdú, laghdú"
       }
     }, {
       "item" : {
@@ -1156,7 +1165,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Comhroinn & Athúsáid"
+        "value" : "Comhroinn & Athúsáid, Comhroinn & Athúsáid"
       }
     }, {
       "item" : {
@@ -1174,7 +1183,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Deisiúchán"
+        "value" : "Deisiúchán, Deisiúchán"
       }
     }, {
       "item" : {
@@ -1192,7 +1201,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Athchúrsáil & Upcycle"
+        "value" : "Athchúrsáil & Upcycle, Athchúrsáil & Upcycle"
       }
     }, {
       "item" : {
@@ -1210,7 +1219,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "rannpháirtíocht pholaitiúil"
+        "value" : "rannpháirtíocht pholaitiúil, rannpháirtíocht pholaitiúil"
       }
     }, {
       "item" : {
@@ -1228,7 +1237,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Rannpháirtíocht"
+        "value" : "Rannpháirtíocht, Rannpháirtíocht"
       }
     }, {
       "item" : {
@@ -1246,7 +1255,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Rialacháin na gComhphobal / Líonraí"
+        "value" : "Rialacháin na gComhphobal / Líonraí, Rialacháin na gComhphobal / Líonraí"
       }
     }, {
       "item" : {
@@ -1268,7 +1277,29 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "fómhar féin"
+        "value" : "fómhar féin, fómhar féin"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q39"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "self_harvest"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "fómhar féin, fómhar féin"
       }
     }, {
       "item" : {
@@ -1295,7 +1326,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
+        "value" : "Eile ( catagóir oscailte ), Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -1317,7 +1348,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "cheannach go díreach Fíorúil"
+        "value" : "cheannach go díreach Fíorúil, cheannach go díreach Fíorúil"
       }
     }, {
       "item" : {
@@ -1344,7 +1375,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
+        "value" : "Eile ( catagóir oscailte ), Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -1366,7 +1397,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Grúpaí Foodsharing"
+        "value" : "Grúpaí Foodsharing, Grúpaí Foodsharing"
       }
     }, {
       "item" : {
@@ -1388,7 +1419,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Cuisine Tarrthála Bia"
+        "value" : "Cuisine Tarrthála Bia, Cuisine Tarrthála Bia"
       }
     }, {
       "item" : {
@@ -1410,7 +1441,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "dramhaíl bhia Athchúrsála"
+        "value" : "dramhaíl bhia Athchúrsála, dramhaíl bhia Athchúrsála"
       }
     }, {
       "item" : {
@@ -1437,7 +1468,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
+        "value" : "Eile ( catagóir oscailte ), Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -1464,7 +1495,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Cumhachtú talmhaíochta"
+        "value" : "Cumhachtú talmhaíochta, Cumhachtú talmhaíochta"
       }
     }, {
       "item" : {
@@ -1486,7 +1517,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "líonra comharbas feirme"
+        "value" : "líonra comharbas feirme, líonra comharbas feirme"
       }
     }, {
       "item" : {
@@ -1513,7 +1544,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
+        "value" : "Eile ( catagóir oscailte ), Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -1535,7 +1566,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Scoileanna Aonach Trádála"
+        "value" : "Scoileanna Aonach Trádála, Scoileanna Aonach Trádála"
       }
     }, {
       "item" : {
@@ -1546,6 +1577,10 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1553,7 +1588,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Bailte Cóir-Thrádála"
+        "value" : "Bailte Cóir-Thrádála, Bailte Cóir-Thrádála"
       }
     }, {
       "item" : {
@@ -1575,7 +1610,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Mórdhíoltóirí Cóirthrádála"
+        "value" : "Mórdhíoltóirí Cóirthrádála, Mórdhíoltóirí Cóirthrádála"
       }
     }, {
       "item" : {
@@ -1597,7 +1632,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Trádála Díreach"
+        "value" : "Trádála Díreach, Trádála Díreach"
       }
     }, {
       "item" : {
@@ -1619,7 +1654,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Comhoibriú um Fhorbairt,"
+        "value" : "Comhoibriú um Fhorbairt,, Comhoibriú um Fhorbairt,"
       }
     }, {
       "item" : {
@@ -1646,7 +1681,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile ( catagóir oscailte )"
+        "value" : "Eile ( catagóir oscailte ), Eile ( catagóir oscailte )"
       }
     }, {
       "item" : {
@@ -1668,7 +1703,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Ardú Feasachta Dramhaíola"
+        "value" : "Ardú Feasachta Dramhaíola, Ardú Feasachta Dramhaíola"
       }
     }, {
       "item" : {
@@ -1690,7 +1725,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Uimh- pacáistiú siopaí agus tionscnaimh"
+        "value" : "Uimh- pacáistiú siopaí agus tionscnaimh, Uimh- pacáistiú siopaí agus tionscnaimh"
       }
     }, {
       "item" : {
@@ -1717,7 +1752,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Other (open category)"
+        "value" : "Other (open category), Other (open category)"
       }
     }, {
       "item" : {
@@ -1739,7 +1774,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Earraí Úsáidte Díolacháin"
+        "value" : "Earraí Úsáidte Díolacháin, Earraí Úsáidte Díolacháin"
       }
     }, {
       "item" : {
@@ -1761,7 +1796,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "margadh flea"
+        "value" : "margadh flea, margadh flea"
       }
     }, {
       "item" : {
@@ -1783,7 +1818,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "éadaigh Cíos"
+        "value" : "éadaigh Cíos, éadaigh Cíos"
       }
     }, {
       "item" : {
@@ -1805,7 +1840,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Maoiniú Lárnach"
+        "value" : "Maoiniú Lárnach, Maoiniú Lárnach"
       }
     }, {
       "item" : {
@@ -1832,7 +1867,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile (catagóir oscailte)"
+        "value" : "Eile (catagóir oscailte), Eile (catagóir oscailte)"
       }
     }, {
       "item" : {
@@ -1854,7 +1889,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Cothabháil agus deisiú"
+        "value" : "Cothabháil agus deisiú, Cothabháil agus deisiú"
       }
     }, {
       "item" : {
@@ -1876,7 +1911,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "earraí a athdhíol nó a dheisiú"
+        "value" : "earraí a athdhíol nó a dheisiú, earraí a athdhíol nó a dheisiú"
       }
     }, {
       "item" : {
@@ -1915,7 +1950,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Bia & Talmhaíocht"
+        "value" : "Bia & Talmhaíocht, Bia & Talmhaíocht"
       }
     }, {
       "item" : {
@@ -1937,7 +1972,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "athchúrsáil"
+        "value" : "athchúrsáil, athchúrsáil"
       }
     }, {
       "item" : {
@@ -1959,7 +1994,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Upcycling"
+        "value" : "Upcycling, Upcycling"
       }
     }, {
       "item" : {
@@ -1981,7 +2016,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eco bhfeidhm art"
+        "value" : "Eco bhfeidhm art, Eco bhfeidhm art"
       }
     }, {
       "item" : {
@@ -2008,7 +2043,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile (catagóir oscailte)"
+        "value" : "Eile (catagóir oscailte), Eile (catagóir oscailte)"
       }
     }, {
       "item" : {
@@ -2035,7 +2070,28 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Eile (catagóir oscailte)"
+        "value" : "Eile (catagóir oscailte), Eile (catagóir oscailte)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q144"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q20"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "http://base.transformap.co/entity/Q144"
       }
     }, {
       "item" : {
@@ -2061,7 +2117,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Tabhair - Away - Siopa"
+        "value" : "Tabhair - Away - Siopa, Tabhair - Away - Siopa"
       }
     }, {
       "item" : {
@@ -2087,7 +2143,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Maoiniú Lárnach"
+        "value" : "Maoiniú Lárnach, Maoiniú Lárnach"
       }
     }, {
       "item" : {
@@ -2113,7 +2169,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Cafes Deisiúchán"
+        "value" : "Cafes Deisiúchán, Cafes Deisiúchán"
       }
     }, {
       "item" : {
@@ -2139,7 +2195,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "tithíocht Co"
+        "value" : "tithíocht Co, tithíocht Co"
       }
     }, {
       "item" : {
@@ -2165,7 +2221,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "commune"
+        "value" : "commune, commune"
       }
     }, {
       "item" : {
@@ -2191,7 +2247,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "sráidbhaile Eco"
+        "value" : "sráidbhaile Eco, sráidbhaile Eco"
       }
     }, {
       "item" : {
@@ -2217,7 +2273,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "squatting"
+        "value" : "squatting, squatting"
       }
     }, {
       "item" : {
@@ -2244,7 +2300,34 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "trádáil chothrom"
+        "value" : "trádáil chothrom, trádáil chothrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q188485"
+      },
+      "description" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Is trádáil chothrom gluaiseacht sóisialta chun cabhrú le táirgeoirí i dtíortha i mbéal forbartha a bhaint amach coinníollacha trádála níos fearr agus inbhuanaitheacht a chur chun cinn . Molann Trádála Fair airde ( díreach )"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "trádáil chothrom, trádáil chothrom"
       }
     }, {
       "item" : {
@@ -2275,7 +2358,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Cuimsiú Sóisialta trí fhostaíocht"
+        "value" : "Cuimsiú Sóisialta trí fhostaíocht, Cuimsiú Sóisialta trí fhostaíocht"
       }
     }, {
       "item" : {
@@ -2301,7 +2384,33 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "banc bia"
+        "value" : "banc bia, banc bia"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q869457"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "co oibre, co oibre"
       }
     }, {
       "item" : {
@@ -2327,7 +2436,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Centers Fiontar agus Goradáin"
+        "value" : "Centers Fiontar agus Goradáin, Centers Fiontar agus Goradáin"
       }
     }, {
       "item" : {
@@ -2353,7 +2462,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "airgeadra an Chomhphobail"
+        "value" : "airgeadra an Chomhphobail, airgeadra an Chomhphobail"
       }
     }, {
       "item" : {
@@ -2379,7 +2488,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Micreamhaoiniú"
+        "value" : "Micreamhaoiniú, Micreamhaoiniú"
       }
     }, {
       "item" : {
@@ -2405,7 +2514,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Tionscnaimh Daonlathas Díreach"
+        "value" : "Tionscnaimh Daonlathas Díreach, Tionscnaimh Daonlathas Díreach"
       }
     }, {
       "item" : {
@@ -2431,7 +2540,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Cistí Poiblí Rannpháirtíochta"
+        "value" : "Cistí Poiblí Rannpháirtíochta, Cistí Poiblí Rannpháirtíochta"
       }
     }, {
       "item" : {
@@ -2457,7 +2566,29 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : ".Mutual Cumainn Art"
+        "value" : ".Mutual Cumainn Art, .Mutual Cumainn Art"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q8434"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Oideachas & Oiliúint, Oideachas & Oiliúint"
       }
     }, {
       "item" : {
@@ -2483,7 +2614,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Gairdín Pobail"
+        "value" : "Gairdín Pobail, Gairdín Pobail"
       }
     }, {
       "item" : {
@@ -2509,7 +2640,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Inite Baile / Cathair"
+        "value" : "Inite Baile / Cathair, Inite Baile / Cathair"
       }
     }, {
       "item" : {
@@ -2535,7 +2666,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Pobail Tacaithe Talmhaíocht"
+        "value" : "Pobail Tacaithe Talmhaíocht, Pobail Tacaithe Talmhaíocht"
       }
     }, {
       "item" : {
@@ -2561,7 +2692,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Pobail Tacaithe Talmhaíocht"
+        "value" : "Pobail Tacaithe Talmhaíocht, Pobail Tacaithe Talmhaíocht"
       }
     }, {
       "item" : {
@@ -2587,7 +2718,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Bia Cheannach Ciorcal"
+        "value" : "Bia Cheannach Ciorcal, Bia Cheannach Ciorcal"
       }
     }, {
       "item" : {
@@ -2613,7 +2744,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Bia Cheannach Ciorcal"
+        "value" : "Bia Cheannach Ciorcal, Bia Cheannach Ciorcal"
       }
     }, {
       "item" : {
@@ -2639,7 +2770,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "garraíodóireacht guerilla"
+        "value" : "garraíodóireacht guerilla, garraíodóireacht guerilla"
       }
     }, {
       "item" : {
@@ -2665,7 +2796,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Síl Tionscnaimh Shábháil"
+        "value" : "Síl Tionscnaimh Shábháil, Síl Tionscnaimh Shábháil"
       }
     }, {
       "item" : {
@@ -2691,7 +2822,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Síl Tionscnaimh Shábháil"
+        "value" : "Síl Tionscnaimh Shábháil, Síl Tionscnaimh Shábháil"
       }
     }, {
       "item" : {
@@ -2717,7 +2848,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "ceannaigh Díreach / Siopa Feirme"
+        "value" : "ceannaigh Díreach / Siopa Feirme, ceannaigh Díreach / Siopa Feirme"
       }
     }, {
       "item" : {
@@ -2743,7 +2874,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Margadh Feirmeoirí áitiúil"
+        "value" : "Margadh Feirmeoirí áitiúil, Margadh Feirmeoirí áitiúil"
       }
     }, {
       "item" : {
@@ -2769,7 +2900,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Scéim Box Glasraí"
+        "value" : "Scéim Box Glasraí, Scéim Box Glasraí"
       }
     }, {
       "item" : {
@@ -2795,7 +2926,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Bia Comharchumann"
+        "value" : "Bia Comharchumann, Bia Comharchumann"
       }
     }, {
       "item" : {
@@ -2821,7 +2952,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Siopaí Cóirthrádála"
+        "value" : "Siopaí Cóirthrádála, Siopaí Cóirthrádála"
       }
     }, {
       "item" : {
@@ -2847,7 +2978,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Foodsharing Pointí Dáilte"
+        "value" : "Foodsharing Pointí Dáilte, Foodsharing Pointí Dáilte"
       }
     }, {
       "item" : {
@@ -2873,7 +3004,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Oideachas éiceolaíocht Agro"
+        "value" : "Oideachas éiceolaíocht Agro, Oideachas éiceolaíocht Agro"
       }
     }, {
       "item" : {
@@ -2899,7 +3030,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "comhairlí beartas bia"
+        "value" : "comhairlí beartas bia, comhairlí beartas bia"
       }
     }, {
       "item" : {
@@ -2925,7 +3056,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Tionscnaimh sovereignity Bia"
+        "value" : "Tionscnaimh sovereignity Bia, Tionscnaimh sovereignity Bia"
       }
     }, {
       "item" : {
@@ -2951,7 +3082,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "oideachas permaculture"
+        "value" : "oideachas permaculture, oideachas permaculture"
       }
     }, {
       "item" : {
@@ -2977,7 +3108,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "gairdíní Scoile"
+        "value" : "gairdíní Scoile, gairdíní Scoile"
       }
     }, {
       "item" : {
@@ -3003,7 +3134,7 @@
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "bia mall"
+        "value" : "bia mall, bia mall"
       }
     } ]
   }

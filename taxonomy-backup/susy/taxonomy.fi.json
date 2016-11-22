@@ -8,6 +8,11 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q100"
       },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Julkinen tai yksityinen tila, joka on avoin kaikille tai jäsenille mutta ilman velvoitetta kuluttaa."
+      },
       "subclass_of" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q13"
@@ -23,12 +28,44 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Vapaa tila"
+        "value" : "Vapaa tila, Vapaa tila"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q100"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Julkinen tai yksityinen tila, joka on avoin kaikille tai jäsenille mutta ilman velvoitetta kuluttaa."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "freespace"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Vapaa tila, Vapaa tila"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q101"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Kestävä liikkuminen viittaa liikkumiseen, joka on kestävää siksi että se hyödyttää sosiaalisesti ja olennaisesti vähentää ympäristöllisiä ja ilmastollisia vaikutuksia."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -45,7 +82,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Kestävän liikkumisen aloite"
+        "value" : "Kestävän liikkumisen aloite, Kestävän liikkumisen aloite"
       }
     }, {
       "item" : {
@@ -72,12 +109,17 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Polkupyörän korjaamispaja"
+        "value" : "Polkupyörän korjaamispaja, Polkupyörän korjaamispaja"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q103"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Tietoisuuden lisääminen paremmista pyöräilyolosuhteista."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -94,12 +136,17 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Pyöräilyn edistämisjärjestö"
+        "value" : "Pyöräilyn edistämisjärjestö, Pyöräilyn edistämisjärjestö"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q104"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Kestävä energiantuotanto, jonka omistaa ryhmä ihmisiä, joista jokaisella on verrattain pieni sijoitus ja joka jollain tavalla liittyy tuotantolaitoksen sijaintiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -116,7 +163,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Paikallinen kollektiivinen energiaomistus"
+        "value" : "Paikallinen kollektiivinen energiaomistus, Paikallinen kollektiivinen energiaomistus"
       }
     }, {
       "item" : {
@@ -143,7 +190,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Luonnonvarojen yhteisöllinen omistaminen"
+        "value" : "Luonnonvarojen yhteisöllinen omistaminen, Luonnonvarojen yhteisöllinen omistaminen"
       }
     }, {
       "item" : {
@@ -170,7 +217,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Yhteisöllinen metsänhoito (metsätalous)"
+        "value" : "Yhteisöllinen metsänhoito (metsätalous), Yhteisöllinen metsänhoito (metsätalous)"
       }
     }, {
       "item" : {
@@ -197,7 +244,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Muu (avoin luokka)"
+        "value" : "Muu (avoin luokka), Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -219,7 +266,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Sosiaalisen osallisuuden kautta voimaannuttaminen"
+        "value" : "Sosiaalisen osallisuuden kautta voimaannuttaminen, Sosiaalisen osallisuuden kautta voimaannuttaminen"
       }
     }, {
       "item" : {
@@ -237,7 +284,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Reduce, reuse, repair, recycle (vähennä, uusiokäytä, korjaa, kierrätä)"
+        "value" : "Reduce, reuse, repair, recycle (vähennä, uusiokäytä, korjaa, kierrätä), Reduce, reuse, repair, recycle (vähennä, uusiokäytä, korjaa, kierrätä)"
       }
     }, {
       "item" : {
@@ -259,7 +306,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Yhteiskunnallinen yritys (kauppa tai market)"
+        "value" : "Yhteiskunnallinen yritys (kauppa tai market), Yhteiskunnallinen yritys (kauppa tai market)"
       }
     }, {
       "item" : {
@@ -281,12 +328,17 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Yömaja"
+        "value" : "Yömaja, Yömaja"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q113"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka hankkeille ja aloitteille ihmisten mukaan ottamiseksi, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -303,29 +355,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Muu (avoin luokka)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Yhteistyöskentely (tila)"
+        "value" : "Muu (avoin luokka), Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -347,7 +377,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Yrittäjyyskoulutus"
+        "value" : "Yrittäjyyskoulutus, Yrittäjyyskoulutus"
       }
     }, {
       "item" : {
@@ -374,7 +404,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Sosiaalinen yrityshautomo"
+        "value" : "Sosiaalinen yrityshautomo, Sosiaalinen yrityshautomo"
       }
     }, {
       "item" : {
@@ -394,8 +424,9 @@
         "value" : "sse_education"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q118"
+        "value" : "Koulutus kestävyydestä ja solidaarisuudesta"
       }
     }, {
       "item" : {
@@ -415,8 +446,9 @@
         "value" : "sse_research"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q119"
+        "value" : "Tutkimus kestävyydestä ja solidaarisuudesta"
       }
     }, {
       "item" : {
@@ -434,7 +466,34 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Asutus & elinympäristö"
+        "value" : "Asutus & elinympäristö, Asutus & elinympäristö"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q120"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka koulutushankkeille ja -aloitteille, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Muu (avoin luokka), Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -461,7 +520,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Muu (avoin luokka)"
+        "value" : "Muu (avoin luokka), Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -483,7 +542,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Keskinäinen vakuutus"
+        "value" : "Keskinäinen vakuutus, Keskinäinen vakuutus"
       }
     }, {
       "item" : {
@@ -505,7 +564,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Keskinäinen vakuutus"
+        "value" : "Keskinäinen vakuutus, Keskinäinen vakuutus"
       }
     }, {
       "item" : {
@@ -525,8 +584,9 @@
         "value" : "ethicalfinance_education"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q124"
+        "value" : "Eettisen rahoituksen edistäminen"
       }
     }, {
       "item" : {
@@ -546,8 +606,9 @@
         "value" : "solidarity_lending"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q125"
+        "value" : "Solidaarinen lainaaminen"
       }
     }, {
       "item" : {
@@ -569,12 +630,17 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Aikapankki"
+        "value" : "Aikapankki, Aikapankki"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q127"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka rahoitusprojekteille ja -aloitteille, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -589,8 +655,9 @@
         "value" : "other_finance"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q127"
+        "value" : "Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -610,8 +677,9 @@
         "value" : "consumerism_awareness"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q129"
+        "value" : "Tietoisuuden lisääminen kuluttajansuojasta"
       }
     }, {
       "item" : {
@@ -629,12 +697,17 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Infrastruktuuri & resurssit"
+        "value" : "Infrastruktuuri & resurssit, Infrastruktuuri & resurssit"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q130"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka poliittiseen sitouttamiseen liittyville hankkeille ja aloitteille, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -649,8 +722,9 @@
         "value" : "other_political"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q130"
+        "value" : "Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -672,7 +746,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Kansalaisvaltuuskunta"
+        "value" : "Kansalaisvaltuuskunta, Kansalaisvaltuuskunta"
       }
     }, {
       "item" : {
@@ -694,12 +768,17 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Nuorisovaltuusto"
+        "value" : "Nuorisovaltuusto, Nuorisovaltuusto"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q134"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka osallistumishankkeille ja -aloitteille, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -714,8 +793,9 @@
         "value" : "other_participation"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q134"
+        "value" : "Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -737,7 +817,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Kansalaisjärjestö/ yhdistys"
+        "value" : "Kansalaisjärjestö/ yhdistys, Kansalaisjärjestö/ yhdistys"
       }
     }, {
       "item" : {
@@ -759,7 +839,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Paikallisryhmä"
+        "value" : "Paikallisryhmä, Paikallisryhmä"
       }
     }, {
       "item" : {
@@ -781,12 +861,17 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Verkostoaloite"
+        "value" : "Verkostoaloite, Verkostoaloite"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q138"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka yhteisömuodoille, jotka ovat mainitsemisen arvoisia mutteivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -801,8 +886,9 @@
         "value" : "other_communities"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q138"
+        "value" : "Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -820,7 +906,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Sosiaalinen osallisuus"
+        "value" : "Sosiaalinen osallisuus, Sosiaalinen osallisuus"
       }
     }, {
       "item" : {
@@ -840,13 +926,19 @@
         "value" : "mutualsociety_aid"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q140"
+        "value" : "Yhteisöjen molemminpuolinen apu"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q142"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka vastavuoroisten yhteisöjen muodoille, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -861,8 +953,9 @@
         "value" : "other_mutualsociety"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q142"
+        "value" : "Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -884,25 +977,29 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "SSEDAS kumppanit"
+        "value" : "SSEDAS kumppanit, SSEDAS kumppanit"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "http://base.transformap.co/entity/Q143"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "http://base.transformap.co/entity/Q19"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ssedas_partner"
       },
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Koulutus ja kasvatus"
+        "value" : "SSEDAS kumppanit, SSEDAS kumppanit"
       }
     }, {
       "item" : {
@@ -920,7 +1017,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Rahoitus"
+        "value" : "Rahoitus, Rahoitus"
       }
     }, {
       "item" : {
@@ -936,8 +1033,9 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q17"
+        "value" : "Aktiivinen kansalaisuus"
       }
     }, {
       "item" : {
@@ -953,8 +1051,9 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q18"
+        "value" : "Omaehtoinen järjestäytyminen ja vastavuoroisuus"
       }
     }, {
       "item" : {
@@ -970,13 +1069,19 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "SUSY-kartta kumppanuusverkostosta"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q20"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka hankkeille ja aloitteille, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -987,8 +1092,9 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q20"
+        "value" : "Muu"
       }
     }, {
       "item" : {
@@ -1004,8 +1110,9 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "Kasvata itse ja yhdessä"
       }
     }, {
       "item" : {
@@ -1023,7 +1130,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Osta paikallista"
+        "value" : "Osta paikallista, Osta paikallista"
       }
     }, {
       "item" : {
@@ -1039,8 +1146,9 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q27"
+        "value" : "Ruokahävikin käyttäminen"
       }
     }, {
       "item" : {
@@ -1056,8 +1164,9 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "Koulutus ja toimintatapa"
       }
     }, {
       "item" : {
@@ -1073,8 +1182,9 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q29"
+        "value" : "Vähennä"
       }
     }, {
       "item" : {
@@ -1090,8 +1200,9 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q30"
+        "value" : "Jaa ja käytä uudelleen"
       }
     }, {
       "item" : {
@@ -1109,7 +1220,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Korjaaminen"
+        "value" : "Korjaaminen, Korjaaminen"
       }
     }, {
       "item" : {
@@ -1125,8 +1236,9 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q32"
+        "value" : "Kierrätä ja keksi uusia käyttötapoja"
       }
     }, {
       "item" : {
@@ -1142,8 +1254,9 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q33"
+        "value" : "Poliittinen sitoutuminen"
       }
     }, {
       "item" : {
@@ -1161,12 +1274,17 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Osallistuminen"
+        "value" : "Osallistuminen, Osallistuminen"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q35"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Yhteisöverkosto tarkoittaa paikallisen yhteisön verkostoitumisteknologian käyttöä ja hyötymistä siitä."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -1177,8 +1295,9 @@
         "value" : "http://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q35"
+        "value" : "Yhteisöt / verkostot"
       }
     }, {
       "item" : {
@@ -1205,12 +1324,44 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Itsepoiminta"
+        "value" : "Itsepoiminta, Itsepoiminta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q39"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Maatilat, jotka tarjoavat itsepoimintaa."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "self_harvest"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Itsepoiminta, Itsepoiminta"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q40"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka Kasvata itse tai yhdessä -aiheisille hankkeille ja aloitteille, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -1227,7 +1378,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Muu (avoin luokitus)"
+        "value" : "Muu (avoin luokitus), Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -1247,13 +1398,19 @@
         "value" : "virtual_directpurchase"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q47"
+        "value" : "Sähköinen suora ostaminen"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q49"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Muita paikallisen ruoan aloitteita ja hankkeita, jotka on syytä mainita, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -1268,8 +1425,9 @@
         "value" : "other_buylocal"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q49"
+        "value" : "Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -1289,8 +1447,9 @@
         "value" : "foodrescue"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q52"
+        "value" : "Ruokienjakoryhmä"
       }
     }, {
       "item" : {
@@ -1310,8 +1469,9 @@
         "value" : "foodrescue_cuisine"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q54"
+        "value" : "Hävikkiruokakeittiö"
       }
     }, {
       "item" : {
@@ -1333,12 +1493,17 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Ruokajätteen kierrätys"
+        "value" : "Ruokajätteen kierrätys, Ruokajätteen kierrätys"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q56"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka ruokahävikin käyttöön liittyville hankkeille ja aloitteille, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -1355,7 +1520,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Muu (avoin luokka)"
+        "value" : "Muu (avoin luokka), Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -1382,7 +1547,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Maataloustoimijoiden voimaannuttaminen"
+        "value" : "Maataloustoimijoiden voimaannuttaminen, Maataloustoimijoiden voimaannuttaminen"
       }
     }, {
       "item" : {
@@ -1402,8 +1567,36 @@
         "value" : "agro_sucessionnetwork"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q59"
+        "value" : "Maatilojoen perimysverkosto"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q66"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Ruokakäytäntöihin ja -kasvatukseen liittyviä hankkeita ja aloitteita, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other_foodedunpolicy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Muu (avoin luokka), Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -1430,7 +1623,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Muu (avoin luokka)"
+        "value" : "Muu (avoin luokka), Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -1452,7 +1645,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Reilun kaupan koulu"
+        "value" : "Reilun kaupan koulu, Reilun kaupan koulu"
       }
     }, {
       "item" : {
@@ -1463,6 +1656,10 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1470,7 +1667,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Reilun kaupan kaupunki"
+        "value" : "Reilun kaupan kaupunki, Reilun kaupan kaupunki"
       }
     }, {
       "item" : {
@@ -1492,7 +1689,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Reilun kaupan tuotteiden tukkukauppa"
+        "value" : "Reilun kaupan tuotteiden tukkukauppa, Reilun kaupan tuotteiden tukkukauppa"
       }
     }, {
       "item" : {
@@ -1514,7 +1711,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Suorakauppa"
+        "value" : "Suorakauppa, Suorakauppa"
       }
     }, {
       "item" : {
@@ -1536,12 +1733,17 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Kehitysyhteistyö"
+        "value" : "Kehitysyhteistyö, Kehitysyhteistyö"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q73"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka Reilun kaupan ja kansainvälisen yhteistyön hankkeille ja aloitteille, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -1556,8 +1758,9 @@
         "value" : "other_fairtrade"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q73"
+        "value" : "Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -1577,8 +1780,9 @@
         "value" : "waste_awareness"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q74"
+        "value" : "Jätetietoisuuden lisääminen"
       }
     }, {
       "item" : {
@@ -1598,13 +1802,19 @@
         "value" : "nopacking_shop"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q75"
+        "value" : "Pakkausmateriaalittomat kaupat ja aloitteet"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q76"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka jätteen vähentämiseen liittyville hankkeille ja aloitteille, jotka ovat manitsemisen arvoisia mutteivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -1619,8 +1829,9 @@
         "value" : "other_wastereduction"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q76"
+        "value" : "Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -1642,7 +1853,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Käytettyjen tavaroiden myynti"
+        "value" : "Käytettyjen tavaroiden myynti, Käytettyjen tavaroiden myynti"
       }
     }, {
       "item" : {
@@ -1664,7 +1875,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Kirpputori"
+        "value" : "Kirpputori, Kirpputori"
       }
     }, {
       "item" : {
@@ -1686,7 +1897,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Vaatevuokraamo"
+        "value" : "Vaatevuokraamo, Vaatevuokraamo"
       }
     }, {
       "item" : {
@@ -1708,12 +1919,17 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Lainauskeskus"
+        "value" : "Lainauskeskus, Lainauskeskus"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q83"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin ryhmä Jakamishankkeille ja -aloitteille,  jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -1728,8 +1944,9 @@
         "value" : "other_sharing"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q83"
+        "value" : "Muu (avoin ryhmä)"
       }
     }, {
       "item" : {
@@ -1751,7 +1968,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Huolto ja korjaus"
+        "value" : "Huolto ja korjaus, Huolto ja korjaus"
       }
     }, {
       "item" : {
@@ -1771,13 +1988,19 @@
         "value" : "repair_resale"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q86"
+        "value" : "Jälleenmyynti tai tavaroiden korjaus"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q87"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka Korjaushankkeille ja -aloitteille,  jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -1792,8 +2015,9 @@
         "value" : "other_repair"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q87"
+        "value" : "Muu (avoin luokka)"
       }
     }, {
       "item" : {
@@ -1811,7 +2035,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Ruoka & maatalous"
+        "value" : "Ruoka & maatalous, Ruoka & maatalous"
       }
     }, {
       "item" : {
@@ -1833,7 +2057,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Kierrättäminen"
+        "value" : "Kierrättäminen, Kierrättäminen"
       }
     }, {
       "item" : {
@@ -1855,7 +2079,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Upcycling"
+        "value" : "Upcycling, Uusien käyttötapojen keksiminen jätteille"
       }
     }, {
       "item" : {
@@ -1875,13 +2099,19 @@
         "value" : "eco_art"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q93"
+        "value" : "Ekologinen soveltava taide"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q94"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka Kierrätys ja uudelleenkäyttö -aiheisille hankkeille ja aloitteille, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -1896,13 +2126,19 @@
         "value" : "other_reupcycle"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q94"
+        "value" : "Muu (avoin luokka)"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q99"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Avoin luokka Talo ja asuminen -hankkeille ja -aloitteille, jotka on syytä mainita, mutta jotka eivät sovi muihin luokkiin."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -1917,8 +2153,30 @@
         "value" : "other_habitat"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q99"
+        "value" : "Muu (avoin luokka)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q144"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q20"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "http://base.transformap.co/entity/Q144"
       }
     }, {
       "item" : {
@@ -1944,7 +2202,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Annetaan-pois-liike"
+        "value" : "Annetaan-pois-liike, Annetaan-pois-liike"
       }
     }, {
       "item" : {
@@ -1970,7 +2228,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Vaihtotori"
+        "value" : "Vaihtotori, Vaihtotori"
       }
     }, {
       "item" : {
@@ -1996,7 +2254,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Korjauskahvila"
+        "value" : "Korjauskahvila, Korjauskahvila"
       }
     }, {
       "item" : {
@@ -2027,7 +2285,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Yhteisöasuminen"
+        "value" : "Yhteisöasuminen, Yhteisöasuminen"
       }
     }, {
       "item" : {
@@ -2058,7 +2316,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Kommuuni"
+        "value" : "Kommuuni, Kommuuni"
       }
     }, {
       "item" : {
@@ -2068,6 +2326,11 @@
       "wikipedia" : {
         "type" : "uri",
         "value" : "https://en.wikipedia.org/wiki/Ecovillage"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Ekokylät ovat tavoitteellisia yhteisöjä, joiden päämäärä on tulla sosiaalisesti, taloudellisesti ja ekologisesti kestävämmiksi."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -2084,7 +2347,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Ekokylä"
+        "value" : "Ekokylä, Ekokylä"
       }
     }, {
       "item" : {
@@ -2110,593 +2373,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Talonvaltaus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Reilu kauppa"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q108"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
-      },
-      "description" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Yrityksiä, jotka luovat työpaikkoja haastavasti työllistyville ja auttavat työelämään integroitumisessa (vangit, huumeiden käyttäjät, syrjäytymisvaarassa olevat nuoret, pitkän hoitovapaan jälkeen työelämään palaavat, lähellä eläkeikää olevat...)."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "socialinclusion_employment"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Sosiaalinen voimaannuttaminen työllisyyden kautta"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q111"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodbank"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Ruokapankki"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q115"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "business_incubators"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Yritykeskus/ -hautomo"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q121"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitycurrency"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Paikallisvaluutta"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q122"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Microfinance"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "microfinance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Mikrorahoitus"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q128"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "directdemocracy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Suoran demokratian aloite"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q131"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "participatory_budgeting"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q131"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q139"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutualsociety_art"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Yhteistötaide"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q22"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
-      },
-      "description" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Yhteisöviljelmä on maa-alue, jotka ryhmä ihmisiä viljelee yhteisöllisesti."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "community_garden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Yhteisöviljelmä"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q24"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "edible_town"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Syötävä kunta / kaupunki"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q25"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q25"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "description" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Ihmisryhmä, joka järjestäytyy ostamaan yhdessä suoraan paikallisilta tuottajilta."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Ruokapiiri"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "description" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Ihmisryhmä, joka järjestäytyy ostamaan yhdessä suoraan paikallisilta tuottajilta."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Ruokapiiri"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q37"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
-      },
-      "description" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Sissiviljely tarkoittaa viljelyä alueella, johon viljelijöillä ei ole laillista oikeutta, kuten esimerkiksi joutomaa, hoitamaton tai yksityisalue. Usein viljelyksille myönnetään lupa jälkikäteen."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "guerilla_garden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Sissiviljely"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q38"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q38"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q41"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "farm_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Suoramyynti / tilamyynti"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q44"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "local_farmersmarket"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q44"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q45"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "vegetable_box"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q45"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q48"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_cooperative"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fi",
-        "type" : "literal",
-        "value" : "Ruokaosuuskunta"
+        "value" : "Talonvaltaus, Talonvaltaus"
       }
     }, {
       "item" : {
@@ -2722,7 +2399,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Reilun kaupan myymälä"
+        "value" : "Reilun kaupan myymälä, Reilun kaupan myymälä"
       }
     }, {
       "item" : {
@@ -2746,8 +2423,9 @@
         "value" : "foodrescue_distribution"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q53"
+        "value" : "Ruokienjaon jakelupiste"
       }
     }, {
       "item" : {
@@ -2778,7 +2456,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Agroekologian koulutus"
+        "value" : "Agroekologian koulutus, Agroekologian koulutus"
       }
     }, {
       "item" : {
@@ -2802,8 +2480,9 @@
         "value" : "foodpolicy_council"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q60"
+        "value" : "Ruokapoliittinen neuvosto"
       }
     }, {
       "item" : {
@@ -2827,8 +2506,9 @@
         "value" : "food_souvereignity"
       },
       "itemLabel" : {
+        "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "http://base.transformap.co/entity/Q61"
+        "value" : "Aloite omavaltaisuudesta ruuan suhteen"
       }
     }, {
       "item" : {
@@ -2854,7 +2534,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Permakulttuurikoulutus"
+        "value" : "Permakulttuurikoulutus, Permakulttuurikoulutus"
       }
     }, {
       "item" : {
@@ -2880,7 +2560,7 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Koulupuutarha"
+        "value" : "Koulupuutarha, Koulupuutarha"
       }
     }, {
       "item" : {
@@ -2906,7 +2586,700 @@
       "itemLabel" : {
         "xml:lang" : "fi",
         "type" : "literal",
-        "value" : "Slowfood"
+        "value" : "Slowfood, Slowfood"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Reilu kauppa on kansanliike jonka tavoite on auttaa tuottajia kehittyvissä maissa saavuttamaan paremmat kaupankäyntiasetelmat ja edistää kestävyyttä. Se puolustaa oikeudenmukaisia hintoja sekä parempia sosiaalisia ja ympäristöllisiä standardeja"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Reilu kauppa, Reilu kauppa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q188485"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Reilu kauppa on kansanliike jonka tavoite on auttaa tuottajia kehittyvissä maissa saavuttamaan paremmat kaupankäyntiasetelmat ja edistää kestävyyttä. Se puolustaa oikeudenmukaisia hintoja sekä parempia sosiaalisia ja ympäristöllisiä standardeja"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Reilu kauppa, Reilu kauppa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q108"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Yrityksiä, jotka luovat työpaikkoja haastavasti työllistyville ja auttavat työelämään integroitumisessa (vangit, huumeiden käyttäjät, syrjäytymisvaarassa olevat nuoret, pitkän hoitovapaan jälkeen työelämään palaavat, lähellä eläkeikää olevat...)."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "socialinclusion_employment"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Sosiaalinen voimaannuttaminen työllisyyden kautta, Sosiaalinen voimaannuttaminen työllisyyden kautta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q111"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodbank"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Ruokapankki, Ruokapankki"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q869457"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Yhteistyöskentely (tila), Yhteistyöskentely (tila)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q115"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Yrityskeskukset ja -hautomot ovat tiloja, joiden on tarkoitus auttaa ihmisiä perustamaan oma aloitteensa (joiden on tai ei ole tarkoitus tuottaa taloudellista voittoa)."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "business_incubators"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Yritykeskus/ -hautomo, Yritykeskus/ -hautomo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q121"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Paikallisvaluutta on eräänlainen täydentävä valuutta, jota käyttää ryhmä, jolla jokin yhdistävä side kuten kotipaikka tai järjestäytyminen. Esimerkikki paikallisvaluutasta on yhteisövaluutta."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitycurrency"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Paikallisvaluutta, Paikallisvaluutta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q122"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Microfinance"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "microfinance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Mikrorahoitus, Mikrorahoitus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q128"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q33"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "directdemocracy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Suoran demokratian aloite, Suoran demokratian aloite"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q131"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "participatory_budgeting"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Osallistava julkinen rahasto"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q139"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q18"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutualsociety_art"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Yhteistötaide, Yhteistötaide"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q8434"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Koulutus ja kasvatus, Koulutus ja kasvatus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q22"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Yhteisöviljelmä on maa-alue, jotka ryhmä ihmisiä viljelee yhteisöllisesti."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "community_garden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Yhteisöviljelmä, Yhteisöviljelmä"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q24"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "edible_town"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Syötävä kunta / kaupunki, Syötävä kunta / kaupunki"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Yhteisön tukema maatalous"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Yhteisön tukema maatalous"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Ihmisryhmä, joka järjestäytyy ostamaan yhdessä suoraan paikallisilta tuottajilta."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Ruokapiiri, Ruokapiiri"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Ihmisryhmä, joka järjestäytyy ostamaan yhdessä suoraan paikallisilta tuottajilta."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Ruokapiiri, Ruokapiiri"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q37"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Sissiviljely tarkoittaa viljelyä alueella, johon viljelijöillä ei ole laillista oikeutta, kuten esimerkiksi joutomaa, hoitamaton tai yksityisalue. Usein viljelyksille myönnetään lupa jälkikäteen."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "guerilla_garden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Sissiviljely, Sissiviljely"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Aloite siementen säilyttämiseksi"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Aloite siementen säilyttämiseksi"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q41"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "farm_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Suoramyynti / tilamyynti, Suoramyynti / tilamyynti"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q44"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Tori, jolla paikalliset viljelijät myyvät ruokaa suoraan kuluttajille."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "local_farmersmarket"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Paikallisten viljelijöiden tori"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q45"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
+      },
+      "description" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Paikallisten maanviljelijöiden viikottainen tuoreiden ainesten kuljetuspalvelu."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "vegetable_box"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Vihanneslaatikko-järjestelmä"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q48"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_cooperative"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fi",
+        "type" : "literal",
+        "value" : "Ruokaosuuskunta, Ruokaosuuskunta"
       }
     } ]
   }

@@ -23,7 +23,29 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Brīva telpa/Koprades telpa"
+        "value" : "Brīva telpa/Koprades telpa, Brīva telpa/Koprades telpa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q100"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q13"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "freespace"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Brīva telpa/Koprades telpa, Brīva telpa/Koprades telpa"
       }
     }, {
       "item" : {
@@ -45,7 +67,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Ilgstpējīgas mobilitātes iniciatīvas"
+        "value" : "Ilgstpējīgas mobilitātes iniciatīvas, Ilgstpējīgas mobilitātes iniciatīvas"
       }
     }, {
       "item" : {
@@ -67,7 +89,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Pašapkalpošanās velodarbnīca"
+        "value" : "Pašapkalpošanās velodarbnīca, Pašapkalpošanās velodarbnīca"
       }
     }, {
       "item" : {
@@ -89,7 +111,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "NVO velosipēdu remonts"
+        "value" : "NVO velosipēdu remonts, NVO velosipēdu remonts"
       }
     }, {
       "item" : {
@@ -111,7 +133,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Vietējās kopienas enerģija"
+        "value" : "Vietējās kopienas enerģija, Vietējās kopienas enerģija"
       }
     }, {
       "item" : {
@@ -133,7 +155,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Vietējās kopienas resursi"
+        "value" : "Vietējās kopienas resursi, Vietējās kopienas resursi"
       }
     }, {
       "item" : {
@@ -155,7 +177,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Kopienas mežaplatība"
+        "value" : "Kopienas mežaplatība, Kopienas mežaplatība"
       }
     }, {
       "item" : {
@@ -177,7 +199,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -199,7 +221,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Spēcināt sociālo iekļaušanu"
+        "value" : "Spēcināt sociālo iekļaušanu, Spēcināt sociālo iekļaušanu"
       }
     }, {
       "item" : {
@@ -217,7 +239,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Samazināt, atkārtoti izmantot, remontēt, atkārtoti izlietot"
+        "value" : "Samazināt, atkārtoti izmantot, remontēt, atkārtoti izlietot, Samazināt, atkārtoti izmantot, remontēt, atkārtoti izlietot"
       }
     }, {
       "item" : {
@@ -239,7 +261,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Sociālo uzņēmēju veikali (sociālo uzņēmēju lielveikali)"
+        "value" : "Sociālo uzņēmēju veikali (sociālo uzņēmēju lielveikali), Sociālo uzņēmēju veikali (sociālo uzņēmēju lielveikali)"
       }
     }, {
       "item" : {
@@ -261,7 +283,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Patversme personām bez noteiktas dzīvesvietas"
+        "value" : "Patversme personām bez noteiktas dzīvesvietas, Patversme personām bez noteiktas dzīvesvietas"
       }
     }, {
       "item" : {
@@ -283,29 +305,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "lv",
-        "type" : "literal",
-        "value" : "Koprade"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -327,7 +327,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Uzņēmējdarbības izglītība"
+        "value" : "Uzņēmējdarbības izglītība, Uzņēmējdarbības izglītība"
       }
     }, {
       "item" : {
@@ -349,7 +349,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Sociālo uzņēmēju inkubators"
+        "value" : "Sociālo uzņēmēju inkubators, Sociālo uzņēmēju inkubators"
       }
     }, {
       "item" : {
@@ -371,7 +371,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Ilgstspējīga & solidāra izglītība"
+        "value" : "Ilgstspējīga & solidāra izglītība, Ilgstspējīga & solidāra izglītība"
       }
     }, {
       "item" : {
@@ -393,7 +393,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Ilgstspējības & solidaritātes pētījums"
+        "value" : "Ilgstspējības & solidaritātes pētījums, Ilgstspējības & solidaritātes pētījums"
       }
     }, {
       "item" : {
@@ -411,7 +411,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Mājas un dzīvesvieta"
+        "value" : "Mājas un dzīvesvieta, Mājas un dzīvesvieta"
       }
     }, {
       "item" : {
@@ -433,7 +433,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -455,7 +455,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Savstarpēja apdrošināšana"
+        "value" : "Savstarpēja apdrošināšana, Savstarpēja apdrošināšana"
       }
     }, {
       "item" : {
@@ -477,7 +477,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Savstarpēja apdrošināšana"
+        "value" : "Savstarpēja apdrošināšana, Savstarpēja apdrošināšana"
       }
     }, {
       "item" : {
@@ -499,7 +499,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Veicināt ētisku finansēšanu"
+        "value" : "Veicināt ētisku finansēšanu, Veicināt ētisku finansēšanu"
       }
     }, {
       "item" : {
@@ -542,7 +542,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Laika bankas"
+        "value" : "Laika bankas, Laika bankas"
       }
     }, {
       "item" : {
@@ -564,7 +564,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -586,7 +586,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Patēriņa apziņas veicināšana"
+        "value" : "Patēriņa apziņas veicināšana, Patēriņa apziņas veicināšana"
       }
     }, {
       "item" : {
@@ -604,7 +604,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Infrastruktūra & resursi"
+        "value" : "Infrastruktūra & resursi, Infrastruktūra & resursi"
       }
     }, {
       "item" : {
@@ -626,7 +626,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -648,7 +648,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Iedzīvotāju padome"
+        "value" : "Iedzīvotāju padome, Iedzīvotāju padome"
       }
     }, {
       "item" : {
@@ -670,7 +670,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Jauniešu padome"
+        "value" : "Jauniešu padome, Jauniešu padome"
       }
     }, {
       "item" : {
@@ -692,7 +692,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -714,7 +714,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Nevalstiskā organizācija"
+        "value" : "Nevalstiskā organizācija, Nevalstiskā organizācija"
       }
     }, {
       "item" : {
@@ -736,7 +736,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Kopienas grupa"
+        "value" : "Kopienas grupa, Kopienas grupa"
       }
     }, {
       "item" : {
@@ -758,7 +758,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Tīklošanās iniciatīva"
+        "value" : "Tīklošanās iniciatīva, Tīklošanās iniciatīva"
       }
     }, {
       "item" : {
@@ -780,7 +780,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -798,7 +798,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Sociāla iekļaušana"
+        "value" : "Sociāla iekļaušana, Sociāla iekļaušana"
       }
     }, {
       "item" : {
@@ -820,7 +820,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Savstarpējā palīdzība"
+        "value" : "Savstarpējā palīdzība, Savstarpējā palīdzība"
       }
     }, {
       "item" : {
@@ -842,7 +842,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -868,20 +868,23 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "http://base.transformap.co/entity/Q143"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "http://base.transformap.co/entity/Q19"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ssedas_partner"
       },
       "itemLabel" : {
-        "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Izglītība & mācības"
+        "value" : "http://base.transformap.co/entity/Q143"
       }
     }, {
       "item" : {
@@ -899,7 +902,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Finanses"
+        "value" : "Finanses, Finanses"
       }
     }, {
       "item" : {
@@ -917,7 +920,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Aktīva līdzdalība"
+        "value" : "Aktīva līdzdalība, Aktīva līdzdalība"
       }
     }, {
       "item" : {
@@ -935,7 +938,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Pašorganizēšanās un savstarpīgums"
+        "value" : "Pašorganizēšanās un savstarpīgums, Pašorganizēšanās un savstarpīgums"
       }
     }, {
       "item" : {
@@ -953,7 +956,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "SUSY-kartes partneru tīkls"
+        "value" : "SUSY-kartes partneru tīkls, SUSY-kartes partneru tīkls"
       }
     }, {
       "item" : {
@@ -971,7 +974,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cits"
+        "value" : "Cits, Cits"
       }
     }, {
       "item" : {
@@ -989,7 +992,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Audzē pats un kopā ar citiem"
+        "value" : "Audzē pats un kopā ar citiem, Audzē pats un kopā ar citiem"
       }
     }, {
       "item" : {
@@ -1007,7 +1010,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Pirkt vietējo ražotāju produkciju"
+        "value" : "Pirkt vietējo ražotāju produkciju, Pirkt vietējo ražotāju produkciju"
       }
     }, {
       "item" : {
@@ -1025,7 +1028,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Metāmās ārā pārtikas izmantošana"
+        "value" : "Metāmās ārā pārtikas izmantošana, Metāmās ārā pārtikas izmantošana"
       }
     }, {
       "item" : {
@@ -1043,7 +1046,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Izglītība & politika"
+        "value" : "Izglītība & politika, Izglītība & politika"
       }
     }, {
       "item" : {
@@ -1061,7 +1064,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Samazināšana"
+        "value" : "Samazināšana, Samazināšana"
       }
     }, {
       "item" : {
@@ -1079,7 +1082,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Dalīšanās un atkārtota izmantošana"
+        "value" : "Dalīšanās un atkārtota izmantošana, Dalīšanās un atkārtota izmantošana"
       }
     }, {
       "item" : {
@@ -1097,7 +1100,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Labošana"
+        "value" : "Labošana, Labošana"
       }
     }, {
       "item" : {
@@ -1115,7 +1118,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Otrreizēja izmantošana & upcycle"
+        "value" : "Otrreizēja izmantošana & upcycle, Otrreizēja izmantošana & upcycle"
       }
     }, {
       "item" : {
@@ -1133,7 +1136,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Politiskas saistības"
+        "value" : "Politiskas saistības, Politiskas saistības"
       }
     }, {
       "item" : {
@@ -1151,7 +1154,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Līdzdalība"
+        "value" : "Līdzdalība, Līdzdalība"
       }
     }, {
       "item" : {
@@ -1169,7 +1172,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Kopienas sadarbības tīkli"
+        "value" : "Kopienas sadarbības tīkli, Kopienas sadarbības tīkli"
       }
     }, {
       "item" : {
@@ -1191,7 +1194,29 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Lauku saimniecības, kas piedāvā ražas novākšanu"
+        "value" : "Lauku saimniecības, kas piedāvā ražas novākšanu, Lauku saimniecības, kas piedāvā ražas novākšanu"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q39"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "self_harvest"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Lauku saimniecības, kas piedāvā ražas novākšanu, Lauku saimniecības, kas piedāvā ražas novākšanu"
       }
     }, {
       "item" : {
@@ -1213,7 +1238,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -1235,7 +1260,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Virtuāla tiešā pirkšana"
+        "value" : "Virtuāla tiešā pirkšana, Virtuāla tiešā pirkšana"
       }
     }, {
       "item" : {
@@ -1257,7 +1282,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -1279,7 +1304,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Pārtikas dalīšanās grupa"
+        "value" : "Pārtikas dalīšanās grupa, Pārtikas dalīšanās grupa"
       }
     }, {
       "item" : {
@@ -1301,7 +1326,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Neizmestās pārtikas virtuve"
+        "value" : "Neizmestās pārtikas virtuve, Neizmestās pārtikas virtuve"
       }
     }, {
       "item" : {
@@ -1323,7 +1348,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Atkārtoti izmantoti pārtikas atkritumi"
+        "value" : "Atkārtoti izmantoti pārtikas atkritumi, Atkārtoti izmantoti pārtikas atkritumi"
       }
     }, {
       "item" : {
@@ -1345,7 +1370,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -1367,7 +1392,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Lauksaimniecības stiprināšanas iniciatīvas"
+        "value" : "Lauksaimniecības stiprināšanas iniciatīvas, Lauksaimniecības stiprināšanas iniciatīvas"
       }
     }, {
       "item" : {
@@ -1389,7 +1414,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Lauku saimniecību pārņemšanas tīklojums"
+        "value" : "Lauku saimniecību pārņemšanas tīklojums, Lauku saimniecību pārņemšanas tīklojums"
       }
     }, {
       "item" : {
@@ -1411,7 +1436,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -1433,7 +1458,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Godīgās tirdzniecības skola"
+        "value" : "Godīgās tirdzniecības skola, Godīgās tirdzniecības skola"
       }
     }, {
       "item" : {
@@ -1444,6 +1469,10 @@
         "type" : "uri",
         "value" : "http://base.transformap.co/entity/Q10"
       },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
       "type_of_initiative_tag" : {
         "type" : "literal",
         "value" : "fairtrade_town"
@@ -1451,7 +1480,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Godīgās tirdzniecības pilsēta"
+        "value" : "Godīgās tirdzniecības pilsēta, Godīgās tirdzniecības pilsēta"
       }
     }, {
       "item" : {
@@ -1473,7 +1502,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Godīgās tirdzniecības vairumtirgotāji"
+        "value" : "Godīgās tirdzniecības vairumtirgotāji, Godīgās tirdzniecības vairumtirgotāji"
       }
     }, {
       "item" : {
@@ -1495,7 +1524,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Tiešā pirkšana"
+        "value" : "Tiešā pirkšana, Tiešā pirkšana"
       }
     }, {
       "item" : {
@@ -1517,7 +1546,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Attīstības sadarbība"
+        "value" : "Attīstības sadarbība, Attīstības sadarbība"
       }
     }, {
       "item" : {
@@ -1539,7 +1568,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -1561,7 +1590,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Izpratnes veicināšana par atkritumiem"
+        "value" : "Izpratnes veicināšana par atkritumiem, Izpratnes veicināšana par atkritumiem"
       }
     }, {
       "item" : {
@@ -1583,7 +1612,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Bez iepakojuma veikali un iniciatīvas"
+        "value" : "Bez iepakojuma veikali un iniciatīvas, Bez iepakojuma veikali un iniciatīvas"
       }
     }, {
       "item" : {
@@ -1605,7 +1634,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -1627,7 +1656,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Izmantotu lietu pārdošana"
+        "value" : "Izmantotu lietu pārdošana, Izmantotu lietu pārdošana"
       }
     }, {
       "item" : {
@@ -1649,7 +1678,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Krāmu tirgus"
+        "value" : "Krāmu tirgus, Krāmu tirgus"
       }
     }, {
       "item" : {
@@ -1671,7 +1700,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Apģērbu noma"
+        "value" : "Apģērbu noma, Apģērbu noma"
       }
     }, {
       "item" : {
@@ -1714,7 +1743,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -1736,7 +1765,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Saglabāšana un labošana"
+        "value" : "Saglabāšana un labošana, Saglabāšana un labošana"
       }
     }, {
       "item" : {
@@ -1758,7 +1787,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Lietu tālāk pārdošana vai labošana"
+        "value" : "Lietu tālāk pārdošana vai labošana, Lietu tālāk pārdošana vai labošana"
       }
     }, {
       "item" : {
@@ -1780,7 +1809,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -1798,7 +1827,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Pārtika & lauksaimniecība"
+        "value" : "Pārtika & lauksaimniecība, Pārtika & lauksaimniecība"
       }
     }, {
       "item" : {
@@ -1820,7 +1849,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Atkārtota izmantošana"
+        "value" : "Atkārtota izmantošana, Atkārtota izmantošana"
       }
     }, {
       "item" : {
@@ -1842,7 +1871,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Uzlabota atkārtotā izmantošana"
+        "value" : "Uzlabota atkārtotā izmantošana, Uzlabota atkārtotā izmantošana"
       }
     }, {
       "item" : {
@@ -1864,7 +1893,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Eko lietisķā māksla"
+        "value" : "Eko lietisķā māksla, Eko lietisķā māksla"
       }
     }, {
       "item" : {
@@ -1886,7 +1915,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
       }
     }, {
       "item" : {
@@ -1908,7 +1937,28 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Cita (atvērta kategorija)"
+        "value" : "Cita (atvērta kategorija), Cita (atvērta kategorija)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q144"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q20"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "other"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "http://base.transformap.co/entity/Q144"
       }
     }, {
       "item" : {
@@ -1934,7 +1984,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Labdarības veikals"
+        "value" : "Labdarības veikals, Labdarības veikals"
       }
     }, {
       "item" : {
@@ -1960,7 +2010,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Maiņas tirgus"
+        "value" : "Maiņas tirgus, Maiņas tirgus"
       }
     }, {
       "item" : {
@@ -1986,7 +2036,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Remonta kafejnīca"
+        "value" : "Remonta kafejnīca, Remonta kafejnīca"
       }
     }, {
       "item" : {
@@ -2037,7 +2087,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Komūna"
+        "value" : "Komūna, Komūna"
       }
     }, {
       "item" : {
@@ -2063,7 +2113,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Ekociemats"
+        "value" : "Ekociemats, Ekociemats"
       }
     }, {
       "item" : {
@@ -2089,7 +2139,215 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Skvotings"
+        "value" : "Skvotings, Skvotings"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Godīgās tirdzniecības veikals, Godīgās tirdzniecības veikals"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Pārtikas dalīšanās izdales punkts, Pārtikas dalīšanās izdales punkts"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Agro ekoloģijas izglītība, Agro ekoloģijas izglītība"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Pārtikas politikas padome, Pārtikas politikas padome"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Pārtikas suverenitātes iniciatīva, Pārtikas suverenitātes iniciatīva"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Permakultūras izglītība, Permakultūras izglītība"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Skolas dārzs, Skolas dārzs"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Bezsteigas ēdināšanas kustība, Bezsteigas ēdināšanas kustība"
       }
     }, {
       "item" : {
@@ -2111,7 +2369,29 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Godīgā tirdzniecība"
+        "value" : "Godīgā tirdzniecība, Godīgā tirdzniecība"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q188485"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Godīgā tirdzniecība, Godīgā tirdzniecība"
       }
     }, {
       "item" : {
@@ -2137,7 +2417,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Sociālā iekļaušana caur nodarbinātību"
+        "value" : "Sociālā iekļaušana caur nodarbinātību, Sociālā iekļaušana caur nodarbinātību"
       }
     }, {
       "item" : {
@@ -2163,7 +2443,33 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Pārtikas banka"
+        "value" : "Pārtikas banka, Pārtikas banka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q114"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q869457"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Koprade, Koprade"
       }
     }, {
       "item" : {
@@ -2189,7 +2495,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Uzņēmējdarbības centri&inkubatori"
+        "value" : "Uzņēmējdarbības centri&inkubatori, Uzņēmējdarbības centri&inkubatori"
       }
     }, {
       "item" : {
@@ -2215,7 +2521,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Kopienas valūta"
+        "value" : "Kopienas valūta, Kopienas valūta"
       }
     }, {
       "item" : {
@@ -2241,7 +2547,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Mikrofinansēšana"
+        "value" : "Mikrofinansēšana, Mikrofinansēšana"
       }
     }, {
       "item" : {
@@ -2267,7 +2573,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Tiešās demokrātijas iniciatīva"
+        "value" : "Tiešās demokrātijas iniciatīva, Tiešās demokrātijas iniciatīva"
       }
     }, {
       "item" : {
@@ -2293,7 +2599,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Organizētas pilsoņu grupas kopdarbība publiskam fondam"
+        "value" : "Organizētas pilsoņu grupas kopdarbība publiskam fondam, Organizētas pilsoņu grupas kopdarbība publiskam fondam"
       }
     }, {
       "item" : {
@@ -2319,7 +2625,29 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Koprades māksla"
+        "value" : "Koprades māksla, Koprades māksla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q15"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q8434"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "http://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "lv",
+        "type" : "literal",
+        "value" : "Izglītība & mācības, Izglītība & mācības"
       }
     }, {
       "item" : {
@@ -2345,7 +2673,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Kopienas dārzs"
+        "value" : "Kopienas dārzs, Kopienas dārzs"
       }
     }, {
       "item" : {
@@ -2396,7 +2724,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Kopienas atbalstīta lauksaimniecība"
+        "value" : "Kopienas atbalstīta lauksaimniecība, Kopienas atbalstīta lauksaimniecība"
       }
     }, {
       "item" : {
@@ -2422,7 +2750,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Kopienas atbalstīta lauksaimniecība"
+        "value" : "Kopienas atbalstīta lauksaimniecība, Kopienas atbalstīta lauksaimniecība"
       }
     }, {
       "item" : {
@@ -2448,7 +2776,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Pārtikas pirkšanas sfēras"
+        "value" : "Pārtikas pirkšanas sfēras, Pārtikas pirkšanas sfēras"
       }
     }, {
       "item" : {
@@ -2474,7 +2802,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Pārtikas pirkšanas sfēras"
+        "value" : "Pārtikas pirkšanas sfēras, Pārtikas pirkšanas sfēras"
       }
     }, {
       "item" : {
@@ -2500,7 +2828,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Partizānu dārzniecība"
+        "value" : "Partizānu dārzniecība, Partizānu dārzniecība"
       }
     }, {
       "item" : {
@@ -2526,7 +2854,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Sēklu saglabāšanas iniciatīva"
+        "value" : "Sēklu saglabāšanas iniciatīva, Sēklu saglabāšanas iniciatīva"
       }
     }, {
       "item" : {
@@ -2552,7 +2880,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Sēklu saglabāšanas iniciatīva"
+        "value" : "Sēklu saglabāšanas iniciatīva, Sēklu saglabāšanas iniciatīva"
       }
     }, {
       "item" : {
@@ -2578,7 +2906,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Tiešā pirkšana/lauku saimniecības veikals"
+        "value" : "Tiešā pirkšana/lauku saimniecības veikals, Tiešā pirkšana/lauku saimniecības veikals"
       }
     }, {
       "item" : {
@@ -2604,7 +2932,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Vietējo zemnieku tirgus"
+        "value" : "Vietējo zemnieku tirgus, Vietējo zemnieku tirgus"
       }
     }, {
       "item" : {
@@ -2630,7 +2958,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Sezonas dārzeņu kastes"
+        "value" : "Sezonas dārzeņu kastes, Sezonas dārzeņu kastes"
       }
     }, {
       "item" : {
@@ -2656,215 +2984,7 @@
       "itemLabel" : {
         "xml:lang" : "lv",
         "type" : "literal",
-        "value" : "Pārtikas kooperatīvi"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "lv",
-        "type" : "literal",
-        "value" : "Godīgās tirdzniecības veikals"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "lv",
-        "type" : "literal",
-        "value" : "Pārtikas dalīšanās izdales punkts"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "lv",
-        "type" : "literal",
-        "value" : "Agro ekoloģijas izglītība"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "lv",
-        "type" : "literal",
-        "value" : "Pārtikas politikas padome"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "lv",
-        "type" : "literal",
-        "value" : "Pārtikas suverenitātes iniciatīva"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "lv",
-        "type" : "literal",
-        "value" : "Permakultūras izglītība"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "lv",
-        "type" : "literal",
-        "value" : "Skolas dārzs"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "lv",
-        "type" : "literal",
-        "value" : "Bezsteigas ēdināšanas kustība"
+        "value" : "Pārtikas kooperatīvi, Pārtikas kooperatīvi"
       }
     } ]
   }
