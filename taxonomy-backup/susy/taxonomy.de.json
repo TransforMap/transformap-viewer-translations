@@ -6,7 +6,7 @@
     "bindings" : [ {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q100"
+        "value" : "https://base.transformap.co/entity/Q100"
       },
       "description" : {
         "xml:lang" : "de",
@@ -15,11 +15,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
+        "value" : "https://base.transformap.co/entity/Q13"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -33,7 +33,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q101"
+        "value" : "https://base.transformap.co/entity/Q101"
       },
       "description" : {
         "xml:lang" : "de",
@@ -42,11 +42,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
+        "value" : "https://base.transformap.co/entity/Q13"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -55,12 +55,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Nachhaltige Verkehrsinitiativen"
+        "value" : "Nachhaltige Verkehrsinitiative"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q102"
+        "value" : "https://base.transformap.co/entity/Q102"
       },
       "description" : {
         "xml:lang" : "de",
@@ -69,11 +69,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
+        "value" : "https://base.transformap.co/entity/Q13"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -87,7 +87,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q103"
+        "value" : "https://base.transformap.co/entity/Q103"
       },
       "description" : {
         "xml:lang" : "de",
@@ -96,11 +96,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
+        "value" : "https://base.transformap.co/entity/Q13"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -114,7 +114,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q104"
+        "value" : "https://base.transformap.co/entity/Q104"
       },
       "description" : {
         "xml:lang" : "de",
@@ -123,11 +123,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
+        "value" : "https://base.transformap.co/entity/Q13"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -136,12 +136,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "BürgerInnenbeteiligungsanlagen"
+        "value" : "BürgerInnenbeteiligungsanlage"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q105"
+        "value" : "https://base.transformap.co/entity/Q105"
       },
       "description" : {
         "xml:lang" : "de",
@@ -150,11 +150,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
+        "value" : "https://base.transformap.co/entity/Q13"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -168,7 +168,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q106"
+        "value" : "https://base.transformap.co/entity/Q106"
       },
       "description" : {
         "xml:lang" : "de",
@@ -177,11 +177,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
+        "value" : "https://base.transformap.co/entity/Q13"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -195,7 +195,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q107"
+        "value" : "https://base.transformap.co/entity/Q107"
       },
       "description" : {
         "xml:lang" : "de",
@@ -204,11 +204,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
+        "value" : "https://base.transformap.co/entity/Q13"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -222,7 +222,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q109"
+        "value" : "https://base.transformap.co/entity/Q109"
       },
       "description" : {
         "xml:lang" : "de",
@@ -231,11 +231,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
+        "value" : "https://base.transformap.co/entity/Q14"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -249,15 +249,15 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q11"
+        "value" : "https://base.transformap.co/entity/Q11"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -267,7 +267,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q110"
+        "value" : "https://base.transformap.co/entity/Q110"
       },
       "description" : {
         "xml:lang" : "de",
@@ -276,11 +276,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
+        "value" : "https://base.transformap.co/entity/Q14"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -294,7 +294,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q112"
+        "value" : "https://base.transformap.co/entity/Q112"
       },
       "description" : {
         "xml:lang" : "de",
@@ -303,11 +303,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
+        "value" : "https://base.transformap.co/entity/Q14"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -321,7 +321,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q113"
+        "value" : "https://base.transformap.co/entity/Q113"
       },
       "description" : {
         "xml:lang" : "de",
@@ -330,11 +330,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
+        "value" : "https://base.transformap.co/entity/Q14"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -348,7 +348,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q116"
+        "value" : "https://base.transformap.co/entity/Q116"
       },
       "description" : {
         "xml:lang" : "de",
@@ -357,11 +357,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "https://base.transformap.co/entity/Q15"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -375,20 +375,20 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q117"
+        "value" : "https://base.transformap.co/entity/Q117"
       },
       "description" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Social business Inkuabtoren helfen Startups von Sozialunternehmen ihre Aktivitäten zu entwickelung und ein Business-Modell zu erstellen, das auf drei Säulen (sozial, ökologisch, ökonomisch) beruht."
+        "value" : "Social Business Inkuabtoren helfen Startups von Sozialunternehmen ihre Aktivitäten zu entwickelung und ein Business-Modell zu erstellen, das auf drei Säulen (sozial, ökologisch, ökonomisch) beruht."
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "https://base.transformap.co/entity/Q15"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -397,12 +397,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Social business Inkubator"
+        "value" : "Social Business Inkubator"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q118"
+        "value" : "https://base.transformap.co/entity/Q118"
       },
       "description" : {
         "xml:lang" : "de",
@@ -411,11 +411,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "https://base.transformap.co/entity/Q15"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -429,7 +429,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q119"
+        "value" : "https://base.transformap.co/entity/Q119"
       },
       "description" : {
         "xml:lang" : "de",
@@ -438,11 +438,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "https://base.transformap.co/entity/Q15"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -456,7 +456,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
+        "value" : "https://base.transformap.co/entity/Q12"
       },
       "description" : {
         "xml:lang" : "de",
@@ -465,11 +465,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -479,7 +479,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q120"
+        "value" : "https://base.transformap.co/entity/Q120"
       },
       "description" : {
         "xml:lang" : "de",
@@ -488,11 +488,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "https://base.transformap.co/entity/Q15"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -506,61 +506,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q123"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Alternative Versicherungsmodelle sind Varianten der obligatorischen Grundversicherung"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutual_insurance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Gegenseitig-alternative Versicherungsmodelle"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q123"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Alternative Versicherungsmodelle sind Varianten der obligatorischen Grundversicherung"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutual_insurance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Gegenseitig-alternative Versicherungsmodelle"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q124"
+        "value" : "https://base.transformap.co/entity/Q124"
       },
       "description" : {
         "xml:lang" : "de",
@@ -569,11 +515,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
+        "value" : "https://base.transformap.co/entity/Q16"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -587,34 +533,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q125"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Solidarische Leihsysteme sind Modelle, die den Grundprinzipien der Solidarität folgen und bei dem Gegenstände oder Dienstleistungen ausgeliehen werden können."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "solidarity_lending"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Solidarische Leihsysteme"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q126"
+        "value" : "https://base.transformap.co/entity/Q126"
       },
       "description" : {
         "xml:lang" : "de",
@@ -623,11 +542,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
+        "value" : "https://base.transformap.co/entity/Q16"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -636,12 +555,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Tauschkreise"
+        "value" : "Tauschkreis"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q127"
+        "value" : "https://base.transformap.co/entity/Q127"
       },
       "description" : {
         "xml:lang" : "de",
@@ -650,11 +569,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
+        "value" : "https://base.transformap.co/entity/Q16"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -668,7 +587,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q129"
+        "value" : "https://base.transformap.co/entity/Q129"
       },
       "description" : {
         "xml:lang" : "de",
@@ -677,11 +596,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
+        "value" : "https://base.transformap.co/entity/Q33"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -695,7 +614,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q13"
+        "value" : "https://base.transformap.co/entity/Q13"
       },
       "description" : {
         "xml:lang" : "de",
@@ -704,11 +623,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -718,7 +637,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q130"
+        "value" : "https://base.transformap.co/entity/Q130"
       },
       "description" : {
         "xml:lang" : "de",
@@ -727,11 +646,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
+        "value" : "https://base.transformap.co/entity/Q33"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -740,12 +659,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Politische Initiativen)"
+        "value" : "Andere (politische Initiativen)"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q132"
+        "value" : "https://base.transformap.co/entity/Q132"
       },
       "description" : {
         "xml:lang" : "de",
@@ -754,11 +673,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
+        "value" : "https://base.transformap.co/entity/Q34"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -772,7 +691,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q133"
+        "value" : "https://base.transformap.co/entity/Q133"
       },
       "description" : {
         "xml:lang" : "de",
@@ -781,11 +700,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
+        "value" : "https://base.transformap.co/entity/Q34"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -799,7 +718,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q134"
+        "value" : "https://base.transformap.co/entity/Q134"
       },
       "description" : {
         "xml:lang" : "de",
@@ -808,11 +727,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
+        "value" : "https://base.transformap.co/entity/Q34"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -826,7 +745,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q135"
+        "value" : "https://base.transformap.co/entity/Q135"
       },
       "description" : {
         "xml:lang" : "de",
@@ -835,11 +754,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
+        "value" : "https://base.transformap.co/entity/Q35"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -853,7 +772,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q136"
+        "value" : "https://base.transformap.co/entity/Q136"
       },
       "description" : {
         "xml:lang" : "de",
@@ -862,11 +781,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
+        "value" : "https://base.transformap.co/entity/Q35"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -880,7 +799,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q137"
+        "value" : "https://base.transformap.co/entity/Q137"
       },
       "description" : {
         "xml:lang" : "de",
@@ -889,11 +808,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
+        "value" : "https://base.transformap.co/entity/Q35"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -907,7 +826,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q138"
+        "value" : "https://base.transformap.co/entity/Q138"
       },
       "description" : {
         "xml:lang" : "de",
@@ -916,11 +835,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
+        "value" : "https://base.transformap.co/entity/Q35"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -934,7 +853,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
+        "value" : "https://base.transformap.co/entity/Q14"
       },
       "description" : {
         "xml:lang" : "de",
@@ -943,11 +862,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -957,7 +876,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q140"
+        "value" : "https://base.transformap.co/entity/Q140"
       },
       "description" : {
         "xml:lang" : "de",
@@ -966,11 +885,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
+        "value" : "https://base.transformap.co/entity/Q18"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -984,7 +903,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q142"
+        "value" : "https://base.transformap.co/entity/Q142"
       },
       "description" : {
         "xml:lang" : "de",
@@ -993,11 +912,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
+        "value" : "https://base.transformap.co/entity/Q18"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1011,7 +930,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q143"
+        "value" : "https://base.transformap.co/entity/Q143"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1020,11 +939,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "https://base.transformap.co/entity/Q19"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1033,12 +952,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "SSEDAS Partnerorganisationen"
+        "value" : "SSEDAS Partnerorganisation"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q144"
+        "value" : "https://base.transformap.co/entity/Q144"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1047,11 +966,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
+        "value" : "https://base.transformap.co/entity/Q20"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1065,7 +984,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
+        "value" : "https://base.transformap.co/entity/Q16"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1074,11 +993,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1088,7 +1007,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q17"
+        "value" : "https://base.transformap.co/entity/Q17"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1097,11 +1016,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1111,7 +1030,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
+        "value" : "https://base.transformap.co/entity/Q18"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1120,11 +1039,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1134,7 +1053,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q19"
+        "value" : "https://base.transformap.co/entity/Q19"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1143,11 +1062,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1157,7 +1076,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q20"
+        "value" : "https://base.transformap.co/entity/Q20"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1166,11 +1085,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1180,15 +1099,15 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "https://base.transformap.co/entity/Q21"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
+        "value" : "https://base.transformap.co/entity/Q9"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1198,7 +1117,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1207,11 +1126,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
+        "value" : "https://base.transformap.co/entity/Q9"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1221,7 +1140,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
+        "value" : "https://base.transformap.co/entity/Q27"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1230,11 +1149,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
+        "value" : "https://base.transformap.co/entity/Q9"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1244,7 +1163,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1253,11 +1172,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
+        "value" : "https://base.transformap.co/entity/Q9"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1267,7 +1186,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q29"
+        "value" : "https://base.transformap.co/entity/Q29"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1276,11 +1195,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q11"
+        "value" : "https://base.transformap.co/entity/Q11"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1290,7 +1209,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
+        "value" : "https://base.transformap.co/entity/Q30"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1299,11 +1218,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q11"
+        "value" : "https://base.transformap.co/entity/Q11"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1313,7 +1232,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q31"
+        "value" : "https://base.transformap.co/entity/Q31"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1322,11 +1241,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q11"
+        "value" : "https://base.transformap.co/entity/Q11"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1336,7 +1255,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q32"
+        "value" : "https://base.transformap.co/entity/Q32"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1345,11 +1264,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q11"
+        "value" : "https://base.transformap.co/entity/Q11"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1359,7 +1278,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
+        "value" : "https://base.transformap.co/entity/Q33"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1368,11 +1287,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q17"
+        "value" : "https://base.transformap.co/entity/Q17"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1382,7 +1301,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
+        "value" : "https://base.transformap.co/entity/Q34"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1391,11 +1310,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q17"
+        "value" : "https://base.transformap.co/entity/Q17"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1405,7 +1324,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q35"
+        "value" : "https://base.transformap.co/entity/Q35"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1414,11 +1333,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q17"
+        "value" : "https://base.transformap.co/entity/Q17"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -1428,7 +1347,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q39"
+        "value" : "https://base.transformap.co/entity/Q39"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1437,11 +1356,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "https://base.transformap.co/entity/Q21"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1455,7 +1374,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q40"
+        "value" : "https://base.transformap.co/entity/Q40"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1464,11 +1383,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "https://base.transformap.co/entity/Q21"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1477,12 +1396,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Zusammen pflanzen, ernten, säen etc.)"
+        "value" : "Andere (zusammen pflanzen, ernten, säen etc.)"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q47"
+        "value" : "https://base.transformap.co/entity/Q47"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1491,11 +1410,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1509,7 +1428,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q49"
+        "value" : "https://base.transformap.co/entity/Q49"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1518,11 +1437,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1531,12 +1450,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Lokale Ernährung, Einkauf)"
+        "value" : "Andere (lokale Ernährung, Einkauf)"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q52"
+        "value" : "https://base.transformap.co/entity/Q52"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1545,11 +1464,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
+        "value" : "https://base.transformap.co/entity/Q27"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1563,7 +1482,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q54"
+        "value" : "https://base.transformap.co/entity/Q54"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1572,11 +1491,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
+        "value" : "https://base.transformap.co/entity/Q27"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1590,7 +1509,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q55"
+        "value" : "https://base.transformap.co/entity/Q55"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1599,11 +1518,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
+        "value" : "https://base.transformap.co/entity/Q27"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1617,7 +1536,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q56"
+        "value" : "https://base.transformap.co/entity/Q56"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1626,11 +1545,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
+        "value" : "https://base.transformap.co/entity/Q27"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1644,7 +1563,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q57"
+        "value" : "https://base.transformap.co/entity/Q57"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1653,11 +1572,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1671,20 +1590,20 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q59"
+        "value" : "https://base.transformap.co/entity/Q59"
       },
       "description" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Netzwerk die Erbfolge landwirtschaftlicher Betriebe unterstützt und geregelt wird."
+        "value" : "Netzwerk, dass landwirtschaftlicher Betriebe in Prozessen der Nachfolge-Übergabe unterstützt."
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1698,7 +1617,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q66"
+        "value" : "https://base.transformap.co/entity/Q66"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1707,11 +1626,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1725,7 +1644,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q68"
+        "value" : "https://base.transformap.co/entity/Q68"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1734,11 +1653,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
+        "value" : "https://base.transformap.co/entity/Q10"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1747,12 +1666,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Fairtrade Schule"
+        "value" : "Fairtrade-School"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q69"
+        "value" : "https://base.transformap.co/entity/Q69"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1761,11 +1680,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
+        "value" : "https://base.transformap.co/entity/Q10"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1779,7 +1698,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q70"
+        "value" : "https://base.transformap.co/entity/Q70"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1788,11 +1707,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
+        "value" : "https://base.transformap.co/entity/Q10"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1806,7 +1725,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q71"
+        "value" : "https://base.transformap.co/entity/Q71"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1815,11 +1734,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
+        "value" : "https://base.transformap.co/entity/Q10"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1833,7 +1752,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q72"
+        "value" : "https://base.transformap.co/entity/Q72"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1842,11 +1761,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
+        "value" : "https://base.transformap.co/entity/Q10"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1860,7 +1779,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q73"
+        "value" : "https://base.transformap.co/entity/Q73"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1869,11 +1788,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
+        "value" : "https://base.transformap.co/entity/Q10"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1887,7 +1806,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q74"
+        "value" : "https://base.transformap.co/entity/Q74"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1896,11 +1815,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q29"
+        "value" : "https://base.transformap.co/entity/Q29"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1914,7 +1833,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q75"
+        "value" : "https://base.transformap.co/entity/Q75"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1923,11 +1842,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q29"
+        "value" : "https://base.transformap.co/entity/Q29"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1936,12 +1855,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Verpackungsfreie Läden und Initiativen"
+        "value" : "Verpackungsfreie(r) Laden und Initiative"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q76"
+        "value" : "https://base.transformap.co/entity/Q76"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1950,11 +1869,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q29"
+        "value" : "https://base.transformap.co/entity/Q29"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1968,7 +1887,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q77"
+        "value" : "https://base.transformap.co/entity/Q77"
       },
       "description" : {
         "xml:lang" : "de",
@@ -1977,11 +1896,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
+        "value" : "https://base.transformap.co/entity/Q30"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -1995,7 +1914,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q78"
+        "value" : "https://base.transformap.co/entity/Q78"
       },
       "description" : {
         "xml:lang" : "de",
@@ -2004,11 +1923,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
+        "value" : "https://base.transformap.co/entity/Q30"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2022,7 +1941,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q79"
+        "value" : "https://base.transformap.co/entity/Q79"
       },
       "description" : {
         "xml:lang" : "de",
@@ -2031,11 +1950,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
+        "value" : "https://base.transformap.co/entity/Q30"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2049,20 +1968,20 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q81"
+        "value" : "https://base.transformap.co/entity/Q81"
       },
       "description" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "In einem Leihladen können Menschen sowohl Gegenstände zum Verleihen vorbeibringen als auch selbst Dinge ausborgen, ohne etwas zahlen zu müssen."
+        "value" : "In einem Leihladen können die Mitglieder sowohl Gegenstände zum Verleihen vorbeibringen als auch selbst Dinge ausborgen."
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
+        "value" : "https://base.transformap.co/entity/Q30"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2076,7 +1995,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q83"
+        "value" : "https://base.transformap.co/entity/Q83"
       },
       "description" : {
         "xml:lang" : "de",
@@ -2085,11 +2004,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
+        "value" : "https://base.transformap.co/entity/Q30"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2098,12 +2017,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Andere (Umsonst- und Tauschökonomische Projekte)"
+        "value" : "Andere (umsonst- und tauschökonomische Projekte)"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q84"
+        "value" : "https://base.transformap.co/entity/Q84"
       },
       "description" : {
         "xml:lang" : "de",
@@ -2112,11 +2031,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q31"
+        "value" : "https://base.transformap.co/entity/Q31"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2130,7 +2049,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q86"
+        "value" : "https://base.transformap.co/entity/Q86"
       },
       "description" : {
         "xml:lang" : "de",
@@ -2139,11 +2058,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q31"
+        "value" : "https://base.transformap.co/entity/Q31"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2157,7 +2076,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q87"
+        "value" : "https://base.transformap.co/entity/Q87"
       },
       "description" : {
         "xml:lang" : "de",
@@ -2166,11 +2085,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q31"
+        "value" : "https://base.transformap.co/entity/Q31"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2184,7 +2103,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
+        "value" : "https://base.transformap.co/entity/Q9"
       },
       "description" : {
         "xml:lang" : "de",
@@ -2193,11 +2112,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -2207,7 +2126,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q91"
+        "value" : "https://base.transformap.co/entity/Q91"
       },
       "description" : {
         "xml:lang" : "de",
@@ -2216,11 +2135,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q32"
+        "value" : "https://base.transformap.co/entity/Q32"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2234,7 +2153,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q92"
+        "value" : "https://base.transformap.co/entity/Q92"
       },
       "description" : {
         "xml:lang" : "de",
@@ -2243,11 +2162,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q32"
+        "value" : "https://base.transformap.co/entity/Q32"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2261,20 +2180,20 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q93"
+        "value" : "https://base.transformap.co/entity/Q93"
       },
       "description" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Ist die Einbindung von Natur in künstlerische Objekte."
+        "value" : "Ökologisches Design ist die Anwendung von ökologisch nachhaltigen Kriterien bei der Produktion von Alltags-Gegenständen und Deokrations-Objekten."
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q32"
+        "value" : "https://base.transformap.co/entity/Q32"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2283,12 +2202,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Naturkunst"
+        "value" : "Ökologisches Design"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q94"
+        "value" : "https://base.transformap.co/entity/Q94"
       },
       "description" : {
         "xml:lang" : "de",
@@ -2297,11 +2216,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q32"
+        "value" : "https://base.transformap.co/entity/Q32"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2315,7 +2234,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q99"
+        "value" : "https://base.transformap.co/entity/Q99"
       },
       "description" : {
         "xml:lang" : "de",
@@ -2324,11 +2243,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
+        "value" : "https://base.transformap.co/entity/Q12"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2342,224 +2261,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q80"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ein Umsonstladen ist ein privates, sozial oder politisch motiviertes Projekt, wo neue oder gebrauchte Gegenstände zur kostenlosen Mitnahme bereitgestellt sowie tauschfrei mitgenommen werden können."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "giveaway_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Umsonstladen"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q82"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Als Tauschbörse bezeichnet man eine Börse oder allgemeiner eine Plattform bzw. einen Ort, wo Menschen die Gelegenheit zum Tauschhandel bzw. zum kostenfreien Austausch oder gegen geringe Gebühr geboten wird."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "swap_market"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Tauschbörse"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q85"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bei einem Repair Cafe hat jede/r die Möglichkeit defekte Geräte mitzubringen und gemeinsam mit anderen zu reparieren. Und es gibt Kaffee und Kuchen dazu."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q31"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "repair_cafe"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Repair Café"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q95"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Cohousing"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Co-Housing ist eine geplante Gemeinschaft, die aus privaten Wohnunge/Häusern besteht, die durch Gemeinschaftseinrichtungen ergänzt werden.Cohousing-Siedlungen fördern gemeinsame soziale Aktivitäten und Alltagsplanung."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "cohousing"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Cohousing"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q96"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Commune"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Kommunen sind eine spezielle Form von Gemeinschaften, die meist gemeinsame Ökonomie praktizieren, nach dem Konsensprinzip entscheiden und an einem Platz leben, der in vielen Fällen Gemeinschaftseigentum ist."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "commune"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Kommune"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q97"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Als Ökodorf wird ein Dorf oder Stadtteil bezeichnet, das bzw. der an ökologischen Kriterien wie der Nachhaltigkeit ausgerichtet ist."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ecovillage"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ökodorf"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q98"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Squatting"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Eine Hausbesetzung ist die Inbesitznahme eines fremden, leerstehenden Gebäudes und seine Verwendung als Wohnraum oder Veranstaltungsraum. In den meisten Fällen erfolgt sie gegen den Willen oder ohne Berücksichtigung des Willens des Eigentümers."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "squatted_place"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Hausbesetzung"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
+        "value" : "https://base.transformap.co/entity/Q10"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2567,21 +2269,21 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Fairer Handel (Fair Trade)"
+        "value" : "Fairer Handel (Fairtrade)"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
+        "value" : "https://base.transformap.co/entity/Q10"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2589,21 +2291,21 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Fairer Handel (Fair Trade)"
+        "value" : "Fairer Handel (Fairtrade)"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q108"
+        "value" : "https://base.transformap.co/entity/Q108"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2616,11 +2318,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
+        "value" : "https://base.transformap.co/entity/Q14"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2629,12 +2331,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Sozialökonomische und - integrative Betriebe"
+        "value" : "Sozialökonomischer und - integrativer Betrieb"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q111"
+        "value" : "https://base.transformap.co/entity/Q111"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2647,11 +2349,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q14"
+        "value" : "https://base.transformap.co/entity/Q14"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2665,7 +2367,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q114"
+        "value" : "https://base.transformap.co/entity/Q114"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2678,11 +2380,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "https://base.transformap.co/entity/Q15"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2696,7 +2398,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q115"
+        "value" : "https://base.transformap.co/entity/Q115"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2704,11 +2406,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "https://base.transformap.co/entity/Q15"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2717,12 +2419,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "UnternehmerInnen- und GründerInnenzentren"
+        "value" : "UnternehmerInnen- und GründerInnenzentrum"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q121"
+        "value" : "https://base.transformap.co/entity/Q121"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2735,11 +2437,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
+        "value" : "https://base.transformap.co/entity/Q16"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2753,7 +2455,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q122"
+        "value" : "https://base.transformap.co/entity/Q122"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2766,11 +2468,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q16"
+        "value" : "https://base.transformap.co/entity/Q16"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2784,7 +2486,100 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q128"
+        "value" : "https://base.transformap.co/entity/Q123"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20insurance"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Alternative Versicherungsmodelle sind Varianten der obligatorischen Grundversicherung"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutual_insurance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gegenseitig-alternatives Versicherungsmodell"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q123"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20insurance"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Alternative Versicherungsmodelle sind Varianten der obligatorischen Grundversicherung"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q18"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutual_insurance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gegenseitig-alternatives Versicherungsmodell"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q125"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Solidarity%20lending"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Solidarische Leihsysteme sind Modelle, in denen kleine Gruppen einander auf Solidaritäts-Prinzip finanzielle Mittel verleihen und rückzahlen."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "solidarity_lending"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Solidarisches Leihsystem"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q128"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2797,11 +2592,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q33"
+        "value" : "https://base.transformap.co/entity/Q33"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2815,7 +2610,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q131"
+        "value" : "https://base.transformap.co/entity/Q131"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2828,11 +2623,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q34"
+        "value" : "https://base.transformap.co/entity/Q34"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2846,7 +2641,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q139"
+        "value" : "https://base.transformap.co/entity/Q139"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2854,11 +2649,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q18"
+        "value" : "https://base.transformap.co/entity/Q18"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2867,12 +2662,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Gesellschaft und Kunst"
+        "value" : "Vereinigungen zur Unterstützung von Künstler*innen"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q15"
+        "value" : "https://base.transformap.co/entity/Q15"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2885,11 +2680,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q8"
+        "value" : "https://base.transformap.co/entity/Q8"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q5"
+        "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
         "xml:lang" : "de",
@@ -2899,7 +2694,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q22"
+        "value" : "https://base.transformap.co/entity/Q22"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2912,11 +2707,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "https://base.transformap.co/entity/Q21"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2930,7 +2725,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q24"
+        "value" : "https://base.transformap.co/entity/Q24"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2943,11 +2738,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
+        "value" : "https://base.transformap.co/entity/Q9"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2961,7 +2756,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q25"
+        "value" : "https://base.transformap.co/entity/Q25"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -2974,11 +2769,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -2992,7 +2787,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q25"
+        "value" : "https://base.transformap.co/entity/Q25"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3005,11 +2800,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q9"
+        "value" : "https://base.transformap.co/entity/Q9"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3023,7 +2818,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q36"
+        "value" : "https://base.transformap.co/entity/Q36"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3036,11 +2831,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "https://base.transformap.co/entity/Q21"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3054,7 +2849,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q36"
+        "value" : "https://base.transformap.co/entity/Q36"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3067,11 +2862,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3085,7 +2880,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q37"
+        "value" : "https://base.transformap.co/entity/Q37"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3098,11 +2893,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "https://base.transformap.co/entity/Q21"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3116,7 +2911,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q38"
+        "value" : "https://base.transformap.co/entity/Q38"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3129,11 +2924,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q21"
+        "value" : "https://base.transformap.co/entity/Q21"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3147,7 +2942,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q38"
+        "value" : "https://base.transformap.co/entity/Q38"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3160,11 +2955,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3178,7 +2973,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q41"
+        "value" : "https://base.transformap.co/entity/Q41"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3191,11 +2986,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3209,7 +3004,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q44"
+        "value" : "https://base.transformap.co/entity/Q44"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3222,11 +3017,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3240,7 +3035,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q45"
+        "value" : "https://base.transformap.co/entity/Q45"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3253,11 +3048,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3271,7 +3066,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q48"
+        "value" : "https://base.transformap.co/entity/Q48"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3284,11 +3079,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3302,7 +3097,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q50"
+        "value" : "https://base.transformap.co/entity/Q50"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3315,11 +3110,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q10"
+        "value" : "https://base.transformap.co/entity/Q10"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3328,12 +3123,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Geschäft des Fairen Handels"
+        "value" : "Fairtrade Laden"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q53"
+        "value" : "https://base.transformap.co/entity/Q53"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3346,11 +3141,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q27"
+        "value" : "https://base.transformap.co/entity/Q27"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3359,12 +3154,12 @@
       "itemLabel" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Foodsharing Verteiler"
+        "value" : "Foodsharing Fair-Teiler"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q58"
+        "value" : "https://base.transformap.co/entity/Q58"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3377,11 +3172,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3395,7 +3190,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q60"
+        "value" : "https://base.transformap.co/entity/Q60"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3408,11 +3203,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3426,7 +3221,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q61"
+        "value" : "https://base.transformap.co/entity/Q61"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3439,11 +3234,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3457,7 +3252,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q62"
+        "value" : "https://base.transformap.co/entity/Q62"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3470,11 +3265,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3488,7 +3283,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q63"
+        "value" : "https://base.transformap.co/entity/Q63"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3501,11 +3296,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3519,7 +3314,7 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q65"
+        "value" : "https://base.transformap.co/entity/Q65"
       },
       "wikipedia" : {
         "type" : "uri",
@@ -3532,11 +3327,11 @@
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
-        "value" : "http://base.transformap.co/entity/Q6"
+        "value" : "https://base.transformap.co/entity/Q6"
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
@@ -3546,6 +3341,223 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Slow Food"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q80"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ein Umsonstladen ist ein privates, sozial oder politisch motiviertes Projekt, wo neue oder gebrauchte Gegenstände zur kostenlosen Mitnahme bereitgestellt sowie tauschfrei mitgenommen werden können."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "giveaway_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Umsonstladen"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q82"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Als Tauschbörse bezeichnet man eine Börse oder allgemeiner eine Plattform bzw. einen Ort, wo Menschen die Gelegenheit zum Tauschhandel bzw. zum kostenfreien Austausch oder gegen geringe Gebühr geboten wird."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "swap_market"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Tauschbörse"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q85"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bei einem Repair Cafe hat jede/r die Möglichkeit defekte Geräte mitzubringen und gemeinsam mit anderen zu reparieren. Und es gibt Kaffee und Kuchen dazu."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q31"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "repair_cafe"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Repair Café"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q95"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cohousing"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Co-Housing ist eine geplante Gemeinschaft, die aus privaten Wohnungen oder Häusern besteht und durch Gemeinschaftseinrichtungen ergänzt wird. Cohousing-Siedlungen fördern gemeinsame soziale Aktivitäten und Alltagsplanung."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "cohousing"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Cohousing"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q96"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Commune"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kommunen sind eine spezielle Form von Gemeinschaften, die meist gemeinsame Ökonomie praktizieren, nach dem Konsensprinzip entscheiden und an einem Platz leben, der in vielen Fällen Gemeinschaftseigentum ist."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "commune"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kommune"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q97"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Als Ökodorf wird ein Dorf oder Stadtteil bezeichnet, das bzw. der an ökologischen Kriterien wie der Nachhaltigkeit ausgerichtet ist."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ecovillage"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ökodorf"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q98"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Squatting"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Eine Hausbesetzung ist die Inbesitznahme eines fremden, leerstehenden Gebäudes und seine Verwendung als Wohnraum oder Veranstaltungsraum. In den meisten Fällen erfolgt sie gegen den Willen oder ohne Berücksichtigung des Willens des Eigentümers."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "squatted_place"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Hausbesetzung"
       }
     } ]
   }
