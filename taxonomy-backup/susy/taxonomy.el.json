@@ -23,7 +23,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Ελεύθερος χώρος / κοινόχρηστος χώρος"
+        "value" : "Ελεύθερος / κοινόχρηστος χώρος"
       }
     }, {
       "item" : {
@@ -67,7 +67,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Αυτο-επισκευή Ποδηλάτου"
+        "value" : "Επισκευή ποδηλάτου"
       }
     }, {
       "item" : {
@@ -89,7 +89,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "ΜΚΟ Ενημέρωσης Ποδηλάτου"
+        "value" : "ΜΚΟ ποδηλατικής ενημέρωσης"
       }
     }, {
       "item" : {
@@ -111,7 +111,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Ιδιοκτησία Τοπικής Συλλογικής Ενέργειας"
+        "value" : "Τοπική συλλογική ενεργειακή ιδιοκτησία"
       }
     }, {
       "item" : {
@@ -133,7 +133,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Ιδιοκτησία Τοπικών Συλλογικών Πόρων"
+        "value" : "Τοπική συλλογική ιδιοκτησία πόρων"
       }
     }, {
       "item" : {
@@ -155,7 +155,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Κοινότητα Δασοκομίας"
+        "value" : "Κοινοτική δασοκομία"
       }
     }, {
       "item" : {
@@ -177,7 +177,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (υποδομή και πόροι)"
       }
     }, {
       "item" : {
@@ -217,7 +217,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Μείωση, επαναχρησιμοποίηση, επιδιόρθωση, ανακύκλωση"
+        "value" : "Μείωση, επανάχρηση, επισκευή, ανακύκλωση"
       }
     }, {
       "item" : {
@@ -239,7 +239,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Κοινωνικά Καταστήματα (Κοινωνικά Σούπερ Μάρκετ)"
+        "value" : "Κοινωνικά καταστήματα (Κοινωνικά supermarket)"
       }
     }, {
       "item" : {
@@ -261,7 +261,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Καταφύγιο Αστέγων"
+        "value" : "Καταφύγιο αστέγων"
       }
     }, {
       "item" : {
@@ -283,7 +283,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (κοινωνική ένταξη)"
       }
     }, {
       "item" : {
@@ -305,7 +305,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Εκπαίδευση για την Επιχειρηματικότητα"
+        "value" : "Εκπαίδευση για την επιχειρηματικότητα"
       }
     }, {
       "item" : {
@@ -349,7 +349,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Κοινωνική και Αλληλέγγυα Εκπαίδευση"
+        "value" : "Κοινωνική & αλληλέγγυα εκπαίδευση"
       }
     }, {
       "item" : {
@@ -371,7 +371,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Κοινωνική και Αλληλέγγυα Έρευνα"
+        "value" : "Κοινωνική & αλληλέγγυα έρευνα"
       }
     }, {
       "item" : {
@@ -389,7 +389,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Στέγαση και ενδιαίτημα"
+        "value" : "Στέγαση & φυσικό περιβάλλον"
       }
     }, {
       "item" : {
@@ -411,7 +411,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (εκπαίδευση)"
       }
     }, {
       "item" : {
@@ -433,7 +433,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Προαγωγή της ηθικής χρηματοδότησης"
+        "value" : "Προώθηση ηθικής χρηματοδότησης"
       }
     }, {
       "item" : {
@@ -455,7 +455,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Χρονοτράπεζα"
+        "value" : "Τράπεζα χρόνου"
       }
     }, {
       "item" : {
@@ -477,7 +477,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (χρηματοοικονομικά)"
       }
     }, {
       "item" : {
@@ -517,7 +517,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Υποδομή και πόροι"
+        "value" : "Υποδομή & πόροι"
       }
     }, {
       "item" : {
@@ -539,7 +539,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (ενεργή συμμετοχή)"
       }
     }, {
       "item" : {
@@ -561,7 +561,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Συμβούλιο του Πολίτη"
+        "value" : "Συμβούλιο πολιτών"
       }
     }, {
       "item" : {
@@ -583,7 +583,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Συμβούλιο Νεολαίας"
+        "value" : "Συμβούλιο νεολαίας"
       }
     }, {
       "item" : {
@@ -605,7 +605,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (συμμετοχή)"
       }
     }, {
       "item" : {
@@ -627,7 +627,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "ΟΚΠ / ΜΚΟ"
+        "value" : "Κοινωνία των πολιτών/ Μη κερδοσκοπικές οργανώσεις"
       }
     }, {
       "item" : {
@@ -693,7 +693,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (κοινότητες)"
       }
     }, {
       "item" : {
@@ -733,7 +733,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Αμοιβαίες Κοινωνίες Βοήθειας"
+        "value" : "Αμοιβαίες κοινωνίες βοήθειας"
       }
     }, {
       "item" : {
@@ -755,7 +755,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (αμοιβαίες κοινωνίες)"
       }
     }, {
       "item" : {
@@ -853,7 +853,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Αυτό-οργάνωση και αμοιβαιότητα"
+        "value" : "Αυτό-οργάνωση & αμοιβαιότητα"
       }
     }, {
       "item" : {
@@ -871,7 +871,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "SUSY-χάρτης δικτύου συνεργατών"
+        "value" : "Δίκτυο συνεργατών SUSY - χάρτη"
       }
     }, {
       "item" : {
@@ -943,7 +943,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Διάσωση Τροφής"
+        "value" : "Διάσωση τροφής"
       }
     }, {
       "item" : {
@@ -961,7 +961,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Εκπαίδευση και Πολιτική"
+        "value" : "Εκπαίδευση & πολιτική"
       }
     }, {
       "item" : {
@@ -979,7 +979,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Μειώνω"
+        "value" : "Μείωση"
       }
     }, {
       "item" : {
@@ -997,7 +997,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Μοίρασμα και Επαναχρησιμοποίηση"
+        "value" : "Μοίρασμα & επανάχρηση"
       }
     }, {
       "item" : {
@@ -1015,7 +1015,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Επιδιόρθωση"
+        "value" : "Επισκευή"
       }
     }, {
       "item" : {
@@ -1033,7 +1033,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Ανακύκλωση και Επανάχρηση"
+        "value" : "Ανακύκλωση & μετασκευή"
       }
     }, {
       "item" : {
@@ -1051,7 +1051,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Πολιτική σύμπλεξη"
+        "value" : "Πολιτική συμμετοχή"
       }
     }, {
       "item" : {
@@ -1109,7 +1109,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Αυτό-συγκομιδή"
+        "value" : "Συγκομιδή"
       }
     }, {
       "item" : {
@@ -1131,7 +1131,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (grow it yourself)"
       }
     }, {
       "item" : {
@@ -1175,7 +1175,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (αγορά τοπικών τροφίμων)"
       }
     }, {
       "item" : {
@@ -1197,7 +1197,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Ομάδα μοιράσματος τροφίμων"
+        "value" : "Ομάδα μοιράσματος τροφής"
       }
     }, {
       "item" : {
@@ -1219,7 +1219,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Κουζίνα Διάσωσης Τροφίμων"
+        "value" : "Κουζίνα διάσωσης τροφίμων"
       }
     }, {
       "item" : {
@@ -1263,7 +1263,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (διάσωση τροφής)"
       }
     }, {
       "item" : {
@@ -1285,7 +1285,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Αγροτική Ενδυνάμωση"
+        "value" : "Αγροτική ενδυνάμωση"
       }
     }, {
       "item" : {
@@ -1329,7 +1329,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (διατροφική πολιτική & εκπαίδευση)"
       }
     }, {
       "item" : {
@@ -1417,7 +1417,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Απευθείας Εμπόριο"
+        "value" : "Απευθείας εμπόριο"
       }
     }, {
       "item" : {
@@ -1439,7 +1439,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Ανάπτυξη Συνεργασίας"
+        "value" : "Αναπτυξιακή συνεργασία"
       }
     }, {
       "item" : {
@@ -1461,7 +1461,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (δίκαιο εμπόριο)"
       }
     }, {
       "item" : {
@@ -1483,7 +1483,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Ευαισθητοποίηση για τα Απόβλητα"
+        "value" : "Ευαισθητοποίηση για τη σπατάλη τροφής"
       }
     }, {
       "item" : {
@@ -1505,7 +1505,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Καταστήματα και πρωτοβουλίες χωρίς συσκευασία"
+        "value" : "Καταστήματα/πρωτοβουλίες χωρίς συσκευασίες"
       }
     }, {
       "item" : {
@@ -1527,7 +1527,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (μείωση σπατάλης)"
       }
     }, {
       "item" : {
@@ -1571,7 +1571,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Παζάρι"
+        "value" : "Flea market"
       }
     }, {
       "item" : {
@@ -1593,7 +1593,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Ενοικίαση Ενδυμάτων"
+        "value" : "Ενοικίαση ενδυμάτων"
       }
     }, {
       "item" : {
@@ -1615,7 +1615,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Κεντρική Χρηματοδότηση"
+        "value" : "Κεντρική χρηματοδότηση"
       }
     }, {
       "item" : {
@@ -1637,7 +1637,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (μοίρασμα)"
       }
     }, {
       "item" : {
@@ -1659,7 +1659,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Συντήρηση και επισκευή"
+        "value" : "Συντήρηση & επισκευή"
       }
     }, {
       "item" : {
@@ -1703,7 +1703,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (επισκευή)"
       }
     }, {
       "item" : {
@@ -1721,7 +1721,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Τροφή και γεωργία"
+        "value" : "Τροφή & γεωργία"
       }
     }, {
       "item" : {
@@ -1765,7 +1765,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Επανάχρηση"
+        "value" : "Αναβαθμιστική Ανακύκλωση (Μετασκευή)"
       }
     }, {
       "item" : {
@@ -1787,7 +1787,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Οικολογική εφαρμοσμένη τέχνη"
+        "value" : "Οικοτεχνία"
       }
     }, {
       "item" : {
@@ -1809,7 +1809,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
+        "value" : "Άλλο (ανακύκλωση)"
       }
     }, {
       "item" : {
@@ -1831,645 +1831,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Άλλο (ανοιχτή κατηγορία)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Δίκαιο εμπόριο"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q188485"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Δίκαιο εμπόριο"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q108"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "socialinclusion_employment"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Κοινωνική ένταξη μέσω απασχόλησης"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q111"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodbank"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Τράπεζα τροφίμων"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q114"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q869457"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Συνεργασία"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q115"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "business_incubators"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Κέντρα επιχειρήσεων και θερμοκοιτίδες"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q121"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitycurrency"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Κοινοτικό Νόμισμα"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q122"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Microfinance"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "microfinance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Μικροχρηματοδότηση"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q123"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Mutual%20insurance"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutual_insurance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Αμοιβαία Ασφάλιση"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q123"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Mutual%20insurance"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q18"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutual_insurance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Αμοιβαία Ασφάλιση"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q125"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Solidarity%20lending"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "solidarity_lending"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Δανεισμός Αλληλεγγύης"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q128"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "directdemocracy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Πρωτοβουλία άμεσης δημοκρατίας"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q131"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "participatory_budgeting"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Συμμετοχικό δημόσιο ταμείο"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q139"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q18"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutualsociety_art"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Αμοιβαίες Κοινωνίες Τέχνης"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q15"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q8434"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Εκπαίδευση και Εξάσκηση"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q22"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "community_garden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Κήπος Κοινότητας"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q24"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "edible_town"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Εδώδιμη πόλη"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Κοινωνικά υποστηριζόμενη γεωργία"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Κοινωνικά υποστηριζόμενη γεωργία"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Κύκλος αγοράς τροφίμων"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Κύκλος αγοράς τροφίμων"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q37"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "guerilla_garden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Κηπουρική Guerilla"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Πρωτοβουλία εξοικονόμησης σπόρων"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Πρωτοβουλία εξοικονόμησης σπόρων"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q41"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "farm_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "el",
-        "type" : "literal",
-        "value" : "Απευθείας αγορά / Αγροτικό Κατάστημα"
+        "value" : "Άλλο (στέγαση & φυσικό περιβάλλον)"
       }
     }, {
       "item" : {
@@ -2495,7 +1857,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Αγορά Τοπικών Αγροτών"
+        "value" : "Λαϊκή αγορά"
       }
     }, {
       "item" : {
@@ -2547,7 +1909,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Συνεταιρισμός Τροφιμών"
+        "value" : "Συνεταιρισμός τροφίμων"
       }
     }, {
       "item" : {
@@ -2625,7 +1987,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Εκπαίδευση Αγρο-οικολογίας"
+        "value" : "Εκπαίδευση αγροοικολογίας"
       }
     }, {
       "item" : {
@@ -2651,7 +2013,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Συμβούλιο Πολιτικής Τροφίμων"
+        "value" : "Συμβούλιο διατροφικής πολιτικής"
       }
     }, {
       "item" : {
@@ -2677,7 +2039,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Πρωτοβουλία κυριαρχίας τροφίμων"
+        "value" : "Πρωτοβουλία επισιτιστικής κυριαρχίας"
       }
     }, {
       "item" : {
@@ -2703,7 +2065,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Εκπαίδευση Αεικαλλιέργειας"
+        "value" : "Εκπαίδευση για την περμακουλτούρα"
       }
     }, {
       "item" : {
@@ -2729,7 +2091,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Σχολικός Κήπος"
+        "value" : "Σχολικός κήπος"
       }
     }, {
       "item" : {
@@ -2755,7 +2117,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Βραδυφαγία"
+        "value" : "Slow Food"
       }
     }, {
       "item" : {
@@ -2781,7 +2143,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Κατάστημα Give-Away"
+        "value" : "Give-away-shop"
       }
     }, {
       "item" : {
@@ -2807,7 +2169,7 @@
       "itemLabel" : {
         "xml:lang" : "el",
         "type" : "literal",
-        "value" : "Αγορά ανταλλαγών"
+        "value" : "Ανταλλακτική αγορά"
       }
     }, {
       "item" : {
@@ -2938,6 +2300,644 @@
         "xml:lang" : "el",
         "type" : "literal",
         "value" : "Κατάληψη"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Δίκαιο εμπόριο"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q188485"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Δίκαιο εμπόριο"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q108"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "socialinclusion_employment"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Κοινωνική ένταξη μέσω απασχόλησης"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q111"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodbank"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Τράπεζα τροφίμων"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q114"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q869457"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Συνεργατικότητα"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q115"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "business_incubators"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Κέντρα επιχειρήσεων & θερμοκοιτίδες"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q121"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitycurrency"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Κοινοτικό νόμισμα"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q122"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Microfinance"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "microfinance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Μικροχρηματοδότηση"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q123"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20insurance"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutual_insurance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Αμοιβαία ασφάλιση"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q123"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20insurance"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q18"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutual_insurance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Αμοιβαία ασφάλιση"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q125"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Solidarity%20lending"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "solidarity_lending"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Δανεισμός αλληλεγγύης"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q128"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q33"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "directdemocracy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Πρωτοβουλία άμεσης δημοκρατίας"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q131"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "participatory_budgeting"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Συμμετοχικό δημόσιο ταμείο"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q139"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q18"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutualsociety_art"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Αμοιβαίες κοινωνίες τέχνης"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q15"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q8434"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Εκπαίδευση & training"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q22"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "community_garden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Κοινοτικός κήπος"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q24"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "edible_town"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Εδώδιμη πόλη"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Κοινωνικά Υποστηριζόμενη Γεωργία (ΚΥΓΕΩ)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Κοινωνικά Υποστηριζόμενη Γεωργία (ΚΥΓΕΩ)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Συλλογική αγορά τροφίμων"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Συλλογική αγορά τροφίμων"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q37"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "guerilla_garden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Αντάρτικη κηπουρική (Guerilla gardening)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Πρωτοβουλία διάσωσης σπόρων"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Πρωτοβουλία διάσωσης σπόρων"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q41"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "farm_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Απευθείας αγορά/ Αγροτικό κατάστημα"
       }
     } ]
   }

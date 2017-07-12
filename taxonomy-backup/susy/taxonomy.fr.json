@@ -8,6 +8,11 @@
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q100"
       },
+      "description" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Espace public ou privé, ouvert au public sur base libre ou par adhésion sans besoin de consommer."
+      },
       "subclass_of" : {
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q13"
@@ -21,13 +26,19 @@
         "value" : "freespace"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q100"
+        "value" : "Espace libre / espace de partage"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q101"
+      },
+      "description" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "La mobilité durable se réfère au vaste sujet du transport qui est durable dans le sens de l'augmentation des avantages sociaux, combinée à une réduction significative des impacts environnementaux et climatiques."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -42,13 +53,19 @@
         "value" : "sustainable_mobility"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q101"
+        "value" : "Initiatives de mobilité durable"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q102"
+      },
+      "description" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Un atelier de réparation de vélo, s'organise sur la base du volontariat, permettant aux personnes de réparer eux-mêmes leurs vélos. Souvent les ateliers sont tournés vers des valeurs d'égalité et sont politiquement actifs en faveur du vélo."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -63,13 +80,19 @@
         "value" : "bicycle_selfrepair"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q102"
+        "value" : "Auto-réparation de vélo"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q103"
+      },
+      "description" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Sensibiliser afin d'avoir de meilleurs conditions pour les personnes utilisant les vélos (certains organisations font également du lobbying)"
       },
       "subclass_of" : {
         "type" : "uri",
@@ -84,13 +107,19 @@
         "value" : "bicycle_awareness"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q103"
+        "value" : "ONG de sensibilisation au vélo"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q104"
+      },
+      "description" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Production d'énergie durable qui appartient à un collectif formé d'individu en majorité, où chacun détient une part de l'investissement et est concerné dans la location des unités de productions d'énergie."
       },
       "subclass_of" : {
         "type" : "uri",
@@ -105,8 +134,9 @@
         "value" : "collective_energy"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q104"
+        "value" : "Coopérative de production d'énergie"
       }
     }, {
       "item" : {
@@ -126,8 +156,9 @@
         "value" : "localcollective_ressources"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q105"
+        "value" : "Coopérative locale de ressources"
       }
     }, {
       "item" : {
@@ -147,8 +178,9 @@
         "value" : "community_forestry"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q106"
+        "value" : "Communauté de forestier"
       }
     }, {
       "item" : {
@@ -168,8 +200,9 @@
         "value" : "other_infraressources"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q107"
+        "value" : "Autres (infrastructures et ressources)"
       }
     }, {
       "item" : {
@@ -189,8 +222,9 @@
         "value" : "socialinclusion_empowerment"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q109"
+        "value" : "Inclusion sociale et autonomisation"
       }
     }, {
       "item" : {
@@ -206,8 +240,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q11"
+        "value" : "Réutilisation, réparation, recyclage"
       }
     }, {
       "item" : {
@@ -227,8 +262,9 @@
         "value" : "lowincome_supermarket"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q110"
+        "value" : "Epicerie sociale"
       }
     }, {
       "item" : {
@@ -248,8 +284,9 @@
         "value" : "homeless_shelter"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q112"
+        "value" : "Refuge pour sans abris"
       }
     }, {
       "item" : {
@@ -269,8 +306,9 @@
         "value" : "other_socialinclusion"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q113"
+        "value" : "Autre (inclusion sociale)"
       }
     }, {
       "item" : {
@@ -290,8 +328,9 @@
         "value" : "entrepreneurship_education"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q116"
+        "value" : "Formation d'entrepreneuriat"
       }
     }, {
       "item" : {
@@ -311,8 +350,9 @@
         "value" : "social_incubators"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q117"
+        "value" : "Incubateur d'entreprises sociales"
       }
     }, {
       "item" : {
@@ -332,8 +372,9 @@
         "value" : "sse_education"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q118"
+        "value" : "Formation en solidarité et développement durable"
       }
     }, {
       "item" : {
@@ -353,8 +394,9 @@
         "value" : "sse_research"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q119"
+        "value" : "Recherche en solidarité et développement durable"
       }
     }, {
       "item" : {
@@ -370,8 +412,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q12"
+        "value" : "Logement & habitat"
       }
     }, {
       "item" : {
@@ -391,8 +434,9 @@
         "value" : "other_education"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q120"
+        "value" : "Autre (éducation)"
       }
     }, {
       "item" : {
@@ -412,8 +456,9 @@
         "value" : "ethicalfinance_education"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q124"
+        "value" : "Promotion de finance éthique"
       }
     }, {
       "item" : {
@@ -433,8 +478,9 @@
         "value" : "timebanking"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q126"
+        "value" : "Banque de temps"
       }
     }, {
       "item" : {
@@ -454,8 +500,9 @@
         "value" : "other_finance"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q127"
+        "value" : "Autre (finance)"
       }
     }, {
       "item" : {
@@ -475,8 +522,9 @@
         "value" : "consumerism_awareness"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q129"
+        "value" : "Sensibilisation à la consommation"
       }
     }, {
       "item" : {
@@ -492,8 +540,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q13"
+        "value" : "Infrastructure & ressources"
       }
     }, {
       "item" : {
@@ -513,8 +562,9 @@
         "value" : "other_political"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q130"
+        "value" : "Autre (activités citoyennes)"
       }
     }, {
       "item" : {
@@ -534,8 +584,9 @@
         "value" : "citizen_council"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q132"
+        "value" : "Conseil citoyen"
       }
     }, {
       "item" : {
@@ -555,8 +606,9 @@
         "value" : "youth_council"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q133"
+        "value" : "Conseil de jeunes"
       }
     }, {
       "item" : {
@@ -576,8 +628,9 @@
         "value" : "other_participation"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q134"
+        "value" : "Autres (participation)"
       }
     }, {
       "item" : {
@@ -597,8 +650,9 @@
         "value" : "ngo"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q135"
+        "value" : "Société Civile / ONG"
       }
     }, {
       "item" : {
@@ -618,8 +672,9 @@
         "value" : "community_group"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q136"
+        "value" : "Groupe de communauté"
       }
     }, {
       "item" : {
@@ -639,8 +694,9 @@
         "value" : "networking_initiative"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q137"
+        "value" : "Réseaux"
       }
     }, {
       "item" : {
@@ -660,8 +716,9 @@
         "value" : "other_communities"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q138"
+        "value" : "Autres (communautés)"
       }
     }, {
       "item" : {
@@ -677,8 +734,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q14"
+        "value" : "Inclusion sociale"
       }
     }, {
       "item" : {
@@ -698,8 +756,9 @@
         "value" : "mutualsociety_aid"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q140"
+        "value" : "Société mutualiste d'aide"
       }
     }, {
       "item" : {
@@ -719,13 +778,19 @@
         "value" : "other_mutualsociety"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q142"
+        "value" : "Autre (sociétés mutualistes)"
       }
     }, {
       "item" : {
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q143"
+      },
+      "description" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Organisations du partenaires du projet européens SSEDAS - www.solidarityeconomy.eu"
       },
       "subclass_of" : {
         "type" : "uri",
@@ -740,8 +805,9 @@
         "value" : "ssedas_partner"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q143"
+        "value" : "Partenaires du projet SSEDAS"
       }
     }, {
       "item" : {
@@ -778,8 +844,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q16"
+        "value" : "Finance"
       }
     }, {
       "item" : {
@@ -795,8 +862,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q17"
+        "value" : "Citoyenneté active"
       }
     }, {
       "item" : {
@@ -812,8 +880,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q18"
+        "value" : "Auto-organisation et mutualisation"
       }
     }, {
       "item" : {
@@ -829,8 +898,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q19"
+        "value" : "Réseau de partenaires SUSY-map"
       }
     }, {
       "item" : {
@@ -846,8 +916,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q20"
+        "value" : "Autre"
       }
     }, {
       "item" : {
@@ -863,8 +934,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q21"
+        "value" : "Cultive toi-même et avec d’autres"
       }
     }, {
       "item" : {
@@ -880,8 +952,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q26"
+        "value" : "Acheter local"
       }
     }, {
       "item" : {
@@ -897,8 +970,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q27"
+        "value" : "Aide alimentaire"
       }
     }, {
       "item" : {
@@ -914,8 +988,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q28"
+        "value" : "Education et politique"
       }
     }, {
       "item" : {
@@ -931,8 +1006,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q29"
+        "value" : "Reduire"
       }
     }, {
       "item" : {
@@ -948,8 +1024,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q30"
+        "value" : "Partager et réutiliser"
       }
     }, {
       "item" : {
@@ -965,8 +1042,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q31"
+        "value" : "Réparer"
       }
     }, {
       "item" : {
@@ -982,8 +1060,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q32"
+        "value" : "Recyclage et upclycling"
       }
     }, {
       "item" : {
@@ -999,8 +1078,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q33"
+        "value" : "Engagement politique"
       }
     }, {
       "item" : {
@@ -1016,8 +1096,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q34"
+        "value" : "Participation"
       }
     }, {
       "item" : {
@@ -1033,8 +1114,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q35"
+        "value" : "Communautés / réseaux"
       }
     }, {
       "item" : {
@@ -1054,8 +1136,9 @@
         "value" : "self_harvest"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q39"
+        "value" : "Auto-récolte"
       }
     }, {
       "item" : {
@@ -1075,8 +1158,9 @@
         "value" : "other_growyourself"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q40"
+        "value" : "Autres (culture toi-même)"
       }
     }, {
       "item" : {
@@ -1096,8 +1180,9 @@
         "value" : "virtual_directpurchase"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q47"
+        "value" : "Achats directs virtuels"
       }
     }, {
       "item" : {
@@ -1117,8 +1202,9 @@
         "value" : "other_buylocal"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q49"
+        "value" : "Autres (achat de nourriture locale)"
       }
     }, {
       "item" : {
@@ -1138,8 +1224,9 @@
         "value" : "foodrescue"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q52"
+        "value" : "Groupe de partage de nourriture"
       }
     }, {
       "item" : {
@@ -1159,8 +1246,9 @@
         "value" : "foodrescue_cuisine"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q54"
+        "value" : "Cuisine alimentaire / resto-sociaux"
       }
     }, {
       "item" : {
@@ -1180,8 +1268,9 @@
         "value" : "recycling_foodwaste"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q55"
+        "value" : "Récupération de déchets alimentaires"
       }
     }, {
       "item" : {
@@ -1201,8 +1290,9 @@
         "value" : "other_foodrescue"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q56"
+        "value" : "Autres (aide alimentaire)"
       }
     }, {
       "item" : {
@@ -1222,8 +1312,9 @@
         "value" : "agro_empowerment"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q57"
+        "value" : "Renforcement de l’agriculture"
       }
     }, {
       "item" : {
@@ -1243,8 +1334,9 @@
         "value" : "agro_sucessionnetwork"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q59"
+        "value" : "Réseaux d'agriculteurs"
       }
     }, {
       "item" : {
@@ -1264,8 +1356,9 @@
         "value" : "other_foodedunpolicy"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q66"
+        "value" : "Autres (Politiques alimentaires et education)"
       }
     }, {
       "item" : {
@@ -1285,8 +1378,9 @@
         "value" : "fairtrade_school"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q68"
+        "value" : "Ecoles Commerce Equitables"
       }
     }, {
       "item" : {
@@ -1306,8 +1400,9 @@
         "value" : "fairtrade_town"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q69"
+        "value" : "Villes Commerce Equitable"
       }
     }, {
       "item" : {
@@ -1327,8 +1422,9 @@
         "value" : "fairtrade_wholesaler"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q70"
+        "value" : "Grandes surfaces équitables"
       }
     }, {
       "item" : {
@@ -1348,8 +1444,9 @@
         "value" : "directtrade"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q71"
+        "value" : "Commerce direct"
       }
     }, {
       "item" : {
@@ -1369,8 +1466,9 @@
         "value" : "development_cooperation"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q72"
+        "value" : "Coopération au développement"
       }
     }, {
       "item" : {
@@ -1390,8 +1488,9 @@
         "value" : "other_fairtrade"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q73"
+        "value" : "Autres (commerce équitable)"
       }
     }, {
       "item" : {
@@ -1411,8 +1510,9 @@
         "value" : "waste_awareness"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q74"
+        "value" : "Sensibilisation au gaspillage"
       }
     }, {
       "item" : {
@@ -1432,8 +1532,9 @@
         "value" : "nopacking_shop"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q75"
+        "value" : "Magasins et initiatives “sans emballages”"
       }
     }, {
       "item" : {
@@ -1453,8 +1554,9 @@
         "value" : "other_wastereduction"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q76"
+        "value" : "Autres (réduction des déchets)"
       }
     }, {
       "item" : {
@@ -1474,8 +1576,9 @@
         "value" : "used_goods"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q77"
+        "value" : "Vente de biens utilisés / deuxième main"
       }
     }, {
       "item" : {
@@ -1495,8 +1598,9 @@
         "value" : "fleamarket"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q78"
+        "value" : "Marché aux puces"
       }
     }, {
       "item" : {
@@ -1516,8 +1620,9 @@
         "value" : "garment_rental"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q79"
+        "value" : "Location de vêtements"
       }
     }, {
       "item" : {
@@ -1537,8 +1642,9 @@
         "value" : "lending_central"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q81"
+        "value" : "Centre de prêt"
       }
     }, {
       "item" : {
@@ -1558,8 +1664,9 @@
         "value" : "other_sharing"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q83"
+        "value" : "Autres (partage)"
       }
     }, {
       "item" : {
@@ -1579,8 +1686,9 @@
         "value" : "repairing"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q84"
+        "value" : "Entretien et réparation"
       }
     }, {
       "item" : {
@@ -1600,8 +1708,9 @@
         "value" : "repair_resale"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q86"
+        "value" : "Biens revendus ou réparé"
       }
     }, {
       "item" : {
@@ -1621,8 +1730,9 @@
         "value" : "other_repair"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q87"
+        "value" : "Autres (réparation)"
       }
     }, {
       "item" : {
@@ -1638,8 +1748,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q9"
+        "value" : "Nourriture et agriculture"
       }
     }, {
       "item" : {
@@ -1659,8 +1770,9 @@
         "value" : "recycling"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q91"
+        "value" : "Recyclage"
       }
     }, {
       "item" : {
@@ -1680,8 +1792,9 @@
         "value" : "upcycling"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q92"
+        "value" : "Upcycling"
       }
     }, {
       "item" : {
@@ -1701,8 +1814,9 @@
         "value" : "eco_art"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q93"
+        "value" : "EcoArt"
       }
     }, {
       "item" : {
@@ -1722,8 +1836,9 @@
         "value" : "other_reupcycle"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q94"
+        "value" : "Autres (recyclage)"
       }
     }, {
       "item" : {
@@ -1743,8 +1858,9 @@
         "value" : "other_habitat"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q99"
+        "value" : "Autres (logement et habitation)"
       }
     }, {
       "item" : {
@@ -1768,8 +1884,9 @@
         "value" : "giveaway_shop"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q80"
+        "value" : "Magasins \"à donner\""
       }
     }, {
       "item" : {
@@ -1793,8 +1910,9 @@
         "value" : "swap_market"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q82"
+        "value" : "Marché de troc"
       }
     }, {
       "item" : {
@@ -1818,8 +1936,9 @@
         "value" : "repair_cafe"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q85"
+        "value" : "Café réparation / bricolage"
       }
     }, {
       "item" : {
@@ -1843,8 +1962,9 @@
         "value" : "cohousing"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q95"
+        "value" : "Co-habitation / Habitat groupé"
       }
     }, {
       "item" : {
@@ -1868,8 +1988,9 @@
         "value" : "commune"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q96"
+        "value" : "Se comprendre"
       }
     }, {
       "item" : {
@@ -1893,8 +2014,9 @@
         "value" : "ecovillage"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q97"
+        "value" : "Ecovillage"
       }
     }, {
       "item" : {
@@ -1918,8 +2040,9 @@
         "value" : "squatted_place"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q98"
+        "value" : "Squat"
       }
     }, {
       "item" : {
@@ -1943,8 +2066,9 @@
         "value" : "local_farmersmarket"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q44"
+        "value" : "Marché de producteurs locaux"
       }
     }, {
       "item" : {
@@ -1968,8 +2092,9 @@
         "value" : "vegetable_box"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q45"
+        "value" : "Paniers légumes"
       }
     }, {
       "item" : {
@@ -1993,8 +2118,9 @@
         "value" : "food_cooperative"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q48"
+        "value" : "Coopérative alimentaire"
       }
     }, {
       "item" : {
@@ -2018,8 +2144,9 @@
         "value" : "fairtrade_shop"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q50"
+        "value" : "Magasin équitable"
       }
     }, {
       "item" : {
@@ -2043,8 +2170,9 @@
         "value" : "foodrescue_distribution"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q53"
+        "value" : "Point de distribution pour le partage de nourriture"
       }
     }, {
       "item" : {
@@ -2068,8 +2196,9 @@
         "value" : "agroecology_education"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q58"
+        "value" : "Education à l’agroécologie"
       }
     }, {
       "item" : {
@@ -2093,8 +2222,9 @@
         "value" : "foodpolicy_council"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q60"
+        "value" : "Conseil de politiques alimentaires"
       }
     }, {
       "item" : {
@@ -2118,8 +2248,9 @@
         "value" : "food_souvereignity"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q61"
+        "value" : "Initiative Souveraineté alimentaire"
       }
     }, {
       "item" : {
@@ -2143,8 +2274,9 @@
         "value" : "permaculture_education"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q62"
+        "value" : "Education à la permaculture"
       }
     }, {
       "item" : {
@@ -2168,8 +2300,9 @@
         "value" : "schoolgarden"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q63"
+        "value" : "Jardins scolaires"
       }
     }, {
       "item" : {
@@ -2193,8 +2326,9 @@
         "value" : "slowfood"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q65"
+        "value" : "Slow Food"
       }
     }, {
       "item" : {
@@ -2205,6 +2339,11 @@
         "type" : "uri",
         "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
       },
+      "description" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Le commerce équitable est un mouvement social de producteurs dans les pays en voie de développement pour obtenir de meilleures conditions d'échange. Il promeut des prix équitables et élevés et l'amélioration sociale et environnementale"
+      },
       "subclass_of" : {
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q8"
@@ -2214,8 +2353,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q10"
+        "value" : "Commerce Equitable"
       }
     }, {
       "item" : {
@@ -2226,6 +2366,11 @@
         "type" : "uri",
         "value" : "https://www.wikidata.org/wiki/Q188485"
       },
+      "description" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Le commerce équitable est un mouvement social de producteurs dans les pays en voie de développement pour obtenir de meilleures conditions d'échange. Il promeut des prix équitables et élevés et l'amélioration sociale et environnementale"
+      },
       "subclass_of" : {
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q8"
@@ -2235,8 +2380,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q10"
+        "value" : "Commerce Equitable"
       }
     }, {
       "item" : {
@@ -2260,8 +2406,9 @@
         "value" : "socialinclusion_employment"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q108"
+        "value" : "Entreprises d'Insertion Sociale"
       }
     }, {
       "item" : {
@@ -2285,8 +2432,9 @@
         "value" : "foodbank"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q111"
+        "value" : "Banque Alimentaire"
       }
     }, {
       "item" : {
@@ -2310,8 +2458,9 @@
         "value" : "coworking"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q114"
+        "value" : "Coworking"
       }
     }, {
       "item" : {
@@ -2335,8 +2484,9 @@
         "value" : "business_incubators"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q115"
+        "value" : "Incubateurs d'entreprises"
       }
     }, {
       "item" : {
@@ -2360,8 +2510,9 @@
         "value" : "communitycurrency"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q121"
+        "value" : "Monnaie locale"
       }
     }, {
       "item" : {
@@ -2385,8 +2536,9 @@
         "value" : "microfinance"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q122"
+        "value" : "Microfinance"
       }
     }, {
       "item" : {
@@ -2410,8 +2562,9 @@
         "value" : "mutual_insurance"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q123"
+        "value" : "Assurance mutualiste"
       }
     }, {
       "item" : {
@@ -2435,8 +2588,9 @@
         "value" : "mutual_insurance"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q123"
+        "value" : "Assurance mutualiste"
       }
     }, {
       "item" : {
@@ -2460,8 +2614,9 @@
         "value" : "solidarity_lending"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q125"
+        "value" : "Prêt solidaire"
       }
     }, {
       "item" : {
@@ -2485,8 +2640,9 @@
         "value" : "directdemocracy"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q128"
+        "value" : "Initiative de démocratie directe"
       }
     }, {
       "item" : {
@@ -2510,8 +2666,9 @@
         "value" : "participatory_budgeting"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q131"
+        "value" : "Appel à dons publics"
       }
     }, {
       "item" : {
@@ -2535,8 +2692,9 @@
         "value" : "mutualsociety_art"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q139"
+        "value" : "Sociétés mutualistes d'art"
       }
     }, {
       "item" : {
@@ -2556,8 +2714,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q15"
+        "value" : "Education & formation"
       }
     }, {
       "item" : {
@@ -2581,8 +2740,9 @@
         "value" : "community_garden"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q22"
+        "value" : "Jardins communautaires"
       }
     }, {
       "item" : {
@@ -2606,8 +2766,9 @@
         "value" : "edible_town"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q24"
+        "value" : "Villes comestibles"
       }
     }, {
       "item" : {
@@ -2631,8 +2792,9 @@
         "value" : "communitysupported_agriculture"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q25"
+        "value" : "Agriculture soutenue par la communauté"
       }
     }, {
       "item" : {
@@ -2656,8 +2818,9 @@
         "value" : "communitysupported_agriculture"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q25"
+        "value" : "Agriculture soutenue par la communauté"
       }
     }, {
       "item" : {
@@ -2681,8 +2844,9 @@
         "value" : "foodpurchasing_combine"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q36"
+        "value" : "Groupes d’achats alimentaires"
       }
     }, {
       "item" : {
@@ -2706,8 +2870,9 @@
         "value" : "foodpurchasing_combine"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q36"
+        "value" : "Groupes d’achats alimentaires"
       }
     }, {
       "item" : {
@@ -2731,8 +2896,9 @@
         "value" : "guerilla_garden"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q37"
+        "value" : "Guérilla jardinière"
       }
     }, {
       "item" : {
@@ -2756,8 +2922,9 @@
         "value" : "seed_saving"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q38"
+        "value" : "Initiative de sauvegarde des semences"
       }
     }, {
       "item" : {
@@ -2781,8 +2948,9 @@
         "value" : "seed_saving"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q38"
+        "value" : "Initiative de sauvegarde des semences"
       }
     }, {
       "item" : {
@@ -2806,8 +2974,9 @@
         "value" : "farm_shop"
       },
       "itemLabel" : {
+        "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q41"
+        "value" : "Achat direct / cycle court"
       }
     } ]
   }

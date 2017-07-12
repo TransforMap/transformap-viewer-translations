@@ -2027,292 +2027,6 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q44"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "local_farmersmarket"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Farmářský trh s místními produkty"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q45"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "vegetable_box"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Bedýnkový systém"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q48"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_cooperative"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Spotřebiltelské družstvo"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Fairtradový obchod"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Místo skupinového sdílení jídla"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Vzdělávání v agro-ekologii"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Rada pro potravinovou politiku"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Iniciativa potravinové suverenity"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Vzdělávání o permakultuře"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Školní zahrada"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "cs",
-        "type" : "literal",
-        "value" : "Slow food"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q10"
       },
       "wikipedia" : {
@@ -2957,6 +2671,292 @@
         "xml:lang" : "cs",
         "type" : "literal",
         "value" : "Přímý nákup / prodej ze dvora"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q44"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "local_farmersmarket"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Farmářský trh s místními produkty"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q45"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "vegetable_box"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Bedýnkový systém"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q48"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_cooperative"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Spotřebiltelské družstvo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Fairtradový obchod"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Místo skupinového sdílení jídla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Vzdělávání v agro-ekologii"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Rada pro potravinovou politiku"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Iniciativa potravinové suverenity"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Vzdělávání o permakultuře"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Školní zahrada"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Slow food"
       }
     } ]
   }

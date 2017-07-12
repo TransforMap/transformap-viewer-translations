@@ -860,6 +860,11 @@
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q19"
       },
+      "description" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Partnerzy projektu SSEDAS, którzy współtworzą mapę SUSY."
+      },
       "subclass_of" : {
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q8"
@@ -869,8 +874,9 @@
         "value" : "https://base.transformap.co/entity/Q5"
       },
       "itemLabel" : {
+        "xml:lang" : "pl",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q19"
+        "value" : "Sieci partnerskie SUSY"
       }
     }, {
       "item" : {
@@ -2017,6 +2023,292 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q44"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "local_farmersmarket"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Targ z produktami lokalnych rolników"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q45"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "vegetable_box"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Program regularnych dostaw owoców i warzyw"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q48"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_cooperative"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Spółdzielnia spożywcza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Sklep z produktami Sprawiedliwego Handlu"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Punkt dzielenia się żywnością"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Edukacja z zakresu rolnictwa ekologicznego"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Rada polityki żywnościowej"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Inicjatywy na rzecz niezależności żywnościowej"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Edukacja w zakresie permakultury"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Ogród szkolny"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Slowfood"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q10"
       },
       "wikipedia" : {
@@ -2353,6 +2645,11 @@
         "type" : "uri",
         "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
       },
+      "description" : {
+        "xml:lang" : "pl",
+        "type" : "literal",
+        "value" : "Stowarzyszenia i inne rodzaje organizacji zajmujących się sztuką oraz działalnością kulturalną."
+      },
       "subclass_of" : {
         "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q18"
@@ -2366,8 +2663,9 @@
         "value" : "mutualsociety_art"
       },
       "itemLabel" : {
+        "xml:lang" : "pl",
         "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q139"
+        "value" : "Organizacje artystyczne"
       }
     }, {
       "item" : {
@@ -2650,292 +2948,6 @@
         "xml:lang" : "pl",
         "type" : "literal",
         "value" : "Zakupy u producenta / Sklepiki przy gospodarstwach"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q44"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "local_farmersmarket"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Targ z produktami lokalnych rolników"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q45"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "vegetable_box"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Program regularnych dostaw owoców i warzyw"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q48"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_cooperative"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Spółdzielnia spożywcza"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Sklep z produktami Sprawiedliwego Handlu"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Punkt dzielenia się żywnością"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Edukacja z zakresu rolnictwa ekologicznego"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Rada polityki żywnościowej"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Inicjatywy na rzecz niezależności żywnościowej"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Edukacja w zakresie permakultury"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Ogród szkolny"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "pl",
-        "type" : "literal",
-        "value" : "Slowfood"
       }
     } ]
   }

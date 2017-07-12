@@ -6,6 +6,1109 @@
     "bindings" : [ {
       "item" : {
         "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q80"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "giveaway_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "مغازه های رایگان"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q82"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "swap_market"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "بازارهای مبادله پایاپای"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q85"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q31"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "repair_cafe"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "کافه تعمیرات"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q95"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cohousing"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "cohousing"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "هم خانه"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q96"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Commune"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "commune"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "اجتماع بزرگ از مردم"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q97"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ecovillage"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "جوامعی با هدف دستیابی به توسعه پایدار محیط زیستی، اجتماعی و اقتصادی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q98"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Squatting"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "squatted_place"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "اقامت در زمین یا ساختمان رها شده"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "تجارت بی طرفانه (منصفانه)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q10"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q188485"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "تجارت بی طرفانه (منصفانه)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q108"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "socialinclusion_employment"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "گنجایش اجتماعی از طریق اشتغال"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q111"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q14"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodbank"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "بانک غذا"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q114"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q869457"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "coworking"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "همکاری"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q115"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q15"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "business_incubators"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "مراکز تجاری و رشد"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q121"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitycurrency"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "پول رایج اجتماع"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q122"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Microfinance"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "microfinance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "قرضه های کوچک"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q123"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20insurance"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutual_insurance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "بیمه مشترک"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q123"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20insurance"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q18"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutual_insurance"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "بیمه مشترک"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q125"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Solidarity%20lending"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q16"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "solidarity_lending"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "وام همبستگی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q128"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q33"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "directdemocracy"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "طرح دموکراسی مستقیم"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q131"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q34"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "participatory_budgeting"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "وجوه مشارکتی عمومی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q139"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q18"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "mutualsociety_art"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "هنر متقابل جوامع"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q15"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://www.wikidata.org/wiki/Q8434"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q8"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q5"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "تحصیلات و فعالیت"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q22"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "community_garden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "باغ اجتماع"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q24"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "edible_town"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "شهر خوراکی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "انجمن های حمایت شده کشاورزی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q25"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q9"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "communitysupported_agriculture"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "انجمن های حمایت شده کشاورزی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "چرخه خرید غذا"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q36"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpurchasing_combine"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "چرخه خرید غذا"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q37"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "guerilla_garden"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "https://base.transformap.co/entity/Q37"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q21"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "طرح صرفه جویی دانه"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q38"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "seed_saving"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "طرح صرفه جویی دانه"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q41"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "farm_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "فروشگاه مزرعه/ فروش مستقیم"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q44"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "local_farmersmarket"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "فروشگاه های مزارع محلی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q45"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "vegetable_box"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "طرح جعبه سبزیجات"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q48"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q26"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_cooperative"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "تعاونی غذا"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q50"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q10"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "fairtrade_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "مغازه های تجارت منصفانه"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q53"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q27"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodrescue_distribution"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "امتیازات توزیع اشتراک مواد غذایی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q58"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "agroecology_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "آموزش مطالعه فرآیندهای زیست محیطی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q60"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "foodpolicy_council"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "انجمن های سیاست غذایی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "ابتکار حاکمیت مواد غذایی"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "https://base.transformap.co/entity/Q62"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fa",
+        "type" : "literal",
+        "value" : "باغ های مدرسه"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "https://base.transformap.co/entity/Q65"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q100"
       },
       "subclass_of" : {
@@ -1831,1109 +2934,6 @@
         "xml:lang" : "fa",
         "type" : "literal",
         "value" : "سایر موارد"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q80"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "giveaway_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "مغازه های رایگان"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q82"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "swap_market"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "بازارهای مبادله پایاپای"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q85"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q31"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "repair_cafe"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "کافه تعمیرات"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q95"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Cohousing"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "cohousing"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "هم خانه"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q96"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Commune"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "commune"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "اجتماع بزرگ از مردم"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q97"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ecovillage"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "جوامعی با هدف دستیابی به توسعه پایدار محیط زیستی، اجتماعی و اقتصادی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q98"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Squatting"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "squatted_place"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "اقامت در زمین یا ساختمان رها شده"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q44"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "local_farmersmarket"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "فروشگاه های مزارع محلی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q45"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "vegetable_box"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "طرح جعبه سبزیجات"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q48"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_cooperative"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "تعاونی غذا"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q50"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q10"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "fairtrade_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "مغازه های تجارت منصفانه"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q53"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q27"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodrescue_distribution"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "امتیازات توزیع اشتراک مواد غذایی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q58"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "agroecology_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "آموزش مطالعه فرآیندهای زیست محیطی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q60"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpolicy_council"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "انجمن های سیاست غذایی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "ابتکار حاکمیت مواد غذایی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q62"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "باغ های مدرسه"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q65"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Fair%20trade"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "تجارت بی طرفانه (منصفانه)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q10"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q188485"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "تجارت بی طرفانه (منصفانه)"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q108"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Supported%20employment"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "socialinclusion_employment"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "گنجایش اجتماعی از طریق اشتغال"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q111"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20bank"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q14"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodbank"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "بانک غذا"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q114"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q869457"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "coworking"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "همکاری"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q115"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Business%20incubator"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q15"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "business_incubators"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "مراکز تجاری و رشد"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q121"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20currency"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitycurrency"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "پول رایج اجتماع"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q122"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Microfinance"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "microfinance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "قرضه های کوچک"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q123"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Mutual%20insurance"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutual_insurance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "بیمه مشترک"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q123"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Mutual%20insurance"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q18"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutual_insurance"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "بیمه مشترک"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q125"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Solidarity%20lending"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q16"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "solidarity_lending"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "وام همبستگی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q128"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Direct%20democracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q33"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "directdemocracy"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "طرح دموکراسی مستقیم"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q131"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Participatory%20budgeting"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q34"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "participatory_budgeting"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "وجوه مشارکتی عمومی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q139"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Mutual%20organization"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q18"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "mutualsociety_art"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "هنر متقابل جوامع"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q15"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://www.wikidata.org/wiki/Q8434"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q8"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q5"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "تحصیلات و فعالیت"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q22"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community%20gardening"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "community_garden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "باغ اجتماع"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q24"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodscaping"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "edible_town"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "شهر خوراکی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "انجمن های حمایت شده کشاورزی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q25"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Community-supported%20agriculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q9"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "communitysupported_agriculture"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "انجمن های حمایت شده کشاورزی"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "چرخه خرید غذا"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q36"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20conspiracy"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "foodpurchasing_combine"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "چرخه خرید غذا"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q37"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Guerrilla%20gardening"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "guerilla_garden"
-      },
-      "itemLabel" : {
-        "type" : "literal",
-        "value" : "https://base.transformap.co/entity/Q37"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q21"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "طرح صرفه جویی دانه"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q38"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Seed%20saving"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "seed_saving"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "طرح صرفه جویی دانه"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q41"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farm%20shop"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "farm_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "fa",
-        "type" : "literal",
-        "value" : "فروشگاه مزرعه/ فروش مستقیم"
       }
     } ]
   }
