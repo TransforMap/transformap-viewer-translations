@@ -1960,15 +1960,15 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q80"
+        "value" : "https://base.transformap.co/entity/Q44"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
+        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q30"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
@@ -1976,25 +1976,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "giveaway_shop"
+        "value" : "local_farmersmarket"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Tabhair - Away - Siopa"
+        "value" : "Margadh Feirmeoirí áitiúil"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q82"
+        "value" : "https://base.transformap.co/entity/Q45"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
+        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q30"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2002,25 +2002,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "swap_market"
+        "value" : "vegetable_box"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Maoiniú Lárnach"
+        "value" : "Scéim Box Glasraí"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q85"
+        "value" : "https://base.transformap.co/entity/Q48"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
+        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q31"
+        "value" : "https://base.transformap.co/entity/Q26"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2028,25 +2028,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "repair_cafe"
+        "value" : "food_cooperative"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Cafes Deisiúchán"
+        "value" : "Bia Comharchumann"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q95"
+        "value" : "https://base.transformap.co/entity/Q50"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Cohousing"
+        "value" : "https://en.wikipedia.org/wiki/Worldshop"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
+        "value" : "https://base.transformap.co/entity/Q10"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2054,25 +2054,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "cohousing"
+        "value" : "fairtrade_shop"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "tithíocht Co"
+        "value" : "Siopaí Cóirthrádála"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q96"
+        "value" : "https://base.transformap.co/entity/Q53"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Commune"
+        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
+        "value" : "https://base.transformap.co/entity/Q27"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2080,25 +2080,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "commune"
+        "value" : "foodrescue_distribution"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "commune"
+        "value" : "Foodsharing Pointí Dáilte"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q97"
+        "value" : "https://base.transformap.co/entity/Q58"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
+        "value" : "https://en.wikipedia.org/wiki/Agroecology"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2106,25 +2106,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "ecovillage"
+        "value" : "agroecology_education"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "sráidbhaile Eco"
+        "value" : "Oideachas éiceolaíocht Agro"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q98"
+        "value" : "https://base.transformap.co/entity/Q60"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Squatting"
+        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
+        "value" : "https://base.transformap.co/entity/Q28"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2132,12 +2132,116 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "squatted_place"
+        "value" : "foodpolicy_council"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "squatting"
+        "value" : "comhairlí beartas bia"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q61"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "food_souvereignity"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tionscnaimh sovereignity Bia"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q62"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Permaculture"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "permaculture_education"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "oideachas permaculture"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q63"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "schoolgarden"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "gairdíní Scoile"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q65"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q28"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "slowfood"
+      },
+      "itemLabel" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "bia mall"
       }
     }, {
       "item" : {
@@ -2795,15 +2899,15 @@
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q44"
+        "value" : "https://base.transformap.co/entity/Q80"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Farmers%27%20market"
+        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q30"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2811,25 +2915,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "local_farmersmarket"
+        "value" : "giveaway_shop"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Margadh Feirmeoirí áitiúil"
+        "value" : "Tabhair - Away - Siopa"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q45"
+        "value" : "https://base.transformap.co/entity/Q82"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Vegetable%20box%20scheme"
+        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q30"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2837,25 +2941,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "vegetable_box"
+        "value" : "swap_market"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Scéim Box Glasraí"
+        "value" : "Maoiniú Lárnach"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q48"
+        "value" : "https://base.transformap.co/entity/Q85"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20cooperative"
+        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q26"
+        "value" : "https://base.transformap.co/entity/Q31"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2863,25 +2967,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "food_cooperative"
+        "value" : "repair_cafe"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Bia Comharchumann"
+        "value" : "Cafes Deisiúchán"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q50"
+        "value" : "https://base.transformap.co/entity/Q95"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Worldshop"
+        "value" : "https://en.wikipedia.org/wiki/Cohousing"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q10"
+        "value" : "https://base.transformap.co/entity/Q12"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2889,25 +2993,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "fairtrade_shop"
+        "value" : "cohousing"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Siopaí Cóirthrádála"
+        "value" : "tithíocht Co"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q53"
+        "value" : "https://base.transformap.co/entity/Q96"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Foodsharing.de"
+        "value" : "https://en.wikipedia.org/wiki/Commune"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q27"
+        "value" : "https://base.transformap.co/entity/Q12"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2915,25 +3019,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "foodrescue_distribution"
+        "value" : "commune"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Foodsharing Pointí Dáilte"
+        "value" : "commune"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q58"
+        "value" : "https://base.transformap.co/entity/Q97"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Agroecology"
+        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q12"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2941,25 +3045,25 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "agroecology_education"
+        "value" : "ecovillage"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Oideachas éiceolaíocht Agro"
+        "value" : "sráidbhaile Eco"
       }
     }, {
       "item" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q60"
+        "value" : "https://base.transformap.co/entity/Q98"
       },
       "wikipedia" : {
         "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20policy"
+        "value" : "https://en.wikipedia.org/wiki/Squatting"
       },
       "subclass_of" : {
         "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
+        "value" : "https://base.transformap.co/entity/Q12"
       },
       "instance_of" : {
         "type" : "uri",
@@ -2967,116 +3071,12 @@
       },
       "type_of_initiative_tag" : {
         "type" : "literal",
-        "value" : "foodpolicy_council"
+        "value" : "squatted_place"
       },
       "itemLabel" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "comhairlí beartas bia"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q61"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Food%20sovereignty"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "food_souvereignity"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Tionscnaimh sovereignity Bia"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q62"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Permaculture"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "permaculture_education"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "oideachas permaculture"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q63"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Garden-based%20learning"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "schoolgarden"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "gairdíní Scoile"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q65"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Slow%20Food"
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q28"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "slowfood"
-      },
-      "itemLabel" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "bia mall"
+        "value" : "squatting"
       }
     } ]
   }

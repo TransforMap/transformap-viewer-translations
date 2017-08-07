@@ -2261,6 +2261,223 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q80"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ein Umsonstladen ist ein privates, sozial oder politisch motiviertes Projekt, wo neue oder gebrauchte Gegenstände zur kostenlosen Mitnahme bereitgestellt sowie tauschfrei mitgenommen werden können."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "giveaway_shop"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Umsonstladen"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q82"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Als Tauschbörse bezeichnet man eine Börse oder allgemeiner eine Plattform bzw. einen Ort, wo Menschen die Gelegenheit zum Tauschhandel bzw. zum kostenfreien Austausch oder gegen geringe Gebühr geboten wird."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q30"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "swap_market"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Tauschbörse"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q85"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bei einem Repair Cafe hat jede/r die Möglichkeit defekte Geräte mitzubringen und gemeinsam mit anderen zu reparieren. Und es gibt Kaffee und Kuchen dazu."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q31"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "repair_cafe"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Repair Café"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q95"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cohousing"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Co-Housing ist eine geplante Gemeinschaft, die aus privaten Wohnungen oder Häusern besteht und durch Gemeinschaftseinrichtungen ergänzt wird. Cohousing-Siedlungen fördern gemeinsame soziale Aktivitäten und Alltagsplanung."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "cohousing"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Cohousing"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q96"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Commune"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kommunen sind eine spezielle Form von Gemeinschaften, die meist gemeinsame Ökonomie praktizieren, nach dem Konsensprinzip entscheiden und an einem Platz leben, der in vielen Fällen Gemeinschaftseigentum ist."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "commune"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kommune"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q97"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Als Ökodorf wird ein Dorf oder Stadtteil bezeichnet, das bzw. der an ökologischen Kriterien wie der Nachhaltigkeit ausgerichtet ist."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "ecovillage"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ökodorf"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q98"
+      },
+      "wikipedia" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Squatting"
+      },
+      "description" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Eine Hausbesetzung ist die Inbesitznahme eines fremden, leerstehenden Gebäudes und seine Verwendung als Wohnraum oder Veranstaltungsraum. In den meisten Fällen erfolgt sie gegen den Willen oder ohne Berücksichtigung des Willens des Eigentümers."
+      },
+      "subclass_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q12"
+      },
+      "instance_of" : {
+        "type" : "uri",
+        "value" : "https://base.transformap.co/entity/Q6"
+      },
+      "type_of_initiative_tag" : {
+        "type" : "literal",
+        "value" : "squatted_place"
+      },
+      "itemLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Hausbesetzung"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "https://base.transformap.co/entity/Q44"
       },
       "wikipedia" : {
@@ -2598,223 +2815,6 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Slow Food"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q80"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Give-away%20shop"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ein Umsonstladen ist ein privates, sozial oder politisch motiviertes Projekt, wo neue oder gebrauchte Gegenstände zur kostenlosen Mitnahme bereitgestellt sowie tauschfrei mitgenommen werden können."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "giveaway_shop"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Umsonstladen"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q82"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Time-based%20currency"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Als Tauschbörse bezeichnet man eine Börse oder allgemeiner eine Plattform bzw. einen Ort, wo Menschen die Gelegenheit zum Tauschhandel bzw. zum kostenfreien Austausch oder gegen geringe Gebühr geboten wird."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q30"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "swap_market"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Tauschbörse"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q85"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Repair%20Caf%C3%A9"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bei einem Repair Cafe hat jede/r die Möglichkeit defekte Geräte mitzubringen und gemeinsam mit anderen zu reparieren. Und es gibt Kaffee und Kuchen dazu."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q31"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "repair_cafe"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Repair Café"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q95"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Cohousing"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Co-Housing ist eine geplante Gemeinschaft, die aus privaten Wohnungen oder Häusern besteht und durch Gemeinschaftseinrichtungen ergänzt wird. Cohousing-Siedlungen fördern gemeinsame soziale Aktivitäten und Alltagsplanung."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "cohousing"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Cohousing"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q96"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Commune"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Kommunen sind eine spezielle Form von Gemeinschaften, die meist gemeinsame Ökonomie praktizieren, nach dem Konsensprinzip entscheiden und an einem Platz leben, der in vielen Fällen Gemeinschaftseigentum ist."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "commune"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Kommune"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q97"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Ecovillage"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Als Ökodorf wird ein Dorf oder Stadtteil bezeichnet, das bzw. der an ökologischen Kriterien wie der Nachhaltigkeit ausgerichtet ist."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "ecovillage"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ökodorf"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q98"
-      },
-      "wikipedia" : {
-        "type" : "uri",
-        "value" : "https://en.wikipedia.org/wiki/Squatting"
-      },
-      "description" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Eine Hausbesetzung ist die Inbesitznahme eines fremden, leerstehenden Gebäudes und seine Verwendung als Wohnraum oder Veranstaltungsraum. In den meisten Fällen erfolgt sie gegen den Willen oder ohne Berücksichtigung des Willens des Eigentümers."
-      },
-      "subclass_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q12"
-      },
-      "instance_of" : {
-        "type" : "uri",
-        "value" : "https://base.transformap.co/entity/Q6"
-      },
-      "type_of_initiative_tag" : {
-        "type" : "literal",
-        "value" : "squatted_place"
-      },
-      "itemLabel" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Hausbesetzung"
       }
     }, {
       "item" : {
